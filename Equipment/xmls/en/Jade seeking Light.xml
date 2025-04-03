@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+ <text id="summerjade_weapon_name">&lt;color=#65C7A4&gt;Glowing&lt;/color&gt;&lt;color=#FFB85C&gt; Light&lt;/color&gt;</text>
+  
+ <text id="summerjade_weapon_specialDesc">&lt;color=#FF0000&gt;WARNING: Holders with a Justice attribute of less than V will fall into a panic immediately upon completion of a suppression!&lt;/color&gt;&#13;&#10;This weapon will deal&lt;color=#FFB85C&gt;ANTLER damage equal to WHITE damage&lt;/color&gt;and&lt;color=#FFED2C&gt;STAR damage equal to PALE damage&lt;/color&gt;.&#13;&#10;For each attack, the wearer deals JADE damage equal to 1.2% of the target's current HP, ignoring the target's resistance.&lt;color=#65C7A4&gt;If "Empty yet Bright" is equipped, the damage maximum is increased by +8, and the minimum is increased by +2.&lt;/color&gt;。&#13;&#10;&lt;color=#FFED2C&gt;If "Starlight" is equipped, the maximum and minimum damage values are increased by +4 each.&#13;&#10;If "Starlight" is equipped, damage max +4, min +4. Minimum +4.&#13;&#10;On a hit, if the target's WHITE resistance is less than 0.2, it is modified to 0.2 for the rest of the day.&#13;&#10;When hit, the wielder recovers HP equal to 2.6% of current SP &#13;&#10;and SP equal to 2.6% of maximum SP.&#13;&#10;This weapon has a 12% chance of dealing an enhanced attack, increased further if the gift "Starlight" or "Fluttering Wings" are equipped, or both.&lt;/color&gt;</text>
+  
+ <text id="summerjade_weapon_desc">&lt;color=#65C7A4&gt;The more powerful the target hit by this weapon, the more shocking the scars left behind.&lt;/color&gt;&#13;&#10;The surface of this jade stick will always flow with a brilliant light that is hard to describe in words, and it is warm and soft to the touch, which makes people feel in awe of it.&#13;&#10;Holding a jade scale in one's hand and holding the right path in one's heart, one can hear the voice of all things, know the truth of all things, and ascend to immortality.&#13;&#10;However, if you hold this ruler and lose the justice in your heart, then unceasing bad luck will follow the unworthy, even unto death.&#13;&#10;&lt;color=#FFB85C&gt;This is the path that does not allow for even an inch of leeway, rather, it is a path that adheres to that glowing light.&lt;/color&gt;</text>
+ 
+
+ <text id="summerjade_armor_name">&lt;color=#65C7A4&gt;Empty&lt;/color&gt;&lt;color=#FFB85C&gt; yet Bright&lt;/color&gt;</text>
+
+//&lt;color=#FF0000&gt;WARNING: If the wearer's Prudence and Temperance attributes are both below V, the armor will lose power on a meltdown level change! (Unimplemented)&lt;/color&gt;&#13;&#10;
+ 
+ <text id="summerjade_armor_specialDesc">&lt;color=#FFED2C&gt;If the wearer is out of control, if their SP is more than 30% of it's maximum value, the out of control state is removed. If "Glowing Light" is equipped, it reduces all four resistances by an additional 0.2.&#13;&#10;When the wearer's SP is above 50%, damage from HE-level or lower abnormalities is greatly reduced.&#13;&#10;When the wearer's SP is below 20%, the WHITE damage taken will be increased by 50%.&lt;/color&gt;</text>
+  
+ <text id="summerjade_armor_desc">&lt;color=#65C7A4&gt;The texture of this armor is surprisingly thin and soft, and when worn, it can break through illusions, prevent evil forces, and keep the spirit clear.&lt;/color&gt;&#13;&#10;However, the expensive decorations on the surface of the protective clothing must not be removed without a trial, for such a greedy act will immediately cause the protective clothing to violently reject the wearer and lose its original power.&#13;&#10;&lt;color=#FFB85C&gt;The hermit leaves for the sky on the white crane, leaving an empty yet bright mark behind.&lt;/color&gt;</text>
+ 
+
+ <text id="summerjade_gift_name">&lt;color=#FFB85C&gt;Starlight&lt;/color&gt;</text>
+ <text id="summerjade_gift_Desc">&lt;color=#FFED2C&gt;SP+6, Work Success Rate +3, Movement Speed +3, Attack Speed +6&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;If wielding "Glowing Light" and wearing "Empty yet Bright", and if the attack speed of the wearer is 150 or more, the wearer has a 6% chance to use a special attack for every attack.&#13;&#10;This gift is derived from the vessel of Hallownest, Jade Seeking Light. (This is a published skin, available on Bilibili.)&lt;/color&gt;&#13;&#10;&lt;color=#FFFEC8&gt;Yin and Yang are in harmony, and the stars are shining brightly.&lt;/color&gt;</text>
+ 
+ <text id="summerjade_gift2_name">&lt;color=#65C7A4&gt;Fluttering Wings&lt;/color&gt;</text>
+ <text id="summerjade_gift2_Desc">&lt;color=#FFED2C&gt;HP-18, SP+12, Work Success Rate +6, Movement Speed +6, Attack Speed +12&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;If wielding "Glowing Light" and wearing "Empty yet Bright", the RED damage received is converted to 0.75 times PALE damage.&#13;&#10;If the HP of the employee exceeds 200, the greedy employee will suffer calamity.&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;Lament my short life and envy the endless flow of the Great River.&lt;/color&gt;</text>
+
+ <text id="summerjade_gift3_name">&lt;color=#FFED2C&gt;Summer Night Jade&lt;/color&gt;</text>
+ <text id="summerjade_gift3_Desc">&lt;color=#FFED2C&gt;HP-6, SP+16, Work Success Rate +8, Movement Speed +4, Attack Speed +4&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;If wielding "Glowing Light" and wearing "Empty yet Bright", open the Star Portal at the start and destination (up to one pair at a time) when receiving the move command.&#13;&#10;This gift is derived from the iterator from Rain World,SummerNightJade.&lt;/color&gt;&#13;&#10;&lt;color=#20594B&gt;Rest in eternal peace, my friend.&lt;/color&gt;</text>
+ 
+ <text id="summerjade_0armor_name">Empty Failure</text>
+ <text id="summerjade_0armor_desc">The texture of this armor is still light and soft, but no longer is effective at maintaining mental clarity.&#13;&#10;Even if you reattach the ornaments hanging from the surface of the armor, the original functionality will not be restored.&#13;&#10;Only the emptiness of failure remains.</text>
+</localize>

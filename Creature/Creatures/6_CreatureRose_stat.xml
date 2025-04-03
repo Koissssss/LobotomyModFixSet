@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <stat>
+    <hp>320</hp>
+    <speed>0</speed>
+
+    <defense id="1">
+      <defenseElement type="R">0.2</defenseElement>
+      <defenseElement type="W">1.3</defenseElement>
+      <defenseElement type="B">1.4</defenseElement>
+      <defenseElement type="P">1.5</defenseElement>
+    </defense>
+    
+  </stat>
+
+  <anim prefab="Custom/NullAnimForModPack_33128" x="-1" y="-2"/>
+
+  <attackType openLevel="1">RED</attackType>
+  <riskLevel openLevel="1">HE</riskLevel>
+  
+  <script>CreatureRose</script>
+</creature>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="EternalFlower_weapon_name">Presente da Eternidade</text>
+<text id="EternalFlower_weapon_no">Eterno</text>
+<text id="EternalFlower_weapon_desc">Há muitas, muitas coisas desconhecidas, mesmo no meio da eternidade...</text>
+<text id="EternalFlower_weapon_sdesc">Para cada 15 pontos de dano causados ​​por esta Arma E.G.O., o portador ganha uma pilha de 'Verdade'. "Contemple a verdade dentro desta eternidade."
+Cada pilha de 'Verdade' aumenta o PS máximo do portador em 3 pontos, e cada 10 pilhas de 'Verdade' aumentam o dano causado em 25%. "Ganhe poder da verdade."
+Quando o portador possui a Chave para 'Verdade', cada dano causado restaurará os valores de PS e PV do nível de 'Verdade' que ele possui.
+O número máximo de pilhas que podem ser possuídas é 40, aumenta em mais 40 se Flor da Eternidade estiver presente na instalação.
+Se Flor da Eternidade estiver presente durante uma supressão, o portador se teletransporta imediatamente para a vizinhança do alvo, com um tempo de recarga de 15 segundos.</text>
+
+<text id="EternalFlower_armor_name">A Flor Perfeita</text>
+<text id="EternalFlower_armor_no">Perfeito</text>
+<text id="EternalFlower_armor_desc">O conceito de "perfeição" é uma farsa. Não existe "perfeição" neste mundo...</text>
+<text id="EternalFlower_armor_special">30% de todo o dano recebido é devolvido ao atacante. "Não me toque... fique longe... não ouse deixar nem uma mancha em mim!"
+O dano causado pelo usuário é aumentado em 50% se ele estiver empunhando 'Presente da Eternidade'. "A eternidade não é sem falhas..."
+Para cada acúmulo de 'Verdade' que o usuário possui, a velocidade de movimento e o HP máximo aumentam em 3 pontos, e o número máximo de acúmulos aumenta em 60. "Verdade? Uma coisa dessas não existe, sabia..."</text>
+
+<text id="EternalFlower_gift_name">Chave para a 'Verdade''</text>
+<text id="EternalFlower_gift_desc">PS +10, Todos os Atributos +1 para cada 5 pilhas de 'Verdade' possuídas.
+A pilha máxima de 'Verdade' aumenta em 20.</text>
+<text id="EternalFlowerChild_weapon_name">“Perdido”</text>
+<text id="EternalFlowerChild_weapon_desc">Não se perca... não se esqueça...</text>
+<text id="EternalFlowerChild_weapon_sdesc">O limite superior de “verdade” que os funcionários detentores deste EGO podem obter aumenta em 20 níveis.
+Cada camada de “Verdade” aumenta a velocidade de ataque em 3 pontos adicionais.
+Cada ataque tem uma pequena chance de que o funcionário que usa a “a Flor Perfeita” obtenha a verdade.</text>
+</localize>

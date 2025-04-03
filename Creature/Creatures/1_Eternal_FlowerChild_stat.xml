@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <script>Eternal_FlowerChild</script>
+  <stat>
+    <hp>100</hp>
+    <riskLevel>3</riskLevel>
+    <speed>2</speed>
+
+    <defense id="1">
+      <defenseElement type="R">1.0</defenseElement>
+      <defenseElement type="W">1.0</defenseElement>
+      <defenseElement type="B">1.0</defenseElement>
+      <defenseElement type="P">1.0</defenseElement>
+    </defense>
+
+  </stat>
+
+  <anim prefab="Custom/NullAnimForModPack_33128" x="-1" y="1" />
+
+  <attackType openLevel="1">WHITE</attackType>
+  <riskLevel openLevel="1">WAW</riskLevel>
+
+</creature>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="755485" type="special"> 
+    <name>kyouko_weapon_name</name>
+    <desc>kyouko_gift_Desc</desc>
+    <attachPos>body_up</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <cubeSpeed>-10</cubeSpeed>
+      <hp>8</hp>
+      <attackSpeed>2</attackSpeed>
+    </bonus>
+    <sprite>3_Ophelia_Gift_1</sprite>
+  </equipment>
+  
+    <equipment id="251312" type="armor">
+    <name>kyouko_weapon_name</name>
+    <no>kyouko_armor_no</no>
+    <desc>kyouko_armor_desc</desc>
+
+    <armorId>251312</armorId>
+    <defense>
+      <defenseElement type="R">0.1</defenseElement>
+      <defenseElement type="W">0.5</defenseElement>
+      <defenseElement type="B">1.5</defenseElement>
+      <defenseElement type="P">0.8</defenseElement>
+    </defense>
+    <grade>5</grade>
+    <script>OpheliaArmor</script>
+    <maxNum>1</maxNum>
+    <specialDesc>Kyouko_armor_specialDesc</specialDesc>
+    <require type="R">5</require>
+    <require type="P">5</require>
+    <require type="level">5</require>
+  </equipment>
+  
+  <equipment id="785487" type="weapon">
+
+    <name>kyouko_weapon_name</name>
+    <desc>kyouko_weapon_desc</desc>
+    <sprite>DangoCreature_Ophelia</sprite>
+    <weaponClassType>special</weaponClassType>
+    <specialDesc>Kyouko_weapon_specialDesc</specialDesc>
+    <specialWeaponAnim>DangoCreatureWeapon_Ophelia</specialWeaponAnim>
+
+   <animation>Attack1</animation>
+   <animation>Attack2</animation>
+   <animation>Attack3</animation>
+   <animation>Attack4</animation>
+   <animation>AttackAOE</animation>
+
+    <damage type="R" min="15" max="15">
+    <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <damage type="R" min="15" max="15">
+    <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <damage type="R" min="15" max="15">
+    <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <damage type="R" min="15" max="15">
+    <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <damage type="P" min="30" max="30">
+    <soundInfo type="damage">Weapons/rapier1</soundInfo>
+    </damage>
+
+
+    <range>10</range>
+    <maxNum>2</maxNum>
+    <require type="level">5</require>
+    <require type="R">5</require>
+    <require type="P">5</require>
+    <attackSpeed>1.5</attackSpeed>
+    <grade>5</grade>
+    <script>OpheliaWeapon</script>
+  </equipment>
+</equipment_list>

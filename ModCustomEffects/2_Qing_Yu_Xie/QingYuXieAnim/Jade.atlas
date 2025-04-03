@@ -1,0 +1,258 @@
+
+Jade.png
+size: 6749,4022
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SNJ_egg2
+  rotate: false
+  xy: 2, 1972
+  size: 2048, 2048
+  orig: 2048, 2048
+  offset: 0, 0
+  index: -1
+SNJ_egg2_line
+  rotate: false
+  xy: 2052, 1972
+  size: 2048, 2048
+  orig: 2048, 2048
+  offset: 0, 0
+  index: -1
+光圈
+  rotate: false
+  xy: 2451, 547
+  size: 1423, 1423
+  orig: 1423, 1423
+  offset: 0, 0
+  index: -1
+内前大腿
+  rotate: false
+  xy: 4072, 152
+  size: 185, 398
+  orig: 185, 398
+  offset: 0, 0
+  index: -1
+内前小腿
+  rotate: false
+  xy: 3876, 1567
+  size: 201, 403
+  orig: 201, 403
+  offset: 0, 0
+  index: -1
+内后大腿
+  rotate: false
+  xy: 4649, 269
+  size: 199, 281
+  orig: 199, 281
+  offset: 0, 0
+  index: -1
+内后小腿
+  rotate: false
+  xy: 6551, 3606
+  size: 196, 414
+  orig: 196, 414
+  offset: 0, 0
+  index: -1
+发光玉石块1
+  rotate: false
+  xy: 4850, 353
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1
+发光玉石块2
+  rotate: false
+  xy: 6551, 2430
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1
+外前大腿
+  rotate: true
+  xy: 1956, 125
+  size: 216, 369
+  orig: 216, 369
+  offset: 0, 0
+  index: -1
+外前小腿
+  rotate: false
+  xy: 6551, 2629
+  size: 185, 399
+  orig: 185, 399
+  offset: 0, 0
+  index: -1
+外后大腿
+  rotate: true
+  xy: 1255, 19
+  size: 322, 343
+  orig: 322, 343
+  offset: 0, 0
+  index: -1
+外后小腿
+  rotate: false
+  xy: 6551, 3030
+  size: 186, 574
+  orig: 186, 574
+  offset: 0, 0
+  index: -1
+大堆财宝
+  rotate: false
+  xy: 2, 343
+  size: 2447, 1627
+  orig: 2447, 1627
+  offset: 0, 0
+  index: -1
+大堆财宝发光
+  rotate: false
+  xy: 4102, 2393
+  size: 2447, 1627
+  orig: 2447, 1627
+  offset: 0, 0
+  index: -1
+头部
+  rotate: true
+  xy: 2451, 37
+  size: 508, 697
+  orig: 508, 697
+  offset: 0, 0
+  index: -1
+小堆财宝
+  rotate: false
+  xy: 5434, 1509
+  size: 1204, 882
+  orig: 1204, 882
+  offset: 0, 0
+  index: -1
+小堆财宝发光
+  rotate: false
+  xy: 3876, 552
+  size: 1204, 882
+  orig: 1204, 882
+  offset: 0, 0
+  index: -1
+尾部
+  rotate: false
+  xy: 5082, 733
+  size: 259, 248
+  orig: 259, 248
+  offset: 0, 0
+  index: -1
+玉石块1
+  rotate: false
+  xy: 6498, 121
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1
+玉石块2
+  rotate: true
+  xy: 4649, 73
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1
+祥云（右侧）
+  rotate: false
+  xy: 4102, 1436
+  size: 1330, 955
+  orig: 1330, 955
+  offset: 0, 0
+  index: -1
+祥云（左侧）
+  rotate: false
+  xy: 5434, 728
+  size: 1289, 779
+  orig: 1289, 779
+  offset: 0, 0
+  index: -1
+脖子
+  rotate: true
+  xy: 1600, 43
+  size: 298, 354
+  orig: 298, 354
+  offset: 0, 0
+  index: -1
+脖子铁链
+  rotate: false
+  xy: 855, 2
+  size: 398, 339
+  orig: 398, 339
+  offset: 0, 0
+  index: -1
+臀部
+  rotate: false
+  xy: 6109, 80
+  size: 387, 238
+  orig: 387, 238
+  offset: 0, 0
+  index: -1
+虚影-星阵传送
+  rotate: false
+  xy: 4259, 359
+  size: 388, 191
+  orig: 388, 191
+  offset: 0, 0
+  index: -1
+虚影-流光尺
+  rotate: true
+  xy: 6619, 353
+  size: 373, 128
+  orig: 373, 128
+  offset: 0, 0
+  index: -1
+虚影-流光尺刺
+  rotate: false
+  xy: 4259, 166
+  size: 388, 191
+  orig: 388, 191
+  offset: 0, 0
+  index: -1
+虚影-流光尺斩
+  rotate: false
+  xy: 5082, 983
+  size: 347, 451
+  orig: 347, 451
+  offset: 0, 0
+  index: -1
+虚影-流光尺砸
+  rotate: true
+  xy: 3150, 121
+  size: 424, 512
+  orig: 424, 512
+  offset: 0, 0
+  index: -1
+角部发光
+  rotate: false
+  xy: 6109, 320
+  size: 508, 406
+  orig: 508, 406
+  offset: 0, 0
+  index: -1
+角部弱发光
+  rotate: true
+  xy: 3664, 37
+  size: 508, 406
+  orig: 508, 406
+  offset: 0, 0
+  index: -1
+身上铁链
+  rotate: true
+  xy: 2, 27
+  size: 314, 851
+  orig: 314, 851
+  offset: 0, 0
+  index: -1
+躯干
+  rotate: false
+  xy: 5082, 52
+  size: 1025, 674
+  orig: 1025, 674
+  offset: 0, 0
+  index: -1
+铜钱
+  rotate: false
+  xy: 4850, 154
+  size: 194, 197
+  orig: 194, 197
+  offset: 0, 0
+  index: -1

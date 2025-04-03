@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="113801">
+
+
+
+    <narration action="move">
+      #0 직원이 작업을 시작하러 $0의 방에 들어갑니다.
+    </narration>
+
+    <narration action="start">
+      [
+      {당사자보다 제삼자가 더 잘 압니다…}
+      {$0은 #0 직원의 일거수일투족을 관찰합니다.}
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0은 눈을 가늘게 뜨고 장난기 어린 눈으로 #0 직원을 바라봅니다.}
+      {$0은 당신의 과오를 마음에 담아두고 있습니다.}
+      ]
+    </narration>
+
+    <narration action="mid2">
+      [
+      {인간은 예외 없이 간악하고 탐욕에 사로잡힌 존재라고 $0이 생각합니다.}
+      {$0의 찬사를 받는 사람이 간혹 존재하는데, 그런 사람들이 세상에 필요합니다.}
+      ]
+    </narration>
+
+   <narration action="end">
+      [
+      {$0은 마음을 고쳐먹지 않는 소인배를 쉽게 용서하지 않습니다.}
+      {$0은 #0 직원이 떠나도 된다고 합니다.}
+      ]
+    </narration>
+  </info>
+
+  <observe level ="3">
+    <collection>
+      <codeNo openLevel ="0">T-04-111</codeNo>
+      <name openLevel ="1">방관자청</name>
+      <portrait openLevel ="4">Custom/Watcher</portrait>
+      <riskLevel openLevel ="1">WAW</riskLevel>
+      <openText>그것은 조용히 당신의 일거수일투족을 관찰합니다.&#13;&#10;말도 없고, 간섭도 없습니다.</openText>
+    
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {세상 만물을 평등하게 심판하고 인간의 행동을 관찰하는 손 모양의 환상체다. 모든 기록, 보고, 관찰, 평가는 가장 합리적이고 정확한 과정을 통해 이뤄져야 한다.&#13;&#10;이 환상체는 아무것도 먹지 않으며, 오직 한 가지 일을 위해 존재한다.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {이 환상체의 눈을 피해선 안 된다. 죄를 직면해야 한다.&#13;&#10;이 환상체는 인간의 거짓말 속에, 어리석음 속에, 탐욕 속에, 그리고 욕망 속에 살고 있다.&#13;&#10;이 환상체에겐 어떠한 변명도, 거짓말도 통하지 않는다.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {이 환상체의 눈빛은 사람들의 영혼을 관통할 수 있을 만큼 담담하고 냉정하다.&#13;&#10;이 환상체에게 접근하는 사람은 누구든지 평등하게 심판받을 것이다.&#13;&#10;이 환상체는 우리와 소통할 수 있으며, 그것은 말할 때 우렁차고 깊은 남자의 목소리를 낸다.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {이 환상체는 지금까지 단 한 번도 직원들과 의사소통하는 것을 꺼린 적이 없다. 마지막으로 그 일이 발생한 것이 몇 달 전이었을까, 몇 년 전이었을까? 아쉽게도, 그 때 이 환상체가 무슨 말을 했는지 정확히 기억하는 사람은 없다.&#13;&#10;아마 칭찬이었을 것이라고 추측할 뿐이다.&#13;&#10;어쩌면 내가 너무 멍청한 것일 수도 있고, 이 환상체가 인간을 하등한 존재로 여기는 더 높은 존재일 수도 있다. 회사 사람들을 큰 소리로 혼내는 것일 수도 있겠지.&#13;&#10;하지만 상관없다.&#13;&#10;이 환상체는 그저 하루도 쉬지 않고 관찰하고, 감시하고, 심판할 뿐이다.}
+      ]
+    </desc>
+    
+  <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">작업 결과가 좋음일 경우 클리포트 카운터가 상승하였다.</specialTip>
+      <specialTip openLevel="2" key="2">작업 중 피해를 입으면, 같은 부서에 소속된 직원들도 동일한 피해를 입었다.</specialTip>
+      <specialTip openLevel="3" key="3">작업 결과가 보통이거나 나쁨일 경우 클리포트 카운터가 높은 확률로 감소하였다.</specialTip>
+      <specialTip openLevel="4" key="4">애착 작업이 심판 작업으로 변경되며, 심판 작업을 할 때는 작업 중 피해가 P 속성으로 변경되고(피해량은 동일), 작업 결과는 좋음으로 나온다. (NE-Box가 최대 7개까지만 생성될 수 있다.)</specialTip>
+      <specialTip openLevel="5" key="5">탈출 시 해당 부서의 복도에 나타나며, 가장 가까운 직원이 있는 곳으로 이동하고 계속해서 큰 W 피해를 입힌다.</specialTip>
+      <specialTip openLevel="6" key="6">해당 장소에 있는 직원들이 모두 나가거나 패닉에 빠지면, $0은 가장 가까운 방으로 이동한다.</specialTip>
+      <specialTip openLevel="7" key="7">$0이 탈출한 이후에 관리직 직원이 WAW 등급 이상의 환상체를 직접 제압하거나 작업을 해서 작업 결과가 좋음이 나오면, $0은 공격을 중단하고 격리실로 돌아갔다.</specialTip>
+     </specialTipSize>
+
+  </observe>
+</creature>

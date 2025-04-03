@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Para_weapon_name">Blessings of the New God</text>
+<text id="Para_weapon_desc">
+His pure soul will always be with you.
+He's done so much for your sake. The least you can do is listen to his call, right?
+
+Those tiny hands gently cupped the little world they created.
+Will there be angels dancing in your dreams? Will your happiness be immortalized? Will the seeds of his love take root and spread throughout the world? ...Will everyone love him forever?
+</text>
+<text id="Para_weapon_specialDesc">Can only be equipped if the requirements are met, or if all employee statistics are rank 1.</text>
+<text id="Para_gife_name">Blessings of the New God</text>
+<text id="Para_gife_desc">SP +3, Work Success Rate +3, Movement Speed +3</text>
+<text id="Para_armor_name">Blessings of the New God</text>
+<text id="Para_armor_desc">
+A somewhat undersized E.G.O that doesn't fit the more mature, senior employees. Perhaps only pure souls can wear it properly?
+
+Please infuse my soul with love. Let it flow down my shriveled merdians, let it nourish my parched limbs and bones. Let the newborn shoots burrow of this shell that will one day die.
+Wait just a bit longer. Then, take my hand, and we will travel to the perfect paradise called love.</text>
+<text id="Para_armor_specialDesc">When the facility is containing Palowdis,
+The equipment resistances will change to: RED - 1 WHITE - 0.4 BLACK 0.8 PALE 0.6
+When both the weapon and armor are equipped, and all of the employee's statistics are rank 1, they will be unable to die or panic from taking damage.
+The first time the wearer's HP or SP would reach zero each day, they will survive instead. For the rest of the day, the employee will be unable to participate in suppressions.
+Can only be equipped if the requirements are met, or if all employee statistics are rank 1.
+</text>
+</localize>

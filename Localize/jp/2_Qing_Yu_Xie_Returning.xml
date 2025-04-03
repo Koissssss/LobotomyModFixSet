@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">返還</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;返還&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;返還作業&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_0">財宝数の確認</text>
+  <text id="WorkProcess_Returning_1">&lt;color=#65C7A4&gt;翡翠の獬豸&lt;/color&gt;をなだめる試み</text>
+  <text id="WorkProcess_Returning_2">&lt;color=#FF0000&gt;貪欲&lt;/color&gt;を克服する試み</text>
+  <text id="WorkProcess_Returning_3">26%の財宝を返還</text>
+  <text id="WorkProcess_Returning_4">&lt;color=#F2D8C6&gt;真珠&lt;/color&gt;を宝箱に入れる</text>
+  <text id="WorkProcess_Returning_5">&lt;color=#E5BB2D&gt;コイン&lt;/color&gt;を元の場所に戻す</text>
+  <text id="WorkProcess_Returning_6">&lt;color=#65C7A4&gt;翡翠&lt;/color&gt;で隙間を埋める</text>
+  <text id="WorkProcess_Returning_7">感情状態の分析</text>
+  <text id="WorkProcess_Returning_8">損傷した&lt;color=#65C7A4&gt;翡翠&lt;/color&gt;の修復</text>
+  <text id="WorkProcess_Returning_9">&lt;color=#FFB85C&gt;鹿角&lt;/color&gt;を優しく撫でる</text>
+  <text id="WorkProcess_Returning_10">&lt;color=#CAF8DB&gt;白木蓮&lt;/color&gt;を栽培</text>
+  <text id="WorkProcess_Returning_11">&lt;color=#FFED2C&gt;星光&lt;/color&gt;の収集を開始</text>
+  <text id="WorkProcess_Returning_12">後悔の感情を解放</text>
+  <text id="WorkProcess_Returning_13">46%の財宝を返還</text>
+  <text id="WorkProcess_Returning_14">&lt;color=#65C7A4&gt;玉佩&lt;/color&gt;を修復中</text>
+  <text id="WorkProcess_Returning_15">&lt;color=#FFED2C&gt;星形のペンダント&lt;/color&gt;を組み合わせる</text>
+  <text id="WorkProcess_Returning_16">再び&lt;color=#FFB85C&gt;鹿角&lt;/color&gt;を撫でる</text>
+  <text id="WorkProcess_Returning_17">&lt;color=#FF0000&gt;贖罪&lt;/color&gt;の祈祷中</text>
+  <text id="WorkProcess_Returning_18">&lt;color=#FF0000&gt;返済&lt;/color&gt;の試み</text>
+  <text id="WorkProcess_Returning_19">ポケットを確認中</text>
+  <text id="WorkProcess_Returning_20">全ての財宝を返還</text>
+  <text id="WorkProcess_Returning_21">&lt;color=#FFED2C&gt;金色の星光&lt;/color&gt;を解放</text>
+  <text id="WorkProcess_Returning_22">&lt;color=#CAF8DB&gt;白木蓮&lt;/color&gt;が咲く</text>
+  <text id="WorkProcess_Returning_23">&lt;color=#65C7A4&gt;青い玉佩&lt;/color&gt;を磨く</text>
+  <text id="WorkProcess_Returning_24">&lt;color=#FFB85C&gt;淡いオレンジの鹿角&lt;/color&gt;を撫でる</text>
+  <text id="WorkProcess_Returning_25">再び&lt;color=#FF0000&gt;贖罪&lt;/color&gt;のために祈る</text>
+  <text id="WorkProcess_Returning_26">返還完了</text>
+
+ <text id="Escape_Speech">&lt;color=#FF0000&gt;悪しき者は私の心を裏切り、欲深い者は私の大切なものを奪った。今、私は彼らを懲らしめるために出ていく。そうすることでしか、私の心の中の恨みを晴らすことはできない。&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_1">&lt;color=#FFB85C&gt;私は復讐に執念を燃やしていたが、世界の複雑な問題に足を取られていた。&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_2">&lt;color=#FFB85C&gt;私の肉体は滅びて塵と化したが、憎しみは消えない。&lt;/color&gt;</text>
+
+</localize>

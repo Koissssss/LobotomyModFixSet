@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="299732" type="armor">
+    <name>Foehn_Armor_Name</name>
+    <desc>Foehn_Armor_Desc</desc>
+    <armorId>299732</armorId>
+
+    <require type="R">3</require>
+    <require type="P">3</require>
+
+    <defense>
+      <defenseElement type="R">0.4</defenseElement>
+      <defenseElement type="W">0.4</defenseElement>
+      <defenseElement type="B">0.6</defenseElement>
+      <defenseElement type="P">1.0</defenseElement>
+    </defense>
+
+    <grade>5</grade>
+    <maxNum>2</maxNum>
+  </equipment>
+
+   <equipment id="399732" type="weapon">
+    <name>Foehn_Weapon_Name</name>
+    <desc>Foehn_Weapon_Desc</desc>
+　 <specialDesc>Foehn_Weapon_SpecialDesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+    <specialWeaponAnim>NothingWeapon_FoehnWeapon</specialWeaponAnim>
+    <sprite>DangoCreature_FoehnWeapon</sprite>
+
+    <require type="R">5</require>
+    <require type="W">3</require>
+    <require type="B">3</require>
+    <require type="P">5</require>
+
+    <damage type="R" min="9" max="11">
+      <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <damage type="R" min="10" max="13">
+      <soundInfo type="damage">creature/NullthingSounds/Nullthing_Attack1</soundInfo>
+    </damage>
+    <damage type="R" min="14" max="14">
+      <soundInfo type="damage">creature/NullthingSounds/Nullthing_Skill3_Finish</soundInfo>
+    </damage>
+
+    <range>6</range>
+    <maxNum>1</maxNum>
+    <script>FoehnWeapon</script>
+    <attackSpeed>2.7</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+
+  <equipment id="499732" type="special">
+    <name>Foehn_Gift_Name</name>
+    <desc>Foehn_Gift_Desc</desc>
+    <attachPos>hair</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>2</hp>
+      <mental>2</mental>
+      <attackSpeed>3</attackSpeed>
+    </bonus>
+    <sprite>5_Foehn_Gift_1</sprite>
+  </equipment>
+
+</equipment_list>

@@ -1,0 +1,356 @@
+
+SummerNightJade.png
+size: 1836,3547
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 1030, 1818
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 516, 16
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 774, 16
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 902, 204
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 1160, 204
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 1288, 392
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: false
+  xy: 1030, 2076
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 1030, 1560
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1030, 1302
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+L arm 1
+  rotate: false
+  xy: 1546, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L arm 2
+  rotate: false
+  xy: 1676, 392
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 1746, 3109
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: false
+  xy: 1418, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: false
+  xy: 1418, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 1418, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Note
+  rotate: false
+  xy: 1030, 1044
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nothing_LiuGuang
+  rotate: false
+  xy: 1334, 3423
+  size: 500, 122
+  orig: 500, 122
+  offset: 0, 0
+  index: -1
+R arm 1
+  rotate: false
+  xy: 1548, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R arm 2
+  rotate: false
+  xy: 1678, 262
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: false
+  xy: 1746, 3043
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R leg 1
+  rotate: false
+  xy: 1548, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 1548, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 1030, 786
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+left_cloud
+  rotate: false
+  xy: 2, 2590
+  size: 1330, 955
+  orig: 1330, 955
+  offset: 0, 0
+  index: -1
+right_cloud
+  rotate: true
+  xy: 1334, 2578
+  size: 595, 410
+  orig: 595, 410
+  offset: 0, 0
+  index: -1
+surrounding_behind
+  rotate: false
+  xy: 2, 2076
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+surrounding_behind2
+  rotate: false
+  xy: 516, 2076
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+surrounding_behind3
+  rotate: false
+  xy: 1288, 2064
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+surrounding_behind4
+  rotate: false
+  xy: 2, 1562
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+surrounding_behind5
+  rotate: false
+  xy: 516, 1562
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+surrounding_front
+  rotate: false
+  xy: 1288, 1550
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星
+  rotate: false
+  xy: 1678, 132
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+星辰-流光尺刺
+  rotate: false
+  xy: 2, 1048
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰-流光尺刺 - 开
+  rotate: false
+  xy: 2, 1048
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰-流光尺斩
+  rotate: false
+  xy: 516, 1048
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰-流光尺斩-开
+  rotate: false
+  xy: 1288, 1036
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰-流光尺砸
+  rotate: false
+  xy: 2, 534
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰-流光尺砸- 开
+  rotate: false
+  xy: 2, 534
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+星辰覆写
+  rotate: false
+  xy: 1334, 3299
+  size: 500, 122
+  orig: 500, 122
+  offset: 0, 0
+  index: -1
+星辰覆写-开
+  rotate: false
+  xy: 1334, 3299
+  size: 500, 122
+  orig: 500, 122
+  offset: 0, 0
+  index: -1
+星辰轨迹
+  rotate: false
+  xy: 516, 340
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+星辰轨迹4
+  rotate: false
+  xy: 516, 340
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+星辰轨迹1
+  rotate: false
+  xy: 902, 334
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+星辰轨迹2
+  rotate: false
+  xy: 516, 146
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+星辰轨迹3
+  rotate: false
+  xy: 1032, 10
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+星闪
+  rotate: false
+  xy: 1030, 528
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+流光尺刺
+  rotate: false
+  xy: 516, 534
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+流光尺斩
+  rotate: false
+  xy: 1288, 522
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+流光尺砸
+  rotate: false
+  xy: 2, 8
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+覆写
+  rotate: false
+  xy: 1334, 3175
+  size: 500, 122
+  orig: 500, 122
+  offset: 0, 0
+  index: -1

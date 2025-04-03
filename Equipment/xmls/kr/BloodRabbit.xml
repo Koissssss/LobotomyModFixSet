@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="BloodRabbit_armor_name">절연의 상처</text>
+<text id="BloodRabbit_weapon_name">절연의 상처</text>
+<text id="BloodRabbit_gift_name">절연의 상처</text>
+<text id="BloodRabbit_gift_desc">체력 +8</text>
+<text id="BloodRabbit_armor_desc">어떤 직원은 이 스웨터를 입었을 때 촉촉함과 따뜻함을 동시에 느낀다고 보고했다.
+핏자국은 몸에 퍼져 나가며 마치 혈관이 만발하는 듯, 화려한 장미를 물들이듯 번져갔다.
+그러나 이 몸은 더 이상 어떤 아름다운 꽃도 받아들일 수 없었다.
+사랑하던 이를 떠나 보내며, 가슴에는 한 맺힌 슬픔과 영원한 이별만이 남았다.</text>
+<text id="BloodRabbit_weapon_desc">장미와 피의 향기가 비단결처럼 이 두 자루의 단검 위에 얽혀 있다.
+화려한 색채는 아름다운 겉모습 아래 서서히 피어나는 부패의 악취를 감추기 위한 것이다.
+전례 없는 집착은 장미의 가시를 움켜쥐고, 화려한 영원을 갈망하며 기쁘게 받아들인다.
+다음 포옹은 가장 따뜻하고 마지막이 아니길 바라는 망상에 갇힌다.
+그 가슴 뭉클한 감정은 사랑을 경험해 본 직원들에게는 너무나도 익숙한 일이다.</text>
+<text id="BloodRabbit_weapon_specialDesc">공격 시 R 5~7의 피해를 2회 줌.
+특수 공격 : 공격 시 25%의 확률로 발동. 두 자루의 단검으로 대상을 공격하여 R 9~13의 피해를 5회 부여하고, 공격 대상은 45초간 체력 회복 불가.</text>
+<text id="BloodRabbit_armor_specialDesc">E.G.O 무기 '절연의 상처' 를 착용 시 공격 대상에게 준 피해의 30%만큼 체력 회복. 대신, 다른 수단으로 받게 되는 회복 효과는 60% 감소.</text>
+</localize>

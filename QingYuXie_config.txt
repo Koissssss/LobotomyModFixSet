@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+ <Image>Pause_SummerNightJade2</Image>
+ <alpha>0.8</alpha>
+ <SummerNightJadePortal>true</SummerNightJadePortal>
+ <Heal_voiced>false</Heal_voiced>
+ <Escape_voiced>false</Escape_voiced>
+</config>
+

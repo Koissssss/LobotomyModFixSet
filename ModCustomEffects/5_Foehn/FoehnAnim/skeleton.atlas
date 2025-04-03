@@ -1,0 +1,55 @@
+
+skeleton.png
+size: 876,429
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+焚风-发光的眼睛
+  rotate: false
+  xy: 276, 222
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1
+焚风-嘴
+  rotate: false
+  xy: 276, 15
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1
+焚风-收容室工作失败特效
+  rotate: true
+  xy: 2, 2
+  size: 425, 272
+  orig: 425, 272
+  offset: 0, 0
+  index: -1
+焚风-焚炎
+  rotate: false
+  xy: 476, 222
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1
+焚风-爪子（大）
+  rotate: false
+  xy: 476, 15
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1
+焚风-爪子（小）
+  rotate: false
+  xy: 676, 222
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1
+焚风-躯干主体
+  rotate: false
+  xy: 676, 15
+  size: 198, 205
+  orig: 198, 205
+  offset: 0, 0
+  index: -1

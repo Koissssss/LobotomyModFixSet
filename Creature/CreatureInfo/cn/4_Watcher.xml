@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="113801">
+
+
+
+    <narration action="move">
+      #0被派往$0的收容单元 
+    </narration>
+
+    <narration action="start">
+      [
+      {当局者迷，旁观者清...}
+      {$0在观察#0的一举一动。}
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0眯起眼睛，用戏谑的眼神看着#0}
+      {$0将量衡你的过错。}
+      ]
+    </narration>
+
+    <narration action="mid2">
+      [
+      {人类无一例外都是狡诈贪婪的存在，$0这么想着。}
+      {会有被$0赞许的人，只不过那些人万里挑一。}
+      ]
+    </narration>
+
+   <narration action="end">
+      [
+      {$0不会轻易饶恕任何没有改过之心的小人。}
+      {$0允许#0离开了。}
+      ]
+    </narration>
+  </info>
+
+  <observe level ="3">
+    <collection>
+      <codeNo openLevel ="0">T-04-111</codeNo>
+      <name openLevel ="1">旁观者清</name>
+      <portrait openLevel ="4">Custom/Watcher</portrait>
+      <riskLevel openLevel ="1">WAW</riskLevel>
+      <openText>它就静静地观测你的一举一动。
+没有言语，也没有干涉。</openText>
+    
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {这是一个平等审判世间万物，观测着人类行为举止的手型异想体。对它的任何记录报告，观测评估都要以最理性最正确的方式记录。&#13;&#10;它不以任何事物维持生存，它存在于世间所做的事只有一个。}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {不要避开它的视线，你在为你自己的罪行开脱。&#13;&#10;它就活在人类的谎言中，愚笨中，贪婪中，欲望中。&#13;&#10;任何对它的狡辩和谎言都对他无用。}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {【它的眼神平淡且冷酷，可以穿透你的灵魂。&#13;&#10;任何接近它的人都会被它一视同仁地审判。&#13;&#10;它拥有能与我们沟通的能力，当他说话时，整个公司都可以听见洪亮的低沉男声。}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {只不过它从来都不屑于与我们沟通，上一次这种情况发生在几个月，还是几年前？没人记得清那次它说的什么了。&#13;&#10;大概是赞许吧，我想。&#13;&#10;亦或者我太愚笨，它也许就是视人类为低劣生物的高等存在。它也可能在大声训斥着整个公司的人吧？&#13;&#10;但它从不在乎。&#13;&#10;它观察着，监视着，审判着，日复一日，一刻不歇...}
+      ]
+    </desc>
+    
+  <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">当对$0的工作结果为优时，$0的逆卡巴拉计数器将提升至最大值（计数器上限为3）。</specialTip>
+      <specialTip openLevel="2" key="2">如果员工在对$0的工作中受到工作伤害，那么$0所属部门的所有其他员工都会受到等量伤害（即便离开该部门）。</specialTip>
+      <specialTip openLevel="3" key="3">当对$0的工作结果为良或差时，$0的逆卡巴拉计数器大概率将在倒计时后减少。</specialTip>
+      <specialTip openLevel="4" key="4">对$0的沟通工作被替换为审判工作，进行审判工作的员工受到的工作伤害替换为灵魂伤害，且工作结果必定为优。（如果BE-BOX已经产出7个，则后续只会产出PE-BOX）</specialTip>
+      <specialTip openLevel="5" key="5">当$0的逆卡巴拉计数器归零时，$0将出逃并出现在该部门所属区域的背景中，移动到最近一名员工所处的区域内并持续造成较大量精神伤害。</specialTip>
+      <specialTip openLevel="6" key="6">当该区域内的员工全部离开或陷入恐慌时，$0将移动到另一个最近的房间。</specialTip>
+      <specialTip openLevel="7" key="7">当该部门员工对一WAW等级异想体工作结果为优或镇压一只异想体后，$0会停止攻击并自行回到收容单元内。</specialTip>
+     </specialTipSize>
+
+  </observe>
+</creature>

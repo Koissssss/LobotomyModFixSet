@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+<equipment id="213778" type="weapon">
+
+    <name>Para_weapon_name</name>
+    <no>Para_weapon_no</no>
+    <desc>Para_weapon_desc</desc>
+    <specialDesc>Para_weapon_specialDesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+    <specialWeaponAnim>DeathAngelWeapon_Para</specialWeaponAnim>
+    <sprite>Censored_ParaWeapon</sprite>
+
+    <animation>Attack1</animation>
+
+    <require type="P">3</require>
+
+    <damage type="P" min="4" max="5">
+    </damage>
+    <damage type="P" min="4" max="5">
+    </damage>
+    <damage type="P" min="4" max="5">
+    </damage>
+
+    <range>80</range>
+
+    <maxNum>2</maxNum>
+
+    <attackSpeed>1.2</attackSpeed>
+    <grade>4</grade>
+    <script>ParaWeapon</script>
+  </equipment>
+  <equipment id="213888" type="special">
+    <name>Para_gife_name</name>
+    <desc>Para_gife_desc</desc>
+    <attachPos>headback</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <workProb>3</workProb>
+      <movement>3</movement>
+      <attackSpeed>3</attackSpeed>
+    </bonus>
+    <sprite>9_Palowdis_Gift_1</sprite>
+  </equipment>
+
+  <equipment id="213998" type="armor">
+    <name>Para_armor_name</name>
+    <no>Para_armor_no</no>
+    <desc>Para_armor_desc</desc>
+    <specialDesc>Para_armor_specialDesc</specialDesc>
+    <require type="W">3</require>
+    <require type="B">3</require>
+
+    <armorId>2140002</armorId>
+    <defense>
+      <defenseElement type="R">1.0</defenseElement>
+      <defenseElement type="W">0.6</defenseElement>
+      <defenseElement type="B">0.8</defenseElement>
+      <defenseElement type="P">1</defenseElement>
+    </defense>
+    <script>ParaArmor</script>
+    <grade>4</grade>
+    <maxNum>1</maxNum>
+  </equipment>
+</equipment_list>

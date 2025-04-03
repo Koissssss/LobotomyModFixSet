@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  <equipment id="27202" type="armor">
+    <name>EternalFlower_armor_name</name>
+    <no>EternalFlower_armor_no</no>
+    <desc>EternalFlower_armor_desc</desc>
+    <specialDesc>EternalFlower_armor_special</specialDesc>
+
+    <armorId>27202</armorId>
+	
+    <require type="R">5</require>
+    <require type="W">5</require>
+    <require type="B">5</require>
+	
+    <defense>
+      <defenseElement type="R">0.5</defenseElement>
+      <defenseElement type="W">0.2</defenseElement>
+      <defenseElement type="B">0.5</defenseElement>
+      <defenseElement type="P">1.0</defenseElement>
+    </defense>
+    <grade>5</grade>
+    <script>EternalFlower_armor</script>
+    <maxNum>1</maxNum>
+  </equipment>
+  <equipment id="27102" type="weapon">
+    <name>EternalFlower_weapon_name</name>
+    <no>EternalFlower_weapor_no</no>
+    <desc>EternalFlower_weapon_desc</desc>
+    <specialDesc>EternalFlower_weapon_sdesc</specialDesc>
+
+    <require type="R">5</require>
+    <require type="W">5</require>
+    <require type="B">5</require>
+
+    <weaponClassType>special</weaponClassType>
+    <specialWeaponAnim>BlueStarWeapon_EternalFlower</specialWeaponAnim>
+    <sprite>BlueStar_EternalFlower</sprite>
+
+    <animation>Attack_01</animation>
+    <animation>Attack_02</animation>
+    <animation>Attack_03</animation>
+    <animation>Attack_04</animation>
+    <animation>Attack_05</animation>
+
+    <damage type="W" min="5" max="8">
+    </damage>
+    <damage type="W" min="8" max="12">
+    </damage>
+    <damage type="W" min="10" max="13">
+    </damage>
+    <damage type="B" min="5" max="12">
+    </damage>
+    <range>30</range>
+
+    <script>EternalFlower_weapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>0.75</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+  <equipment id="27302" type="special"> 
+    <name>EternalFlower_gift_name</name>
+    <desc>EternalFlower_gift_desc</desc> 
+    <attachPos>head</attachPos> 
+    <attachType>add</attachType>
+    <bonus>
+      <mental>10</mental>
+    </bonus>
+    <sprite>1_Eternal_Flower_Gift_1</sprite>
+  </equipment>
+  <equipment id="27402" type="weapon">
+    <name>EternalFlowerChild_weapon_name</name>
+    <desc>EternalFlowerChild_weapon_desc</desc>
+    <specialDesc>EternalFlowerChild_weapon_sdesc</specialDesc>
+
+    <require type="R">4</require>
+    <require type="W">4</require>
+    <require type="B">4</require>
+
+    <weaponClassType>special</weaponClassType>
+    <specialWeaponAnim>BlueStarWeapon_EternalFlowerChild</specialWeaponAnim>
+    <sprite>BlueStar_EternalFlowerChild</sprite>
+
+    <animation>Attack_01</animation>
+
+    <damage type="B" min="4" max="6">
+    </damage>
+    <range>20</range>
+
+    <script>EternalFlowerChild_weapon</script>
+    <maxNum>5</maxNum>
+    <attackSpeed>1</attackSpeed>
+    <grade>4</grade>
+  </equipment>
+  <equipment id="27502" type="armor">
+    <name>EternalFlowerChild_armor_name</name>
+    <desc>EternalFlowerChild_armor_desc</desc>
+    <specialDesc>EternalFlowerChild_armor_sdesc</specialDesc>
+
+    <armorId>27502</armorId>
+	
+    <require type="R">4</require>
+    <require type="W">5</require>
+    <require type="B">4</require>
+	
+    <defense>
+      <defenseElement type="R">0.5</defenseElement>
+      <defenseElement type="W">0.4</defenseElement>
+      <defenseElement type="B">0.6</defenseElement>
+      <defenseElement type="P">1.3</defenseElement>
+    </defense>
+    <grade>4</grade>
+    <script>EternalFlowerChild_armor</script>
+    <maxNum>5</maxNum>
+  </equipment>
+</equipment_list>

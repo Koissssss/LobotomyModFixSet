@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Watcher_weapon_name">当局者迷</text>
+<text id="Watcher_weapon_special">攻击时有10%概率恢复5点生命值。</text>
+<text id="Watcher_weapon_desc">一把深灰色的镰刀。
+镰刀上的眼睛犹如浮雕一般，但是又隐隐感觉它在盯着你。
+它会一刻不歇地盯着你的一举一动，其言行举止也会影响它的伤害。
+要使用这把武器，其使用者必须得是心灵言行澄如明镜,所作所为皆为正义的正义君子。
+虽然这把武器不如其他E.G.O武器那般强大，但它却能从另一种方式上审判着被攻击者的灵魂。
+但是,对于那些缺乏正义感的小人而言，该武器甚至可能嫌弃他以至于完全无法发挥出最大实力。</text>
+<text id="Watcher_armor_special">当使用者受到精神伤害时，有70%的概率恢复等同于伤害量三分之一的精神值</text>
+<text id="Watcher_armor_desc">用枪支攻击异想体就跟用刀割水一样毫无意义。
+尽管刀山火海也不能伤害他们分毫。
+可是他们攻击人类却犹如踩死一只蚂蚁般轻松。
+但心灵却是人类最强大的武器。
+合理运用心灵的力量,便能战无不胜。
+</text>
+<text id="Watcher_gift_Desc">最大精神值+5，受到侵蚀伤害时，恢复等同于损失精神值一半的精神值。</text>
+</localize>

@@ -1,0 +1,41 @@
+
+Flower_Attack.png
+size: 606,121
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TX_0040
+  rotate: false
+  xy: 500, 15
+  size: 104, 104
+  orig: 121, 118
+  offset: 9, 7
+  index: -1
+TX_0041
+  rotate: false
+  xy: 386, 14
+  size: 112, 105
+  orig: 122, 118
+  offset: 3, 7
+  index: -1
+TX_0042
+  rotate: false
+  xy: 265, 9
+  size: 119, 110
+  orig: 127, 123
+  offset: 2, 6
+  index: -1
+TX_0044
+  rotate: false
+  xy: 137, 12
+  size: 126, 107
+  orig: 133, 121
+  offset: 3, 7
+  index: -1
+TX_0046
+  rotate: false
+  xy: 2, 2
+  size: 133, 117
+  orig: 137, 124
+  offset: 2, 6
+  index: -1

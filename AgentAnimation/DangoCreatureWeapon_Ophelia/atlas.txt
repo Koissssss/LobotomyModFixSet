@@ -1,0 +1,321 @@
+
+Ophelia.png
+size: 931,1784
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 1012
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+CoatBack
+  rotate: false
+  xy: 776, 1526
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: false
+  xy: 776, 1268
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 518, 1155
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 490, 562
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 490, 432
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: false
+  xy: 2, 1270
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 260, 1526
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 2, 754
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+L arm 1
+  rotate: false
+  xy: 776, 1138
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L arm 2
+  rotate: false
+  xy: 426, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 813, 211
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: false
+  xy: 556, 302
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: false
+  xy: 423, 172
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 553, 172
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Note
+  rotate: false
+  xy: 260, 1268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+R arm 1
+  rotate: false
+  xy: 412, 42
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R arm 2
+  rotate: false
+  xy: 542, 42
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: false
+  xy: 813, 145
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R leg 1
+  rotate: false
+  xy: 672, 42
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 683, 172
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 518, 1526
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+daoguang
+  rotate: false
+  xy: 813, 277
+  size: 86, 83
+  orig: 86, 83
+  offset: 0, 0
+  index: -1
+ps1
+  rotate: false
+  xy: 748, 812
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps2
+  rotate: false
+  xy: 748, 662
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps3
+  rotate: false
+  xy: 748, 512
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps4
+  rotate: false
+  xy: 748, 362
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps5
+  rotate: false
+  xy: 252, 356
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps6
+  rotate: false
+  xy: 249, 206
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+ps7
+  rotate: false
+  xy: 238, 56
+  size: 172, 148
+  orig: 172, 148
+  offset: 0, 0
+  index: -1
+rans_1
+  rotate: true
+  xy: 260, 1005
+  size: 261, 242
+  orig: 261, 242
+  offset: 0, 0
+  index: -1
+rans_2
+  rotate: true
+  xy: 260, 750
+  size: 253, 234
+  orig: 253, 234
+  offset: 0, 0
+  index: -1
+rans_3
+  rotate: false
+  xy: 518, 1285
+  size: 256, 239
+  orig: 256, 239
+  offset: 0, 0
+  index: -1
+rans_4
+  rotate: false
+  xy: 252, 506
+  size: 236, 242
+  orig: 236, 242
+  offset: 0, 0
+  index: -1
+rans_5
+  rotate: true
+  xy: 504, 922
+  size: 231, 242
+  orig: 231, 242
+  offset: 0, 0
+  index: -1
+rans_6
+  rotate: true
+  xy: 2, 2
+  size: 226, 234
+  orig: 226, 234
+  offset: 0, 0
+  index: -1
+shouji21_000
+  rotate: false
+  xy: 748, 962
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+shouji21_001
+  rotate: false
+  xy: 496, 692
+  size: 239, 228
+  orig: 239, 228
+  offset: 0, 0
+  index: -1
+shouji21_002
+  rotate: false
+  xy: 2, 230
+  size: 245, 257
+  orig: 245, 257
+  offset: 0, 0
+  index: -1
+shouji21_003
+  rotate: false
+  xy: 2, 489
+  size: 248, 263
+  orig: 248, 263
+  offset: 0, 0
+  index: -1
+武器1
+  rotate: true
+  xy: 426, 434
+  size: 70, 50
+  orig: 70, 50
+  offset: 0, 0
+  index: -1
+武器2
+  rotate: true
+  xy: 906, 1691
+  size: 91, 23
+  orig: 91, 23
+  offset: 0, 0
+  index: -1
+武器3
+  rotate: false
+  xy: 238, 44
+  size: 76, 10
+  orig: 76, 10
+  offset: 0, 0
+  index: -1
+武器4
+  rotate: true
+  xy: 504, 1185
+  size: 81, 10
+  orig: 81, 10
+  offset: 0, 0
+  index: -1
+武器5
+  rotate: true
+  xy: 478, 454
+  size: 50, 10
+  orig: 50, 10
+  offset: 0, 0
+  index: -1

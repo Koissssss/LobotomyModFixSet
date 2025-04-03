@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="199732">
+
+
+
+    <narration action="move">
+      #0は$0の収容室に割り当てられました。 
+    </narration>
+
+    <narration action="mid1">
+      [
+      {部屋の暑さに#0は不快感を覚えた。}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {#0 はフェーンを観察していましたが、突然少しイライラしました。}
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {#0は呼吸に不快感を覚え始める}
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T-06-208</codeNo>
+      <portrait openLevel ="1">Custom/Foehn</portrait>
+
+      <name openLevel ="1">
+        フェーン
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText>火のような痛みを含んだ赤い風が宙を舞った。</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {街にはいつも痛みが溢れている、とても暖かい霧の風が吹き抜け、火のような霧の風が痛みを吹き飛ばしてくれる。}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {霧の風は、時として人の傷ついた心に吹き込み、その“復讐”を遂げる。}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {この部屋で働いた職員は、この部屋の外にあるものすべてに対して恐怖を抱くようになります。}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {ジャスティンとローランドは路地裏の平凡なフィクサーで、街の喧騒や複雑さに疲れ果てていた。 ある日、ふたりは仕事を切り上げ、パブで楽しい時間を過ごすことにした。 ジャスティンは3級フィクサーになろうとしていることを喜び、ローランドはジャスティンという親しい友人がこの街にいることを喜んでいた。二人はワインを飲みながら、この世の苦しさを語り合った。 しかし......この酒場......ちょっと暑いな......」。 }
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {二人の背後で火が燃え上がり、二人を焼き尽くし、酒場を破壊した。
+ああ......フェーンよ、お前は二人の苦しみを奪ったが、同時に二人の幸せも奪った。
+フェーンよ、お前は情熱的で、正義感が強く、目に見えないが、お前はただの風だ、恨みから生まれた復讐の風だ......。}
+      ]
+    </desc>
+  <specialTipSize size="3">
+      <specialTip openLevel="1" key="1">作業結果が良くても悪くても、$0のクリフォトカウンターが即座に減少しす。</specialTip>
+      <specialTip openLevel="2" key="2">施設内で 5 人の職員またはオフィサーが死亡するたびに、$0のクリフォトカウンターが即減少します。</specialTip>
+      <specialTip openLevel="3" key="3">脱走時、職員やオフィサーが$0に殺されるたびに生存時間が10秒延長され、ダメージ量が2ポイント増加する。</specialTip>
+      <specialTip openLevel="4" key="4">脱走時、何らかの幻想体が$0によって殺された場合、$0は直ちに収容室に戻り、自身のクリフォトカウンターを減少させます。</specialTip>
+      <specialTip openLevel="5" key="5">作業を終えた時、職員のHPが50%以下で作業結果が良い場合、$0のクリフォトカウンターが即座に増加した。</specialTip>
+     </specialTipSize>
+  </observe>
+</creature>

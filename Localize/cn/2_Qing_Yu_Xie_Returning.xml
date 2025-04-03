@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">归还</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;归还&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;归还工作&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_0">清点财宝数额</text>
+  <text id="WorkProcess_Returning_1">尝试安抚&lt;color=#65C7A4&gt;青玉獬&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_2">尝试克服&lt;color=#FF0000&gt;贪欲&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_3">财宝已归还26%</text>
+  <text id="WorkProcess_Returning_4">将&lt;color=#F2D8C6&gt;珍珠&lt;/color&gt;放入宝箱</text>
+  <text id="WorkProcess_Returning_5">将&lt;color=#E5BB2D&gt;钱币&lt;/color&gt;放回原位</text>
+  <text id="WorkProcess_Returning_6">用&lt;color=#65C7A4&gt;玉石&lt;/color&gt;填补空洞</text>
+  <text id="WorkProcess_Returning_7">分析情绪状态</text>
+  <text id="WorkProcess_Returning_8">修复受损&lt;color=#65C7A4&gt;玉石&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_9">轻柔抚摸&lt;color=#FFB85C&gt;鹿角&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_10">栽培&lt;color=#CAF8DB&gt;白色玉兰&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_11">开始收集&lt;color=#FFED2C&gt;星光&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_12">释放遗憾情绪</text>
+  <text id="WorkProcess_Returning_13">财宝已归还46%</text>
+  <text id="WorkProcess_Returning_14">正在修复&lt;color=#65C7A4&gt;玉佩&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_15">拼合&lt;color=#FFED2C&gt;星星吊坠&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_16">再次抚摸&lt;color=#FFB85C&gt;鹿角&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_17">正在祈祷&lt;color=#FF0000&gt;赎罪&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_18">尝试做出&lt;color=#FF0000&gt;偿还&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_19">正在检查口袋</text>
+  <text id="WorkProcess_Returning_20">归还全部财产</text>
+  <text id="WorkProcess_Returning_21">释放&lt;color=#FFED2C&gt;金色星光&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_22">绽放&lt;color=#CAF8DB&gt;白色玉兰&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_23">擦亮&lt;color=#65C7A4&gt;青色玉佩&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_24">抚摸&lt;color=#FFB85C&gt;浅橘鹿角&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_25">再次祈祷&lt;color=#FF0000&gt;赎罪&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_26">归还完成</text>
+
+  <text id="Escape_Speech">&lt;color=#FF0000&gt;贼者背我义，盗者窃我玉，我今必讨之，以平心头恨。&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_1">&lt;color=#FFB85C&gt;我本一心雪旧仇，奈何世事总相蹂。&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_2">&lt;color=#FFB85C&gt;身虽陨灭化荧火，残怨不改满登楼。&lt;/color&gt;</text>
+
+</localize>

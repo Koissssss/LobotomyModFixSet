@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="kyouko_weapon_name">自弃</text>
+  <text id="kyouko_weapon_desc">长枪所指的方向，是敌人，亦是自己。
+再一次为他人燃烧的愿望，竟也来源于自己。
+那个早已熄灭热情，放弃理想的自己。</text>
+  <text id="kyouko_armor_desc">蜡烛的燃烧从来都伴随着理由。
+赋予光亮与炽热便是其存在的意义。
+将自己的热量奉献给他人，听上去是多么愚蠢的行为。
+可也正因为有人选择愚蠢，我们才得以度过这场漫长的寒冬。</text>
+  <text id="kyouko_gift_Desc">最大生命值+8 攻击速度+2 工作速度-10</text>
+  <text id="Kyouko_weapon_specialDesc">持有者在房间中独处时，这把武器造成的伤害会翻倍。&#13;&#10;这把武器能适应不同的攻击距离并使出不同招式。&#13;&#10;10%持有者攻击时有概率发动特殊攻击，向前使用火焰并暴走一段距离。</text>
+  <text id="Kyouko_armor_specialDesc">穿戴者在进入战斗状态时，点燃房间内除自己外的所有单位。&#13;&#10;为房间内的所有员工提升0.1的物理抗性。</text>
+</localize>

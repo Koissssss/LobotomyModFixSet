@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 651,244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+叶子1
+  rotate: true
+  xy: 480, 12
+  size: 107, 83
+  orig: 107, 83
+  offset: 0, 0
+  index: -1
+叶子2
+  rotate: true
+  xy: 388, 2
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+杆子
+  rotate: true
+  xy: 2, 165
+  size: 77, 400
+  orig: 77, 400
+  offset: 0, 0
+  index: -1
+花瓣1
+  rotate: false
+  xy: 565, 37
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+花瓣2
+  rotate: true
+  xy: 206, 32
+  size: 131, 84
+  orig: 131, 84
+  offset: 0, 0
+  index: -1
+花瓣2 后
+  rotate: true
+  xy: 109, 32
+  size: 131, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+花瓣3
+  rotate: false
+  xy: 404, 121
+  size: 190, 121
+  orig: 190, 121
+  offset: 0, 0
+  index: -1
+花瓣3 后
+  rotate: true
+  xy: 2, 10
+  size: 153, 105
+  orig: 153, 105
+  offset: 0, 0
+  index: -1
+花芯
+  rotate: false
+  xy: 596, 199
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+花苞
+  rotate: false
+  xy: 292, 50
+  size: 94, 113
+  orig: 94, 113
+  offset: 0, 0
+  index: -1

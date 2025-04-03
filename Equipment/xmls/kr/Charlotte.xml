@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="Charlotte_weapon_name">집착</text>
+  <text id="Charlotte_weapon_desc">모든 과자를 독차지함에 있어 절대 포기하지 않는다. 모든 종류의 과자를 무한으로 만들 수 있지만, 가장 좋아하는 치즈케이크는 만들 수 없었다. 거품을 만들어 적을 향해 발사한다.</text>
+  <text id="Charlotte_armor_desc">모든 과자를 독차지함에 있어 절대 포기하지 않는다. 귀엽고 사랑스러운 옷은 나기사가 가장 좋아하던 옷이었다.</text>
+  <text id="Charlotte_gift_Desc">체력 +3 작업 성공률 -4 작업 속도 +10
+전투에서 벗어난 후 50초가 지나면 최대 체력으로 회복</text>
+</localize>

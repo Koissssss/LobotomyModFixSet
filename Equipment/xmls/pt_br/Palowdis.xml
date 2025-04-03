@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Para_weapon_name">Bênçãos do Novo Deus</text>
+<text id="Para_weapon_desc">
+Sua alma pura sempre estará com você.
+Ele fez tanto por você. O mínimo que você pode fazer é ouvir seu chamado, certo?
+
+Aquelas pequenas mãos gentilmente seguraram o pequeno mundo que elas criaram.
+Haverá anjos dançando em seus sonhos? Sua felicidade será imortalizada? As sementes de seu amor criarão raízes e se espalharão pelo mundo? ... Todos o amarão para sempre?
+</text>
+<text id="Para_weapon_specialDesc">Só pode ser equipado se os requisitos forem atendidos ou se todas as estatísticas do funcionário forem de nível 1.</text>
+<text id="Para_gife_name">Bênçãos do Novo Deus</text>
+<text id="Para_gife_desc">PS +3, Taxa de Sucesso de Trabalho +3, Velocidade de Movimento +3</text>
+<text id="Para_armor_name">Bênçãos do Novo Deus</text>
+<text id="Para_armor_desc">
+Um E.G.O um tanto subdimensionado que não serve para funcionários mais maduros e seniores. Talvez apenas almas puras possam usá-lo corretamente?
+
+Por favor, infunda minha alma com amor. Deixe-o fluir pelos meus merdianos enrugados, deixe-o nutrir meus membros e ossos ressecados. Deixe os brotos recém-nascidos se enterrarem nesta concha que um dia morrerá.
+Espere só mais um pouco. Então, pegue minha mão e viajaremos para o paraíso perfeito chamado amor.</text>
+<text id="Para_armor_specialDesc">Quando a instalação estiver contendo Palowdis,
+As resistências do equipamento mudarão para: VERMELHO - 1 BRANCO - 0,4 PRETO 0,8 PÁLIDO 0,6
+Quando a arma e a armadura estiverem equipadas, e todas as estatísticas do funcionário forem de nível 1, ele não poderá morrer ou entrar em pânico ao receber dano.
+A primeira vez que o PV ou PS do usuário chegar a zero a cada dia, ele sobreviverá. Pelo resto do dia, o funcionário não poderá participar de supressões.
+Só pode ser equipado se os requisitos forem atendidos, ou se todas as estatísticas do funcionário forem de nível 1.
+</text>
+</localize>

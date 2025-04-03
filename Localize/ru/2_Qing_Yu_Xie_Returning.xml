@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">Реституция</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;Реституция&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;работу на Реституцию&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_0">Подсчитывание сокровищ</text>
+  <text id="WorkProcess_Returning_1">Успокаивание &lt;color=#65C7A4&gt;Цинью Се&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_2">Преодоление &lt;color=#FF0000&gt;Жадности&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_3">26% сокровищ возвращено</text>
+  <text id="WorkProcess_Returning_4">Возвращеине &lt;color=#F2D8C6&gt;Жемчуга&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_5">Возвращеине &lt;color=#E5BB2D&gt;Монет&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_6">Возвращеине &lt;color=#65C7A4&gt;Нефрита&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_7">Анализ эмоционального состояния</text>
+  <text id="WorkProcess_Returning_8">Востановление целостности &lt;color=#65C7A4&gt;Нефрита&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_9">Ласкание &lt;color=#FFB85C&gt;Оленьих Рогов&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_10">Любование &lt;color=#CAF8DB&gt;Магнолиями&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_11">Сгущение &lt;color=#FFED2C&gt;Звёздного света&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_12">Демонстрация сожаления</text>
+  <text id="WorkProcess_Returning_13">46% сокровищ возвращено</text>
+  <text id="WorkProcess_Returning_14">Восстановление &lt;color=#65C7A4&gt;Нефритового Кулона&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_15">Восстановление &lt;color=#FFED2C&gt;Подвеску из Звёздного Света&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_16">Ласкание &lt;color=#FFB85C&gt;Оленьих Рогов&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_17">Молитва об &lt;color=#FF0000&gt;Искуплении&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_18">Возмещение &lt;color=#FF0000&gt;Ущерба&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_19">Проверка Карманов</text>
+  <text id="WorkProcess_Returning_20">Возвращение Всего</text>
+  <text id="WorkProcess_Returning_21">Высвобождение &lt;color=#FFED2C&gt;Звёздного Света&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_22">Ухаживание за &lt;color=#CAF8DB&gt;Магнолиями&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_23">Полировка &lt;color=#65C7A4&gt;Нефрита&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_24">Ласкание &lt;color=#FFB85C&gt;Оленьих Рогов&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_25">Прошение о &lt;color=#FF0000&gt;Прощении&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_26">Реституция завершена</text>
+
+  <text id="Escape_Speech">&lt;color=#FF0000&gt;Нечестивые люди предали мою веру, а жадные украли мои сокровища. 
+Теперь я выйду, чтобы наказать их. Только так я смогу избавиться от обиды, которая накопилась в моём сердце.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_1">&lt;color=#FFB85C&gt;Я приложил все усилия для свершения своей мести, но мир не менялся.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_2">&lt;color=#FFB85C&gt;Хотя мое тело погибло и обратилось блуждающим огнём, моя ненависть будет вечна.&lt;/color&gt;</text>
+
+</localize>

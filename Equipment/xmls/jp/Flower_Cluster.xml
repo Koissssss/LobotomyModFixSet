@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+<text id="Flower_Cluster_weapon_name">花序</text>
+<text id="Flower_Cluster_weapon_desc">この花々は奔放に咲き誇り、決して色あせることはない。
+香り高い花びらが、あなたを優しさの別世界へと誘う。
+長く続く香りを嗅げば、あなたと私は同じ森にいる。
+私のもとへ来て、決して枯れることのない香りを受け入れて。</text>
+<text id="Flower_Cluster_weapon_specialDesc">ダメージを与える際、10%の確率で対象に弱体効果が付加され、BLACKダメージに弱くなる。</text>
+<text id="Flower_Cluster_armor_name">色褪せない花</text>
+<text id="Flower_Cluster_armor_desc">塵の中で生まれ、塵の中に戻りたい。
+...残り香が...まだ残っている。
+人間の人形に憧れ、主人の帰りを待つ。
+緑の植物が生い茂る。</text>
+<text id="Flower_Cluster_armor_specialDesc">10秒ごとに精神力を3ポイント回復する。</text>
+<text id="Flower_Cluster_gift_name">体に花が咲く</text>
+<text id="Flower_Cluster_gift_desc">作業成功率+5
+T-04-53とT-04-53'からのダメージを20%軽減する。</text>
+</localize>

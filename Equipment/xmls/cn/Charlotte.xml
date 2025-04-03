@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="Charlotte_weapon_name">贪恋</text>
+  <text id="Charlotte_weapon_desc">想独揽全部东西，怎么样也不会死心。能无限地造出所有种类的点心，但永远不能制作最爱吃的奶酪。能够发射出痛击敌人的泡泡。</text>
+  <text id="Charlotte_armor_desc">想独揽全部东西，怎么样也不会死心。甜美可爱的衣服，是小渚最喜欢的东西。</text>
+  <text id="Charlotte_gift_Desc">工作速度+10 工作成功率-4 生命值+3
+脱战50秒后将恢复全部生命值</text>
+</localize>

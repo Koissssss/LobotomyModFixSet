@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="2140001">
+
+
+
+    <narration action="move">
+	  #0 entra na unidade de contenção de $0 para começar a trabalhar.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {Existe algo como amor incondicional?},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {$0 pergunta constantemente sobre a condição dos funcionários. "Você teve um bom dia?" "Você está com boa saúde?" "O ​​que posso fazer para ajudar você?"},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {#0 raramente viu uma Anormalidade tão submissa.},
+	  {Somente crianças bem comportadas são apreciadas pelos adultos.},
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {Aquilo é sangue nas roupas do $0? ...#0 espera que eles estejam apenas sendo paranóicos.},
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T–01–215</codeNo>
+      <portrait openLevel ="1">Custom/Para</portrait>
+
+      <name openLevel ="1">
+        Criança?
+      </name>
+      <name openLevel ="3">
+        Amor e Paraíso
+      </name>
+      <name openLevel ="4">
+        Palowdis
+      </name>
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <specialName openLevel ="1">
+      Palowdis
+      </specialName>
+      <openText>Existe algo como amor incondicional?</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {(Uma página esfarrapada registrando um conto de fadas, talvez acidentalmente derrubado por alguma criança)
+
+Era uma vez um jovem deus cujo único desejo era o amor dos outros.
+
+“Como posso fazê-los me amar?”}
+      ]
+    </desc>
+	
+	  <desc id="2" openLevel="1">
+      [
+      {Após cuidadosa observação, Ele concluiu que se ele se tornasse um salvador para aqueles que eram miseráveis, eles certamente viriam a amá-lo.
+
+"Eu perderei o amor que ganhei?"
+"...Sim, certamente. Quando você não for mais capaz de garantir a felicidade dos outros, eles o deixarão por conta própria e buscarão um ser mais poderoso."
+Então Deus criou um pequeno mundo onde havia apenas felicidade e alegria sob seu controle, onde toda corrupção, ganância e as partes obscuras da natureza humana seriam removidas. Não havia ameaça de desastres naturais, nenhuma doença, nenhum medo da morte e certamente nenhum espaço para pensamentos humanos malignos. Ele coloca pessoas que estão passando por desespero no mundo e se torna o salvador supremo de seus corações.
+
+"Eu me livrei da escuridão. Agora, posso preservar esse amor, certo?"}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {“...Isso não é verdade. O coração humano é impermanente, você não pode apagar toda a malícia dos outros, muito menos de todos que você veio a amar. Fora deste mundo maravilhoso, os seres humanos têm muito mais experiência e sabedoria do que você, e quanto mais velhos eles são, mais astutos eles se tornam.”
+Então o Deus endureceu seu coração e destruiu os humanos mais velhos - qualquer coisa além de seu poder deveria ser eliminada - e deixou apenas as crianças e adolescentes de sua idade, todos eles vivendo felizes juntos, sem pensamentos de crueldade ou malícia.
+
+“Agora que todos são como eu sou, e eu sou como todos, não serei capaz de preservar esse amor?”}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="2">
+      [
+      {Não posso mais esperar, tenho que me mover, procurar os rastros que ele deixou para trás, encontrá-lo, eu o amo tanto, não posso esperar aqui. Talvez esperar seja a coisa certa a fazer, mas não consigo! Por quê? Por que todas as coisas que amo exigem espera? Odeio esperar! É uma coisa tão cruel, esperar! Eu suportei noites longas e dias frios, ele entenderá minha persistência. Talvez meu amor por ele seja apenas história antiga, mas tenho certeza de que tudo valerá a pena e eu o encontrarei, mesmo que seja apenas uma casca quebrada!}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="3">
+      [
+      {“Ainda é muito cedo. Um mundo muito pacífico por muito tempo acabará rachando, e quando isso acontecer, até mesmo as crianças mais novas pensarão contra isso, e ninguém desejará o abrigo de tal Deus nesses éons de paz, e a palavra amor se tornará sem sentido.”
+“Mas o que eu posso fazer? Eu não quero causar um desastre...”
+E então o Deus continuou como estava até que as vozes ficaram tão altas que ele não conseguiu ignorá-las.
+
+Então ele apagou as memórias de todos e tudo voltou àquele começo feliz.
+
+“Veja, eu encontrei uma maneira sem causar tanta dor. Eu não os machuquei, eu recuperei o amor deles.”
+“...que delírio.”
+......
+Você não se importa nem um pouco. Nossos desejos, nossas emoções, nossos pensamentos e memórias não significam nada para você. Você diz que nos ama, mas nem nos ouve, que razão temos para retribuir seu amor?
+......}
+      ]
+    </desc>
+    <desc id="6" openLevel="4">
+      [
+      {“Eu os salvei do inferno, reuni amantes separados pela vida, restaurei a vida aos doentes e aflitos, dei apoio àqueles que anseiam por conhecimento, mas são pobres, dei um fim perfeito a muitas queixas, não consigo nem suportar criar qualquer conflito para machucá-los. Fiz tanto, tanto por eles...”
+......
+“E agora eles têm um motivo para me acusar só porque ignorei suas pequenas chamadas emoções! Essas pragas odiosas e verminosas que se voltaram contra as regras do meu mundo maravilhoso...”
+......
+“...Tenho que garantir que todos estejam felizes. Tenho que garantir que o mundo funcione. Tenho que garantir que sou amado. Algumas coisas precisarão ser sacrificadas, mas nenhum mundo é imune a isso. Eu deveria ter percebido isso há muito tempo.”
+......
+O amor cura tudo. Por favor, banhe-se em amor puro e viva comigo para todo o sempre!}
+      ]
+    </desc>
+
+    <specialTipSize size="6">
+      <specialTip openLevel="0" key="paranoia">$0 deve evitar aqueles que ativamente provocam conflito. Quando um funcionário conclui o trabalho em $0 com um bom resultado, o Contador Qliphoth aumentará, um coração de amor será ganho (máximo de 8) e uma camada de abrigo será aplicada ao departamento. Todas as Anormalidades e seus derivados dentro da área do abrigo terão uma pequena redução em seu PV.</specialTip>
+<specialTip openLevel="1" key="paranoia1">$0 protegerá todos no paraíso. Quando o efeito abrigo estiver no seu ponto mais forte, e o PV do funcionário chegar a 0, o funcionário não morrerá, mas suas habilidades serão drasticamente reduzidas e ele não poderá deixar o departamento.</specialTip>
+<specialTip openLevel="2" key="paranoia2">$0 trará amor a todos. Quando um funcionário do departamento de $0 começar a entrar em pânico, $0 usará 2 corações de amor para restaurar seu PS. Depois, o Qliphoth Counter será reduzido em 1.</specialTip>
+<specialTip openLevel="3" key="paranoia3">...Você aceita meu amor? Se o trabalho não for realizado em $0 pelo menos uma vez antes de um Meltdown de Qliphoth, o Contador de Qliphoth será reduzido e uma Anormalidade aleatória terá seu Contador de Qliphoth definido como 0.</specialTip>
+<specialTip openLevel="4" key="paranoia4">Por que você não está respondendo? Por que você não me ama? Quando o Qliphoth Counter chegar a zero, $0 mudará de forma. Neste ponto, o trabalho de anexo será substituído pelo trabalho de apaziguamento. Durante o trabalho de apaziguamento, o funcionário receberá de 3 a 6 pontos de dano aleatório. Se o resultado do trabalho de apaziguamento for bom, o Qliphoth Counter aumentará. Se um funcionário realizar qualquer outro tipo de trabalho ou não obtiver um bom resultado, ele morrerá.</specialTip>
+<specialTip openLevel="5" key="paranoia5">Ame-me ou morra. Se o Qliphoth Counter de $0 estiver em zero quando o dia terminar, então-</specialTip>
+    </specialTipSize>
+  </observe>
+
+</creature>

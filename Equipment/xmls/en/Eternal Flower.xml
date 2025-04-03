@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="EternalFlower_weapon_name">Gift of Eternity</text>
+<text id="EternalFlower_weapon_no">Eternal</text>
+<text id="EternalFlower_weapon_desc">There are many, many things unknown, even in the midst of eternity...</text>
+<text id="EternalFlower_weapon_sdesc">For every 15 points of damage dealt by this E.G.O. Weapon, the wielder gains a stack of 'Truth'. "Behold the truth within this eternity."
+Each stack of 'Truth' increases the wielders maximum SP by 3 points, and every 10 stacks of 'Truth' increases the damage dealt by 25%. "Gain power from the truth."
+When the holder possesses the Key to 'Truth', each damage dealt will restore the spiritual and health values of the level of 'Truth' they possess.
+The maximum numbers of stacks that can be possessed is 40, increases by 40 more if Flower of Eternity is present in the facility.
+If Flower of Eternity is present during a suppression, the wielder immediately teleports to the vicinity of the target, with a cooldown of 15 seconds.</text>
+
+<text id="EternalFlower_armor_name">The Perfect Flower</text>
+<text id="EternalFlower_armor_no">Flawless</text>
+<text id="EternalFlower_armor_desc">The concept of 'perfection' is a hoax. There's no such thing as 'perfection' in this world...</text>
+<text id="EternalFlower_armor_special">30% of all damage taken is returned to the attacker. "Don't touch me... stay away... don't you dare leave so much as a blemish on me!"
+Damage dealt by the wearer is increased by 50% if they are wielding 'Gift of Eternity'. "Eternity is not without its flaws..."
+For every stack of 'Truth' the wearer possesses, movement speed and maximum HP increases by 3 points, and the maximum number of stacks increases by 60. "Truth? Such a thing doesn't exist, you know..."</text>
+
+<text id="EternalFlower_gift_name">Key to 'Truth'</text>
+<text id="EternalFlower_gift_desc">Max SP +10, all attributes +1 for every 5 stacks of 'Truth' owned.
+'Truth' stack maximum increases by 20.</text>
+</localize>

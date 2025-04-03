@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">Restituição</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;Restituição&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;Trabalho de Restituição&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_0">Contando Tesouros</text>
+  <text id="WorkProcess_Returning_1">Acalmando o &lt;color=#65C7A4&gt;Jade Haetae&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_2">Superando a &lt;color=#FF0000&gt;Ganância&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_3">26% of Treasure Returned</text>
+  <text id="WorkProcess_Returning_4">Retornando &lt;color=#F2D8C6&gt;Perolas&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_5">Retornando &lt;color=#E5BB2D&gt;Moedas&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_6">Retornando &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_7">Analisando o Estado Emocional</text>
+  <text id="WorkProcess_Returning_8">Reparando &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_9">Acariciando &lt;color=#FFB85C&gt;Chifres&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_10">Admirando &lt;color=#CAF8DB&gt;Magnolias&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_11">Reunindo &lt;color=#FFED2C&gt;Luz Estelar&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_12">Demonstrando Arrependimento</text>
+  <text id="WorkProcess_Returning_13">46% do Tesouro Devolvido</text>
+  <text id="WorkProcess_Returning_14">Reparando &lt;color=#65C7A4&gt;Pingente de Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_15">Restaurando &lt;color=#FFED2C&gt;Pingente de Luz Estelar&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_16">Acariciando &lt;color=#FFB85C&gt;Chifres&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_17">Rezando por &lt;color=#FF0000&gt;Expiação&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_18">Fazendo &lt;color=#FF0000&gt;Reparações&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_19">Verificando Bolsos</text>
+  <text id="WorkProcess_Returning_20">Devolvendo Tudo</text>
+  <text id="WorkProcess_Returning_21">Liberando &lt;color=#FFED2C&gt;Luz Estelar&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_22">Cuidando &lt;color=#CAF8DB&gt;Magnolias&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_23">Polindo &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_24">Afagando &lt;color=#FFB85C&gt;Chifres&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_25">Pedindo por &lt;color=#FF0000&gt;Perdão&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_26">Restituição Concluída</text>
+</localize>

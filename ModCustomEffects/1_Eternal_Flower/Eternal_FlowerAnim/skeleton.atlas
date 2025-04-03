@@ -1,0 +1,146 @@
+
+skeleton.png
+size: 2244,2244
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+caihonghuiguang
+  rotate: false
+  xy: 1782, 530
+  size: 206, 206
+  orig: 206, 206
+  offset: 0, 0
+  index: -1
+guangban3
+  rotate: true
+  xy: 1782, 738
+  size: 476, 460
+  orig: 476, 460
+  offset: 0, 0
+  index: -1
+侧花1
+  rotate: false
+  xy: 2, 1730
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+侧花2
+  rotate: false
+  xy: 2, 1216
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+侧花3
+  rotate: false
+  xy: 447, 1730
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+大花
+  rotate: false
+  xy: 2, 702
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+小花1
+  rotate: false
+  xy: 447, 1216
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+小花2
+  rotate: false
+  xy: 892, 1730
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+星星点点
+  rotate: false
+  xy: 2, 188
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+根
+  rotate: false
+  xy: 447, 702
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+橙水晶
+  rotate: false
+  xy: 892, 1216
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+水晶环
+  rotate: false
+  xy: 1337, 1730
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+泡泡
+  rotate: false
+  xy: 447, 188
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+紫水晶
+  rotate: false
+  xy: 892, 702
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+红水晶
+  rotate: false
+  xy: 1337, 1216
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+茎叶
+  rotate: false
+  xy: 1782, 1730
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+虹彩
+  rotate: false
+  xy: 892, 188
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+雾
+  rotate: false
+  xy: 1337, 702
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+黄水晶
+  rotate: false
+  xy: 1782, 1216
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1
+黑水晶
+  rotate: false
+  xy: 1337, 188
+  size: 443, 512
+  orig: 443, 512
+  offset: 0, 0
+  index: -1

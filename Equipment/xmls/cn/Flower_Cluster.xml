@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+<text id="Flower_Cluster_weapon_name">花丛</text>
+<text id="Flower_Cluster_weapon_desc">这些花朵肆意绽放，永不凋零。
+芳香的花瓣，邀你前往另一处温柔的世界。
+若能嗅到经久不散的香气，你我便处于同一林中。
+到我这儿来，拥抱永不消散的馨香。</text>
+<text id="Flower_Cluster_weapon_specialDesc">造成伤害时有10%的概率给目标添加一个易伤效果，使其受到的黑色伤害加深。</text>
+<text id="Flower_Cluster_armor_name">不凋花</text>
+<text id="Flower_Cluster_armor_desc">生于尘土，欲复归于尘土。
+…余香…仍未消散。
+渴望成为人的玩偶，等待着她的主人回来。
+翠绿的植物疯狂生长着。</text>
+<text id="Flower_Cluster_armor_specialDesc">每10秒为自身恢复3点精神值。</text>
+<text id="Flower_Cluster_gift_name">花绽于身</text>
+<text id="Flower_Cluster_gift_desc">工作成功率+5
+受到来自T-04-53和T-04-53'的伤害减少20%</text>
+</localize>

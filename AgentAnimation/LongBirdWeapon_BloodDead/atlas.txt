@@ -1,0 +1,216 @@
+
+WalpurgisNight.png
+size: 3854,262
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 516, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 1806, 132
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 2064, 132
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 2322, 132
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 2580, 132
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Eye - 副本
+  rotate: false
+  xy: 2838, 132
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Eye - 副本 - 副本
+  rotate: false
+  xy: 3096, 132
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+Eye - 副本 - 副本 - 副本
+  rotate: false
+  xy: 3354, 132
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 3612, 4
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: true
+  xy: 2, 4
+  size: 256, 512
+  orig: 256, 512
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 774, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 1032, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+L arm 1
+  rotate: false
+  xy: 1806, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L arm 2
+  rotate: false
+  xy: 1936, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 3788, 87
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: false
+  xy: 2066, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: false
+  xy: 2196, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 2326, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Note
+  rotate: false
+  xy: 1290, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+R arm 1
+  rotate: false
+  xy: 2456, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R arm 2
+  rotate: false
+  xy: 2586, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: false
+  xy: 3788, 21
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R leg 1
+  rotate: false
+  xy: 2716, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 2846, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 1548, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+difeng
+  rotate: true
+  xy: 3742, 153
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+shui012_penshe_1
+  rotate: false
+  xy: 3742, 35
+  size: 44, 116
+  orig: 44, 116
+  offset: 0, 0
+  index: -1
+shui012_penshe_2
+  rotate: true
+  xy: 3415, 48
+  size: 82, 186
+  orig: 82, 186
+  offset: 0, 0
+  index: -1
+shui012_penshe_3
+  rotate: true
+  xy: 2976, 41
+  size: 89, 216
+  orig: 89, 216
+  offset: 0, 0
+  index: -1
+shui012_penshe_4
+  rotate: true
+  xy: 3194, 45
+  size: 85, 219
+  orig: 85, 219
+  offset: 0, 0
+  index: -1

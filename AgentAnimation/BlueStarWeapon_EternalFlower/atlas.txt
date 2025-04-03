@@ -1,0 +1,188 @@
+
+BlueStarWeapon.png
+size: 1247,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BlueStar_EternalFlower
+  rotate: false
+  xy: 2, 24
+  size: 316, 335
+  orig: 512, 512
+  offset: 97, 88
+  index: -1
+BlueStar_EternalFlowerChild
+  rotate: false
+  xy: 2, 361
+  size: 512, 160
+  orig: 512, 512
+  offset: 0, 176
+  index: -1
+Body
+  rotate: true
+  xy: 516, 393
+  size: 128, 256
+  orig: 256, 256
+  offset: 64, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 774, 393
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 989, 200
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: true
+  xy: 547, 7
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 320, 30
+  size: 137, 42
+  orig: 256, 128
+  offset: 59, 40
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 1238, 405
+  size: 116, 5
+  orig: 256, 128
+  offset: 66, 61
+  index: -1
+HairBack
+  rotate: false
+  xy: 320, 74
+  size: 225, 285
+  orig: 256, 512
+  offset: 15, 114
+  index: -1
+HairFront
+  rotate: true
+  xy: 547, 137
+  size: 254, 232
+  orig: 256, 256
+  offset: 2, 8
+  index: -1
+Head
+  rotate: true
+  xy: 1032, 330
+  size: 191, 204
+  orig: 256, 256
+  offset: 36, 27
+  index: -1
+L arm 1
+  rotate: true
+  xy: 459, 26
+  size: 46, 86
+  orig: 128, 128
+  offset: 38, 21
+  index: -1
+L arm 2
+  rotate: false
+  xy: 896, 2
+  size: 58, 89
+  orig: 128, 128
+  offset: 32, 20
+  index: -1
+L hand
+  rotate: false
+  xy: 1155, 13
+  size: 47, 43
+  orig: 64, 64
+  offset: 8, 12
+  index: -1
+L leg 1
+  rotate: true
+  xy: 1061, 65
+  size: 51, 92
+  orig: 128, 128
+  offset: 40, 14
+  index: -1
+L leg 2
+  rotate: true
+  xy: 956, 14
+  size: 49, 77
+  orig: 128, 128
+  offset: 40, 30
+  index: -1
+Mouth
+  rotate: false
+  xy: 516, 386
+  size: 16, 5
+  orig: 128, 128
+  offset: 57, 60
+  index: -1
+Note
+  rotate: true
+  xy: 805, 30
+  size: 105, 89
+  orig: 256, 256
+  offset: 70, 77
+  index: -1
+R arm 1
+  rotate: true
+  xy: 781, 137
+  size: 46, 86
+  orig: 128, 128
+  offset: 41, 22
+  index: -1
+R arm 2
+  rotate: true
+  xy: 1155, 58
+  size: 58, 90
+  orig: 128, 128
+  offset: 35, 19
+  index: -1
+R hand
+  rotate: true
+  xy: 1105, 19
+  size: 44, 48
+  orig: 64, 64
+  offset: 10, 9
+  index: -1
+R leg 1
+  rotate: true
+  xy: 965, 65
+  size: 51, 94
+  orig: 128, 128
+  offset: 35, 9
+  index: -1
+R leg 2
+  rotate: true
+  xy: 1035, 8
+  size: 55, 68
+  orig: 128, 128
+  offset: 36, 31
+  index: -1
+Weapon_Fist_Left
+  rotate: false
+  xy: 896, 93
+  size: 67, 90
+  orig: 256, 256
+  offset: 94, 136
+  index: -1
+小刺
+  rotate: true
+  xy: 989, 118
+  size: 80, 256
+  orig: 128, 256
+  offset: 24, 0
+  index: -1
+星云？
+  rotate: false
+  xy: 781, 185
+  size: 206, 206
+  orig: 256, 256
+  offset: 25, 25
+  index: -1

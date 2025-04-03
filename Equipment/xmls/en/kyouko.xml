@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="kyouko_weapon_name">Self-abandonment</text>
+  <text id="kyouko_weapon_desc">The direction pointed by the spear is the enemy, but also herself.
+It is hard to believe that the desire to burn for others again actually came from herself.
+The self who had long ago extinguished her passion and gave up her ideals.</text>
+  <text id="kyouko_armor_desc">The burning of candles always comes with a reason.
+Giving light and heat is the meaning of its existence.
+It sounds so stupid to dedicate your heat to others.
+But it is precisely because some people choose to be stupid that we can survive this long winter.</text>
+  <text id="kyouko_gift_Desc">HP +8 Attack Speed +2 Work Speed-10</text>
+  <text id="Kyouko_weapon_specialDesc">When is alone in a room, deals 2 times more damage&#13;&#10;Adapts different range and use different skills&#13;&#10;10%Use special attack by chance, walks forward and march for a distance</text>
+  <text id="Kyouko_armor_specialDesc">After entering battle state, ignites all the other units except for the wearer themselves&#13;&#10;Increases 0.1 of R damage resistance to all the other employees in the room</text>
+</localize>

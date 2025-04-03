@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="BloodRabbit_armor_name">Broken Heart</text>
+<text id="BloodRabbit_weapon_name">Broken Heart</text>
+<text id="BloodRabbit_gift_name">Broken Heart</text>
+<text id="BloodRabbit_gift_desc">HP +8</text>
+<text id="BloodRabbit_armor_desc">Some employees reported that wearing this fleece felt moist and warm.
+The traces of blood spread across the body, like a heart blooming and spurting out gorgeous roses.
+However, this body can no longer accept any beautiful flowers.
+Watching the beloved went away, in the end, only the heartache and farewell are left.</text>
+<text id="BloodRabbit_weapon_desc">The fragrance of roses and blood is intertwined like silk on the two daggers.
+The bright colors are just to cover up the cloying smell of corruption that is growing under the beautiful appearance.
+The unprecedented obsession holds the thorn handle of the Rose tightly, longing and happily accepting the gorgeous eternity.
+Fantasizing that the next hug is not the warmest hug, let alone the last warm hug.
+The heart-wrenching taste is very familiar to employees who have experienced love.</text>
+<text id="BloodRabbit_weapon_specialDesc">Deals 2 times of 5-7 R damage when attacking
+Uses special attack with a 25% chance. Inserts the target and deals 5 times of 9-13 R damage and causes the target to not be able to recover HP in the next 45 seconds</text>
+<text id="BloodRabbit_armor_specialDesc">When equipped E.G.O weapon Broken Heart, recovers HP with the 30% of the damage dealt. Relatively, HP recovery decreases by 60% when receive any other form of HP recovery</text>
+</localize>

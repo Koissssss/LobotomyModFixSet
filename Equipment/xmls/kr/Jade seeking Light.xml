@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="summerjade_weapon_name">&lt;color=#65C7A4&gt;물결에 비치는&lt;/color&gt; &lt;color=#FFB85C&gt;달빛&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_specialDesc">&lt;color=#FF0000&gt;경고 : 착용자의 정의 등급이 5등급 미만일 경우, 제압 작업을 종료하는 즉시 패닉에 빠짐.&lt;/color&gt;&#13;&#10;이 무기가 주는 W 속성 피해는 &lt;color=#FFB85C&gt;녹각&lt;/color&gt; 속성으로, P 속성 피해는 &lt;color=#FFED2C&gt;별빛&lt;/color&gt; 속성으로 변환됨.&#13;&#10;공격 시 대상의 현재 체력의 1.2% 만큼 &lt;color=#65C7A4&gt;옥&lt;/color&gt; 속성으로 내성을 무시하고 줌.&#13;&#10;&lt;color=#FFED2C&gt;'달에 비친 맑은 물' 을 착용 시 최소 피해량 +2, 최대 피해량 +8.&#13;&#10;'별빛' 을 착용 시 최소 피해량 +4, 최대 피해량 +4.&#13;&#10;공격 적중 시 착용자의 현재 정신력의 2.6% 만큼 체력 회복, 최대 정신력의 2.6% 만큼 정신력 회복.&#13;&#10;공격 대상의 W 내성이 0.2 미만일 경우, 하루 동안 0.2로 변경.&#13;&#10;공격 시 12%의 확률로 치명타가 발생하며, '별빛' 과 '계도' 의 장착 여부에 따라 치명타의 피해량이 증가.&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_desc">&lt;color=#65C7A4&gt;이 옥척에 맞은 대상이 강할수록 더 깊은 상처가 새겨진다.&lt;/color&gt;&#13;&#10;표면에는 말로 형용하기 어려운 광채가 항상 흐르며, 부드러운 촉감은 경외감마저 불러일으킨다.&#13;&#10;올바른 마음을 품고 옥척을 손에 들면 만물의 소리를 듣게 되고, 만물의 이치를 알게 되어 선인으로 거듭날 것이다.&#13;&#10;반대로 옥척을 들고도 평정심을 유지할 수 없으면 불운이 끝없이 따라다닐 것이며, 결국 죽음에 이르리라.&#13;&#10;&lt;color=#FFB85C&gt;물결에 비치는 달빛은 한 치의 야망도 용납하지 않는다.&lt;/color&gt;</text>
+
+
+  <text id="summerjade_armor_name">&lt;color=#65C7A4&gt;달에 비친&lt;/color&gt; &lt;color=#FFB85C&gt;맑은 물&lt;/color&gt;</text>
+
+//&lt;color=#FF0000&gt;경고 : 착용자의 지혜와 절제가 5등급 미만일 경우, 클리포트 폭주 발생 시 방어구가 약화된다. (제작 중)&lt;/color&gt;&#13;&#10;
+
+  <text id="summerjade_armor_specialDesc">&lt;color=#FFED2C&gt;통제 불능 상태에 면역이 됨. '물결에 비치는 달빛' 을 착용 시 내성 수치가 0.2 감소.&#13;&#10;착용자의 정신력이 50% 이상인 경우, HE 등급 이하의 적대 개체로부터 받는 피해가 크게 감소.&#13;&#10;착용자의 정신력이 20% 이하인 경우, 받는 W 피해량이 50% 증가.&lt;/color&gt;</text>
+
+  <text id="summerjade_armor_desc">&lt;color=#65C7A4&gt;이 방어구는 예상 외로 가볍고 부드러운 질감을 가지고 있으며, 착용 시 환상을 쫓아내고 정신을 맑게 유지하는 효과가 있다.&lt;/color&gt;&#13;&#10;그러나 방어구에 달린 값비싼 장식물을 함부로 가져가지 않도록 주의해야 한다.&#13;&#10;&lt;color=#FFB85C&gt;탐욕에 사로잡힌 행동은 방어구에 강한 거부 반응을 일으키고, 방어구는 원래의 기능을 상실하게 된다. 선인이 학을 타고 떠난 자리에 남겨진 자취가 달에 비친 맑은 물에 남는다.&lt;/color&gt;</text>
+
+
+  <text id="summerjade_gift_name">&lt;color=#FFB85C&gt;별빛&lt;/color&gt;</text>
+  <text id="summerjade_gift_Desc">&lt;color=#FFED2C&gt;정신력 +6, 작업 성공률 +3, 이동 속도 +3, 공격 속도 +6&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;'물결에 비치는 달빛' 과 '달에 비친 맑은 물' 을 착용 시, 직원의 공격 속도가 150 이상일 경우, 공격 시 6%의 확률로 특수 공격.&lt;/color&gt;&#13;&#10;&lt;color=#FFFEC8&gt;음양이 조화되어 별빛이 찬란하다.&lt;/color&gt;</text>
+
+  <text id="summerjade_gift2_name">&lt;color=#65C7A4&gt;계도&lt;/color&gt;</text>
+  <text id="summerjade_gift2_Desc">&lt;color=#FFED2C&gt;체력 -18, 정신력 +12, 작업 성공률 +6, 이동 속도 +6, 공격 속도 +12&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;'물결에 비치는 달빛' 과 '달에 비친 맑은 물' 을 착용 시, 받는 R 속성 피해가 25% 감소된 P 속성 피해로 변환됨.&#13;&#10;직원의 체력이 200을 초과한 경우, 재앙을 가져올 수 있음.&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;나의 짧은 생명에 한탄하며, 긴 강물의 무궁함을 부러워한다.&lt;/color&gt;</text>
+
+  <text id="summerjade_gift3_name">&lt;color=#FFED2C&gt;여름밤&lt;/color&gt;</text>
+  <text id="summerjade_gift3_Desc">&lt;color=#FFED2C&gt;체력 -6, 정신력 +8, 작업 성공률 +8, 이동 속도 +4, 공격 속도 +4&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;'물결에 비치는 달빛' 과 '달에 비친 맑은 물' 을 착용 시, 이동 명령을 받으면 별의 통로를 만들어 이동.&#13;&#10;이 기프트는 레인 월드의 반복자에서 유래되었다.&lt;/color&gt;&#13;&#10;&lt;color=#20594B&gt;친우의 영원한 평안을 위하여.&lt;/color&gt;</text>
+
+  <text id="summerjade_0armor_name">무효화된 공명</text>
+  <text id="summerjade_0armor_desc">이 방어구는 여전히 가볍고 부드러운 질감이 느껴지지만, 정신을 맑게 유지하는 효과를 잃었다.&#13;&#10;방어구에 달렸던 장식물을 다시 달아도 원래의 기능은 돌아오지 않는다.&#13;&#10;남은 것은 그저 공명뿐.</text>
+</localize>

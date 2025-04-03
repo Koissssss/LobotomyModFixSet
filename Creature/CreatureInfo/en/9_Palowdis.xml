@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="2140001">
+
+
+
+    <narration action="move">
+	  #0 enters $0's containment unit to begin work.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {Does such a thing as unconditional love exist?},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {$0 constantly asks about the condition of employees. "Have you had a good day?" "Are you in good health?" "What can I do to help you?"},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {#0 has rarely seen such a submissive Abnormality.},
+	  {Only well-behaved children are liked by adults.},
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {Is that blood all over $0's clothes? ...#0 hopes that they are just being paranoid.},
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T–01–215</codeNo>
+      <portrait openLevel ="1">Custom/Para</portrait>
+
+      <name openLevel ="1">
+        Child?
+      </name>
+      <name openLevel ="3">
+        Love and Paradise
+      </name>
+      <name openLevel ="4">
+        Palowdis
+      </name>
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <specialName openLevel ="1">
+      Palowdis
+      </specialName>
+      <openText>Does such a thing as unconditional love exist?</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {(A tattered page recording a fairy tale, perhaps accidentally dropped by some child)
+
+Once upon a time there was a young god whose only desire was the love of others. 
+
+“How can I make them love me?”}
+      ]
+    </desc>
+	
+	  <desc id="2" openLevel="1">
+      [
+      {After careful observation, He concluded that if he were to become a savior to those who were miserable, they would surely come to love him.
+
+“Will I lose the love I have gained?”
+“...Yes, most certainly. When you are no longer able to ensure the happiness of others, they will leave you of their own accord and seek a more powerful being.”
+So the God created a small world where there was only happiness and joy under his control, where all corruption, greed, and the dark parts about human nature would be removed. There was no threat of natural disasters, no disease, no fear of death, and certainly no room for evil human thoughts. He places people who are experiencing despair into the world and becomes the supreme savior of their hearts.
+
+“I’ve gotten rid of the darkness. Now, I can preserve this love, right?”}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {“...That isn’t true. The human heart is impermanent, you cannot possibly erase all malice from others, much less everyone who you’ve come to love. Outside of this peachy world, human beings have far more experience and wisdom than you, and the older they are, the more cunning they become.”
+So the God steeled his heart and destroyed the older humans - anything beyond his power should be wiped out - and left only the children and teenagers of his age, all of them happily living together, without thoughts of cruelty or malice.
+
+“Now that all are as I am, and I am as all, won't I be able to preserve this love?”}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="2">
+      [
+      {I cannot wait any longer, I have to move, to search for the traces he left behind, to find him, I love him so much, I cannot wait here. Maybe waiting is the right thing to do, but I can't do it! Why? Why do all the things I love require waiting? I hate waiting! It's such a cruel thing, waiting! I've endured long nights and cold days, he'll understand my persistence. Maybe my love for him is but ancient history, but I'm sure it will all pay off and I'll find him, even if it's just a broken husk!}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="3">
+      [
+      {“It's still too soon. A world too peaceful for too long will eventually crack, and when it does even the youngest of children will think against it, and no one will crave the shelter of such a God in those eons of peace, and the word love will become meaningless.”
+“But what can I do? I don’t want to cause a disaster...”
+And so the God continued as he was until the voices grew so loud, he couldn’t ignore them.
+
+So he erased everyone's memories and everything went back to that happy beginning.
+
+“You see, I found a way without causing such pain. I didn't hurt them, I regained their love.”
+“...how delusional.”
+......
+You don't care at all. Our wishes, our emotions, our thoughts and memories mean nothing to you. You say you love us but you won't even listen to us, what reason do we have to return your love?
+......}
+      ]
+    </desc>
+    <desc id="6" openLevel="4">
+      [
+      {“I have saved them from their hell, I have reunited lovers torn apart by life, I have restored life to the sick and afflicted, I have given support to those who crave for knowledge but are poor, I have drawn a perfect end to many grievances, I can't even bear to create any conflict to hurt them. I have done so much, so much for them...”
+......
+“And they now have a reason to accuse me just because I ignored their little so-called emotions! Such hateful, verminous pests who have turned against the rules of my wonderful world...”
+......
+“...I have to make sure everyone is happy. I have to make sure the world works. I have to make sure I am loved. Some things will need to be sacrificed, but no world is immune to that. I should have realized that long ago.”
+......
+Love heals all. Please bathe in pure love and live with me forever and ever!}
+      ]
+    </desc>
+
+    <specialTipSize size="6">
+      <specialTip openLevel="0" key="paranoia">$0 shall shun those who actively provoke conflict. When an employee completes work on $0 with a good result, the Qliphoth Counter will increase, a love heart will be gained(max of 8), and a layer of shelter will be applied to the department. All Abnormalities and their derivatives within the area of the shelter will have a small reduction to their HP.</specialTip>
+<specialTip openLevel="1" key="paranoia1">$0 will protect everyone in paradise. When the shelter effect is at its strongest, and the employees HP reaches 0, the employee won't die, but their abilities will be drastically reduced and they will be unable to leave the department.</specialTip>
+<specialTip openLevel="2" key="paranoia2">$0 will bring love to all. When an employee in $0's department begins to panic, $0 will use 2 love hearts to restore their SP. After, the Qliphoth Counter will reduce by 1.</specialTip>
+<specialTip openLevel="3" key="paranoia3">...Do you accept my love? If work is not performed on $0 at least once before a Qliphoth Meltdown, the Qliphoth Counter will reduce and a random Abnormality will have its Qliphoth Counter set to 0.</specialTip>
+<specialTip openLevel="4" key="paranoia4">Why aren't you responding? Why don't you love me? When the Qliphoth Counter reaches zero, $0 will change form. At this point, Attachment work will be replaced with appeasement work. During appeasement work, the employee will take 3-6 points of random damage. If the result of appeasement work is good, the Qliphoth Counter will increase. If an employee performs any other type of work, or does not get a good result, they will die.</specialTip>
+<specialTip openLevel="5" key="paranoia5">Love me or die. If $0's Qliphoth Counter is at zero when the day ends, then-</specialTip>
+    </specialTipSize>
+  </observe>
+
+</creature>

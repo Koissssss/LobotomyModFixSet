@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="167880">
+
+
+
+    <narration action="move">
+      #0 enters $0's containment unit to begin work.
+    </narration>
+
+    <narration action="start">
+      [
+      {No one knows what kind of torture the so-called eternal love will be.},
+      {The fluff of $0 becomes brighter and brighter, like roses of blood-red bloom.}
+      ]
+    </narration>
+    <narration action="mid1">
+      [
+      {If you get too close to $0, you will feel as if your blood is being sucked out from your body.},
+      {#0 staggered a few steps and coughed up a little blood.},
+      {The mixture of the smell of blood and the strange fragrance of roses drills in #0's nasal cavity.}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {Please grant me everlasting love, till my death!},
+      {Will roses wither? Maybe...}
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {This has long transcended Love is a kind of heart-wrenching madness.},
+      {Please love me! I ask you for eternal lingering!}
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {The flower language of this flower is "Love", a moist and warm word.},
+      {“…I still can’t understand what kind of feeling that is.”}
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T-02-172</codeNo>
+      <portrait openLevel ="1">Custom/BloodRabbit</portrait>
+
+      <name openLevel ="1">
+        Red Duvet
+      </name>
+
+      <name openLevel ="3">
+        Gory Bunny
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText>…I still can’t understand what kind of feeling that is.</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {&lt;Employee Daniel's Death Record>&gt;
+At the end of a suppression campaign, according to the oral statement of an employee in the same Department, Daniel was originally going to send his E.G.O equipment to the Welfare Team for maintenance, but he was involved in a large-scale containment breach on the way, and suffered a serious injury to the connection between his left arm and shoulder. After entrusting other employees to deliver the E.G.O quipment, he dragged his embarrassed body returned to the main room.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {According to the monitoring, Daniel's speed in the fourth passage slowed down significantly, and his breathing rate also decreased. In addition, a red gas of a certain composition filled the passage. An office worker who happened to pass by during this period was later questioned and found that he felt obvious weakness when passing through the fourth passage, but it is not clear whether it was caused by the gas. 
+Daniel's physical condition obviously deteriorated in the gas. After he stopped, a rabbit with a bright red body and a short tail appeared in the corner of the monitoring screen. Its file was supplemented in the subsequent investigation.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {After the rabbit appeared, the red color of the gas in the fourth passage became brighter. Daniel stumbled back a few steps and observed that the rabbit seemed to be moving forward. The monitoring was then submerged in a thick red fog...
+The following is the body investigation report:
+Employee Daniel, died on ██/██/██, was found in the fourth passage, his body was emaciated and covered with a light layer of blood. The autopsy found that the blood inside his body was completely dried up and the pores were blocked. It was determined that the blockage was a coagulated blood clot and the cause of death was excessive blood loss.
+
+...}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {This is a seemingly ordinary red rabbit.
+It is as delicate as a gift shop item, and feels warm and moist to the touch.
+The scent of blood and roses emanates from its fur. Although it is friendly, the blood of the employees who approaches it will be precipitated, so we are still wary of it.
+…}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {My master was a very gentle, but also very hardworking and self-reliant female. As if she could accomplish everything easily and brilliantly no matter what she encountered.
+But there was only one thing that made the master look clumsy.
+When did my master began to dress herself up deliberately?
+Probably when there's a rose appeared in the vase on her bedside. It was strange. Why did my master smile so happily after the male gave her the rose?
+I don't know what the rose represents, but it seemed that every time my master met him, he would give her a rose. Well, appearently, he only gave her roses bucause there's nothing to give. But for whatever reason, she always seemed so delighted every time.
+Roses are beautiful in color, but they also look particularly rotten when they wither.
+I had never seen my master so devastated. She even broke the vase full of roses with her own hands, which was once her favorite thing.
+My master looked so sad, as if every time she breathe she was going to vomit her heart and lungs.
+I can't understand... I can't understand it at all.
+I was curious about why my master wore a white dress at first, and when the red on her chest gradually spread, the male's fearful gaze became more intense as the redness spread on her chest.
+"My dear! Look! Now I... am the same color as the roses~"
+Her smile was extremely mad, it became red and cold in my eyes, as beautiful as a painting.
+The blood from the fallen rose petals slowly seeped into my fur.
+Thicker than hatred, warmer than fear, crazier than sadness.
+…I still can’t understand what kind of feeling that is.}
+      ]
+    </desc>
+
+  <specialTipSize size="5">
+      <specialTip openLevel="1" key="1">Employees working on $0 will lose a small amount of HP per second.</specialTip>
+      <specialTip openLevel="2" key="2">When the work result was not Good, $0 gave the employees a "Rose" by chance. The employees who have "Rose" obtained extra Max. HP bunos.</specialTip>
+      <specialTip openLevel="3" key="3">When the work was over, if the HP of the emloyee was lower than the average rate, they would receive a "Rose".</specialTip>
+      <specialTip openLevel="4" key="4">Every time $0 gave away a "Rose", the Qliphoth Counter lowered. If the employees who were given the "Rose" died for any other reasons, the Qliphoth Counter increased.</specialTip>
+      <specialTip openLevel="5" key="5">When the Qliphoth Counter lowered to 0, the blooming of "Rose" would become more and more gorgeous.</specialTip>
+     </specialTipSize>
+  </observe>
+  <child>
+    <name>Blood Rose</name>
+    <codeId>T-02-172-1</codeId>
+  </child>
+</creature>

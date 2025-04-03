@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="EternalFlower_weapon_name">永劫の贈り物</text>
+<text id="EternalFlower_weapon_no">Eternal</text>
+<text id="EternalFlower_weapon_desc">永遠の中には未知のことがたくさんある......。</text>
+<text id="EternalFlower_weapon_sdesc">このEGOで１５ダメージを与えるごとに、使用者は「真実」を１つ獲得する。
+「真実」は１ごとに使用者の精神力を３ポイント増加させ、「真実」が１０ごとに与えるダメージは２５％増加する。
+「真実」の最大数は４０で、「不滅の花」を収容すると最大数を４０増加させる。
+「真実」の鍵が付与されている場合、ダメージを与えるたびに
+「真実」の数値だけ体力と精神力を回復する。
+鎮圧命令時、「不滅の花」を収容しており、「真実」の数値が５０以上になっている場合、１５秒のクールダウン後に対象の近くにテレポートする。</text>
+<text id="EternalFlower_armor_name">完璧な花</text>
+<text id="EternalFlower_armor_no">Flawless</text>
+<text id="EternalFlower_armor_desc">「完璧」という言葉は嘘だ。この宇宙に「完璧」なんてものは存在しない…。</text>
+<text id="EternalFlower_armor_special">「不滅の花」を収容していると耐性が上昇。
+受けたダメージの３０％は攻撃した対象に反射する。
+「永劫の贈り物」を使用している間、与えるダメージが５０％増加する。
+「真実」の数値１につき、移動速度と体力が３ポイント増加し、「真実」の獲得上限が６０に増加する。
+「真実」を獲得している時、５秒ごとに周囲の職員に「真実」を移す機会がある。
+装着者の周囲に「七色の花」が出現することがあり、出現すると周囲の対象に３～５ポイントのWHITEダメージを与える。</text>
+<text id="EternalFlower_gift_name">「真実」の鍵</text>
+<text id="EternalFlower_gift_desc">精神力+10
+所持者が「真実」を５獲得するごとに、全てのステータスを１ポイント増加する。
+「真実」の獲得上限が２０増加する。
+&lt;color=#FF00FF&gt;「まるでどこかの&lt;color=#FF0000&gt;「扉」を開けるかのようだが&lt;/color&gt;……。
+社内で一致する&lt;color=#FF0000&gt;「扉」を見たことがない&lt;/color&gt;……。」&lt;/color&gt;</text>
+
+<text id="EternalFlowerChild_weapon_name">「迷子」</text>
+<text id="EternalFlowerChild_weapon_desc">「ほら、なんてこった...。出口は...出口はどこだ？出口はどこだ！！」</text>
+<text id="EternalFlowerChild_weapon_sdesc">このEGOを持つ職員が獲得できる「真実」の最大数が２０増加する。
+「真実」が１獲得するごとに、攻撃速度が３ポイント増加する。
+攻撃時に、わずかな確率で「完璧な花」を装着している職員に「真実」を獲得させる。</text>
+<text id="EternalFlowerChild_armor_name">現実</text>
+<text id="EternalFlowerChild_armor_desc">「あの地獄から帰ってきたって？」</text>
+<text id="EternalFlowerChild_armor_sdesc">このEGOを装着している職員は、「真実」の最大獲得数が２０増加する。
+「完璧な花」を装着した職員が場にいるとき、その職員が同じ対象を鎮圧する場合、その職員の近くにテレポートする。
+「完璧な花」を装着した職員と同じ場にいる場合、受けるすべてのダメージが３０％軽減される。
+装着者が「迷子」を使用している場合、ダメージを与えるたびに対象を１距離後退させる。
+「完璧な花」を装着している職員が負傷した場合、負傷を一部治療する。</text>
+</localize>

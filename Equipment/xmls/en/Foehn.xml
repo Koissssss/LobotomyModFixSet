@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Foehn_Weapon_Name">Burning Jade</text>
+<text id="Foehn_Weapon_Desc">The sword is made of "jade", but burn marks can still be seen on the blade.&#10;Suffer, Stretch, Scatter, and Reform.</text>
+<text id="Foehn_Weapon_SpecialDesc">Occasionally launch a special attack, where the user gathers power for 2 seconds, before unleashing a phoenix of fire forward.&#10;The pheonix will attack all enemies in its path and set them on fire for 5 seconds.</text>
+<text id="Foehn_Armor_Name">Burning Jade</text>
+<text id="Foehn_Armor_Desc">Suffer, Stretch, Scatter, and Reform.</text>
+<text id="Foehn_Gift_Name">Burning Jade</text>
+<text id="Foehn_Gift_Desc">HP+2, SP+2, Attack Speed+3&#10;The brightest gems are formed from the deepest pain.</text>
+</localize>

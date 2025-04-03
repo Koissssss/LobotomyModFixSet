@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="BloodRabbit_armor_name">殤に絶たれた恋</text>
+<text id="BloodRabbit_weapon_name">殤に絶たれた恋</text>
+<text id="BloodRabbit_gift_name">殤に絶たれた恋</text>
+<text id="BloodRabbit_gift_desc">体力+8</text>
+<text id="BloodRabbit_armor_desc">ある職員は、このビロードの衣服を着た感触が湿り気のある温かさだと報告した。
+鮮血の跡が体を這い、まるで心臓が開き、美しいバラがその血によって咲くかのように。
+しかし、この身体はもはや美しい花を受け入れることができない。
+愛する人が遠ざかっていくのを見守り、結局はただ傷心だけが残り、永遠の別れを迎えることになる。</text>
+<text id="BloodRabbit_weapon_desc">バラと鮮血の香りが絹のように絡み合う2本の短剣。
+鮮やかな色彩は、ただ美しい表象の下で徐々に腐敗が広がる生臭い甘さを隠すためにあるにすぎない。
+かつてこれほどまでにバラの棘の柄を夢中でしっかりと握りしめ、華麗な永遠を渇望し、喜んで受け入れたことはなかった。
+次の抱擁が最も温かいものではなく、最後の温かい抱擁でもないことを幻想している。
+その痛みは、恋愛を経験した職員にとっては、まさにおなじみの味である。</text>
+<text id="BloodRabbit_weapon_specialDesc">この武器は攻撃時に5-7ポイントのREDダメージを2回与える。
+この武器は攻撃時に25%の確率で特殊攻撃を行う：2本の短剣を対象の両側に突き刺し、9-13ポイントのREDダメージを5回与え、その後45秒間、対象のHP回復を妨げる。</text>
+<text id="BloodRabbit_armor_specialDesc">着用者がEGO武器“殤に絶たれた恋”を装備している時、ダメージを与えるとそのダメージ量の30%のHPを回復する。ただし、それ以外の回復効果が60%減少する。</text>
+</localize>

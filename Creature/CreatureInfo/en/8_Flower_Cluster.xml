@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+ 
+  <info id ="27004">
+
+
+
+    <narration action="move">
+      #0 enters $0's containment unit to begin work.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0 is floating alone.}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {A mysterious fragrance perfumes the containment unit.}
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {$0 has not yet bloomed.}
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {It would have been nice, if she had stayed by my side just a little bit longer...}
+      ]
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">T-04-53'</codeNo>
+      <portrait openLevel ="1">Custom/Flower_Cluster</portrait>
+
+      <name openLevel ="1">
+        The Flower Cluster
+      </name>
+
+
+      <riskLevel openLevel ="1">
+        HE
+      </riskLevel>
+
+      <openText>"Unwithering flowers violently blossom."</openText>
+
+    </collection>
+
+
+    <desc id="1" openLevel="0">
+      [
+      {&lt;color=#1de219&gt;The verdant plants bloomed wildly.
+The verdant plants bloomed wildly.
+The verdant plants bloomed wildly.&lt;/color&gt;
+She's a doll that yearned to be human.
+...}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {She was abandoned in a dark forest. It was sparsely populated, with only verdant plants silently accompanying her. At her feet was a cemetery, overgrown with weeds. She could not see, for ravens had stolen her beautiful eyes. Her world was dark.
+One day, the gravekeeper found her and brought her home. At the time, grave-keeping was a profession inevitably closely associated with bad luck. A family that had been guarding the graves for generations was unable to continue the work of tending the cemetery due to this prejudice, and lived in poverty. Many of the people who had once watched over the graves had already chosen to end their lives, because they were overwhelmed by the burden.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {She could often hear her new owner whimpering and crying, as well as the sound of abuse coming from outside. On occasion, she could even hear the sound of someone being beaten… She couldn't help but worry about her owner's fate. One day, her owner embedded two beads into her empty eye sockets, and she could see once more.
+
+The owner was the only other person in the house. She was sat at the head of the bed, while her owner sat at the end. Nothing but silence permeated the room.
+
+She saw no evidence of her owner's parents. Presumably they had long since come to their own tragic end, leaving their daughter alone to keep up with her family’s business. Like her, the owner had beautiful eyes, yet her body was bruised and purple. It was hard evidence that the villagers have long been violent to the owner, but there was nothing the girl could do to stop it. Her owner didn't want to abandon the cemetery, nor did she want to be beaten if she tried to flee the village.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {She, in turn, could only watch as her owner was viciously attacked, punched and kicked over and over again. After being victimized, her owner would often hug her and cry. Tears fell into her eyes and stained every part of her body. She became resentful, resenting the injustice of her owner's fate and the villagers who played a part in creating it.
+
+Her owner had done everything she could to survive those difficult days; however, no one could survive such abuse forever. After a brutal attack, her owner was already dying, with only her last breath left. Before she died, her owner crawled to her side, hugged her tightly, and cried loudly, as if it were the first time she had cried in her life.
+The villagers swarmed around like vultures after her death. Some wanted to tear the house down, some mercilessly mocked her owner, and others still took the opportunity to strike her dead body. Her owner held on to her in her arms, and tears flowed all over her body. She resented it to the core. This group of people, by what right did they put her beloved owner, who was inseparable from her, to death?}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="3">
+      [
+      {&lt;color=#ff44ee&gt;"Let us return to dust with all that breathes."&lt;/color&gt;
+
+Her owner was dead. Enraged, she took human form, and a hurricane of flower petals formed around her, trapping her owners' gaolers within. The villagers looked at the "demon" in front of them in horror, but it was too late to run. Her spell swept away everything around her. Soon, the villagers disappeared, replaced by a group of disfigured, aromatic "people" ...only her late owner was spared.
+
+She pinned a cluster of flowers onto her owner’s head. They were beautiful, in full bloom and emitting a fragrant scent from the lavender petals. That day, the other villagers watched as a large funeral procession marched through the town. She carried her owner to the place where she was first abandoned. The cemetery was silent, a sea of flowers replacing the wildly growing weeds the moment she stepped inside. There was no longer room for her owner in the large cemetery. She had to say her final goodbye to her beloved owner...}
+      ]
+    </desc>
+
+    <desc id="6" openLevel="4">
+      [
+      {The surviving villagers called for the help of a famous wizard from a nearby city. She stood alone in the center of the cemetery, and although she did not feel lonely now, the person she was most attached to could not come back. She lost the meaning of her existence. When the wizard approached the cemetery, she did not put up any resistance, letting the overwhelming attack of spells engulf her fragile body.
+
+She's a human that yearned to be a doll. This, and nothing more.}
+      ]
+    </desc>
+
+    <specialTipSize size="4">
+      <specialTip openLevel="0" key="0">When the work result was bad, the Qliphoth Counter decreased.</specialTip>
+      <specialTip openLevel="1" key="1">When the work result was good, $0 restored 20% of the max SP to all employees in the department.</specialTip>
+      <specialTip openLevel="2" key="2">When the Qliphoth Counter lowered to zero, a random Abnormalitiy's containment unit went into meltdown.</specialTip>
+      <specialTip openLevel="3" key="3">For every 4 employee or clerk deaths in the facility, the Qliphoth Counter reduced by 1.</specialTip>
+      <specialTip openLevel="4" key="4">When the Qliphoth Counter lowered to zero, employees in the department took 30% of their max HP as BLACK damage.</specialTip>
+       <specialTip openLevel="5" key="5">When a Qliphoth meltdown occurs, a random employee became compelled to work on a random Abnormality. If the work result was bad, the Qliphoth Counter of $0 reduced by 1. If the work result was good, employees from the same team restored 10% HP.
+	   After that, the agent became dazed, and was unable to work for two minutes.</specialTip>
+	  <specialTip openLevel="6" key="6">When the Qliphoth Counter of T-04-53 lowered to zero, $0's Qliphoth Counter decreased.</specialTip>
+    </specialTipSize>
+    <max>
+      <desc id="0" select="1">
+        [
+        {You see a cluster of scentless flowers.}
+{It simply levitates in place.}
+{You decide to...}
+        ]
+      </desc>
+      <select id="1">
+        <node desc="Draw back" target="1" isAnswer="true"/>
+        <node desc="Touch it" target="2" isAnswer="false"/>
+      </select>
+      <desc id="1" select="0">
+        [
+        {You took a step back.}
+{It began to give off an aroma at last.}
+{Trying to appeal solely to you.}
+        ]
+      </desc>
+      <desc id="2" select="0">
+        [
+       {You step forward and reach out your arm.}
+{Your hand passes through it.}
+{It remains floating there, unchanged.}
+        ]
+      </desc>
+      <angela>
+        [
+        {Its fragrance compels the living.}
+        ]
+      </angela>
+    </max>
+  </observe>
+</creature>

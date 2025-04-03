@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Para_weapon_name">幼神的庇佑</text>
+<text id="Para_weapon_desc">
+纯净的灵魂始终伴你左右。
+祂为你做了许多。兴许确实不应该拒绝一位天真孩童的呼唤，不是吗？
+
+那双小小的手轻轻捧起了一手打造的小世界。
+会有天使在梦中起舞吗？幸福与快乐会永恒不朽吗？来自天堂的良知之种会在世界各处生根发芽吗？大家…也会一如既往的深爱着我吗？
+</text>
+<text id="Para_weapon_specialDesc">所有数值必须等于一级或满足装备要求才可装备此EGO。</text>
+<text id="Para_gife_name">幼神的庇佑</text>
+<text id="Para_gife_desc">精神值+3 工作成功率+3 移动速度+3</text>
+<text id="Para_armor_name">幼神的庇佑</text>
+<text id="Para_armor_desc">
+一件非常迷你的E.G.O，似乎很抗拒老练的高级员工。兴许只有未经世事的孩子才能完美契合吧？
+
+请将一滴爱意注入我的灵魂，让它顺着萎缩的经脉流淌，滋养我干枯的四肢骨骸，待新生嫩芽从将死去的身躯中钻出。
+再等等，牵上我的手，我们共同前往名为爱的完美乐园。</text>
+<text id="Para_armor_specialDesc">当设施内收容帕乐蒂思时，
+装备抗性更改为 物理抗性：1  精神抗性：0.4  侵蚀抗性：0.8  灵魂抗性：0.6
+当装备者同时拥有“幼神的庇佑”饰品与武器，且四项等级均为一时，
+受到致命伤害不会死亡或恐慌。（仅一次）,且当日无法参与镇压。
+所有数值必须等于一级或满足装备要求才可装备此EGO。
+</text>
+</localize>

@@ -1,0 +1,216 @@
+
+die.png
+size: 695,901
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 666, 874
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 666, 852
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 652, 210
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 652, 288
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 594, 16
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 652, 246
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 132, 149
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 2, 6
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: false
+  xy: 132, 19
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: false
+  xy: 198, 19
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 264, 19
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 330, 19
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+EyeClose
+  rotate: false
+  xy: 396, 134
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+HairBack
+  rotate: false
+  xy: 2, 72
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+HairFront
+  rotate: false
+  xy: 262, 149
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 392, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+L arm 1
+  rotate: false
+  xy: 396, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L arm 2
+  rotate: false
+  xy: 526, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L hand
+  rotate: false
+  xy: 658, 176
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+L leg 1
+  rotate: false
+  xy: 462, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+L leg 2
+  rotate: false
+  xy: 528, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Mouth
+  rotate: false
+  xy: 592, 134
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Note
+  rotate: false
+  xy: 522, 200
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+R arm 1
+  rotate: false
+  xy: 594, 68
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R arm 2
+  rotate: false
+  xy: 396, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R hand
+  rotate: false
+  xy: 658, 142
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+R leg 1
+  rotate: false
+  xy: 462, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+R leg 2
+  rotate: false
+  xy: 528, 2
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Weapon_GreatSword
+  rotate: false
+  xy: 132, 279
+  size: 256, 49
+  orig: 256, 49
+  offset: 0, 0
+  index: -1
+红色的雾
+  rotate: false
+  xy: 2, 330
+  size: 662, 569
+  orig: 662, 569
+  offset: 0, 0
+  index: -1

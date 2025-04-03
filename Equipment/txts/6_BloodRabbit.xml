@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+ <equipment id="467880" type="special"> 
+    <name>BloodRabbit_weapon_name</name>
+    <desc>BloodRabbit_gift_desc</desc>
+    <attachPos>right_hand</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>8</hp>
+    </bonus>
+    <sprite>6_BloodRabbit_Gift_1</sprite>
+  </equipment>
+
+    <equipment id="367880" type="armor">
+    <name>BloodRabbit_weapon_name</name>
+    <no>BloodRabbit_armor_no</no>
+    <desc>BloodRabbit_armor_desc</desc>
+    <specialDesc>BloodRabbit_armor_specialDesc</specialDesc>
+
+    <require type="level">5</require>
+    <require type="W">5</require>
+
+    <armorId>367880</armorId>
+    <defense>
+      <defenseElement type="R">0.4</defenseElement>
+      <defenseElement type="W">0.6</defenseElement>
+      <defenseElement type="B">0.6</defenseElement>
+      <defenseElement type="P">0.8</defenseElement>
+    </defense>
+    <grade>5</grade>
+    <script>BloodRabbitArmor</script>
+    <maxNum>1</maxNum>
+  </equipment>
+
+<equipment id="267880" type="weapon">
+    <name>BloodRabbit_weapon_name</name>
+    <desc>BloodRabbit_weapon_desc</desc>
+    <specialDesc>BloodRabbit_weapon_specialDesc</specialDesc>
+
+
+    <weaponClassType>special</weaponClassType>
+
+    <sprite>Firebird_BloodRabbitWeapon</sprite>
+    <specialWeaponAnim>LongBirdWeapon_BloodRabbitWeapon</specialWeaponAnim>
+    <animation>Attack_1</animation>
+    <animation>Attack_2</animation>
+
+    <require type="level">5</require>
+    <require type="R">5</require>
+
+    <damage type="R" min="5" max="7">
+      <soundInfo type="damage">Weapons/dagger1</soundInfo>
+    </damage>
+    <damage type="R" min="9" max="13">
+      <soundInfo type="damage">Weapons/spear1</soundInfo>
+    </damage>
+    <range>3</range>
+
+
+    <script>BloodRabbitWeapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>1.25</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+
+</equipment_list>

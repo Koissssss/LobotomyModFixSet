@@ -1,0 +1,153 @@
+
+GreedWeapon.png
+size: 826,522
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 232, 264
+  size: 128, 256
+  orig: 256, 256
+  offset: 64, 0
+  index: -1
+CoatBack
+  rotate: false
+  xy: 256, 6
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: false
+  xy: 362, 264
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: false
+  xy: 386, 6
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 764, 49
+  size: 139, 44
+  orig: 256, 128
+  offset: 58, 39
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 2, 2
+  size: 118, 7
+  orig: 256, 128
+  offset: 65, 60
+  index: -1
+HairBack
+  rotate: false
+  xy: 2, 232
+  size: 228, 288
+  orig: 256, 512
+  offset: 13, 113
+  index: -1
+HairFront
+  rotate: true
+  xy: 492, 265
+  size: 255, 233
+  orig: 256, 256
+  offset: 1, 7
+  index: -1
+Head
+  rotate: true
+  xy: 516, 71
+  size: 192, 206
+  orig: 256, 256
+  offset: 35, 27
+  index: -1
+L arm 1
+  rotate: true
+  xy: 727, 240
+  size: 48, 88
+  orig: 128, 128
+  offset: 37, 20
+  index: -1
+L arm 2
+  rotate: true
+  xy: 727, 351
+  size: 60, 92
+  orig: 128, 128
+  offset: 31, 19
+  index: -1
+L hand
+  rotate: true
+  xy: 589, 18
+  size: 51, 45
+  orig: 64, 64
+  offset: 6, 11
+  index: -1
+L leg 1
+  rotate: true
+  xy: 727, 413
+  size: 53, 94
+  orig: 128, 128
+  offset: 39, 13
+  index: -1
+L leg 2
+  rotate: true
+  xy: 636, 19
+  size: 50, 79
+  orig: 128, 128
+  offset: 39, 29
+  index: -1
+Mouth
+  rotate: false
+  xy: 122, 2
+  size: 20, 7
+  orig: 128, 128
+  offset: 55, 59
+  index: -1
+R arm 1
+  rotate: true
+  xy: 724, 190
+  size: 48, 88
+  orig: 128, 128
+  offset: 40, 21
+  index: -1
+R arm 2
+  rotate: true
+  xy: 727, 290
+  size: 59, 91
+  orig: 128, 128
+  offset: 34, 19
+  index: -1
+R hand
+  rotate: false
+  xy: 717, 19
+  size: 45, 50
+  orig: 64, 64
+  offset: 9, 8
+  index: -1
+R leg 1
+  rotate: true
+  xy: 727, 468
+  size: 52, 97
+  orig: 128, 128
+  offset: 35, 7
+  index: -1
+R leg 2
+  rotate: true
+  xy: 516, 12
+  size: 57, 71
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+skeleton
+  rotate: true
+  xy: 2, 11
+  size: 219, 252
+  orig: 256, 256
+  offset: 18, 2
+  index: -1

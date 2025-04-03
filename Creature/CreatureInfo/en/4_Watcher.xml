@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="113801">
+
+
+
+    <narration action="move">
+      #0 was assigned to $0's containment unit 
+    </narration>
+
+    <narration action="start">
+      [
+      {Father, like son...}
+      {$0 is observing #0's every move.}
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0 squinted it's eyes and looked at #0 with a playful look.}
+      {$0 will weigh your fault.}
+      ]
+    </narration>
+
+    <narration action="mid2">
+      [
+      {Human beings, without exception, are cunning and greedy beings, $0 thought.}
+      {There will be people who are praised by $0, but those people are just one in a million.}
+      ]
+    </narration>
+
+   <narration action="end">
+      [
+      {$0 will not easily forgive any villain who has not changed it's mind.}
+      {$0 allowed #0 to leave.}
+      ]
+    </narration>
+  </info>
+
+  <observe level ="3">
+    <collection>
+      <codeNo openLevel ="0">T-04-111</codeNo>
+      <name openLevel ="1">The Watcher</name>
+      <portrait openLevel ="4">Custom/Watcher</portrait>
+      <riskLevel openLevel ="1">WAW</riskLevel>
+      <openText>It quietly observes your every move. &#13;&#10;No words, no interference.</openText>
+    
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {This is a hand-shaped abnormality that judges all things in the world equally and observes human behavior. Any record, report, observation and evaluation must be recorded in the most rational and correct way. &#13;&#10;It does not rely on anything to survive. It exists in the world to do only one thing.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {Don't avoid its sight, you are excusing yourself of your sins. &#13;&#10;It lives in human lies, stupidity, greed, and desire. &#13;&#10;Any sophistry and lies about it are of no use to him.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {Its eyes are plain and cold, and can penetrate your soul. &#13;&#10;Anyone who comes close to it will be judged by it without distinction. &#13;&#10;It has the ability to communicate with us, and when he speaks, a deep male voice can be heard throughout the company.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {It’s just that it never bothers to communicate with us. Was the last time this happened a few months or a few years ago? No one remembers what it said that time. &#13;&#10;Probably a compliment, I think. &#13;&#10;Or maybe I am too stupid, maybe it is a higher being that regards humans as inferior creatures. It might also be yelling at the entire company, right? &#13;&#10;But it never cared. &#13;&#10;It observes, monitors, and judges, day after day, without stopping...}
+      ]
+    </desc>
+    
+  <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">When the work result is good, the Qliphoth counter of $0 will increase it's maximum value (Up to 3)
+</specialTip>
+      <specialTip openLevel="2" key="2">If an employee is injured while work, all employees in the department to which $0 belongs will be equally injured (even if they leave the department).</specialTip>
+      <specialTip openLevel="3" key="3">When the work result is good or bad, the Qliphoth counter will likely decrease after the countdown.</specialTip>
+      <specialTip openLevel="4" key="4">Attatchment work is changed to trial work, the damage type during trial work will be changed to Pale damage, and the work result must be good (if 7 negative NE-BOX have been produced, the remaining NE-BOX will all be positive PE-BOX)</specialTip>
+      <specialTip openLevel="5" key="5">When $0's Qliphoth counter reaches zero, $0 will escape and appear in the background of the corridor to which the department belongs, moving to the room closest to an employee and continuing to cause a large amount of white damage.</specialTip>
+      <specialTip openLevel="6" key="6">When all employees in that room leave or panic, $0 will move to another nearby room.</specialTip>
+      <specialTip openLevel="7" key="7">When an employee of this department achieves a positive result on a WAW level abnormality or suppresses an abnormality, $0 will stop the attack and return to the containment unit on it's own.</specialTip>
+     </specialTipSize>
+
+  </observe>
+</creature>

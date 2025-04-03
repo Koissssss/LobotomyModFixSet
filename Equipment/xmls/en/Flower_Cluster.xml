@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+<text id="Flower_Cluster_weapon_name">Mound of Flowers</text>
+<text id="Flower_Cluster_weapon_desc">These flowers bloom uncontrollably, never to wither.
+The aroma of bursting petals will invite you to a gentle world.
+If you can smell the scent that will never go away, you must be standing in the same forest as I.
+Come forth. Embrace the smell that won't wither and come to meet me.</text>
+<text id="Flower_Cluster_weapon_specialDesc">Attacks have a 10% chance of adding a vulnerable effect to the target, causing it to take additional BLACK damage.</text>
+<text id="Flower_Cluster_armor_name">Unwithering Flower</text>
+<text id="Flower_Cluster_armor_desc">I was born from earth, so now I yearn to return to it.
+...The aroma won't go away.
+A doll that yearned to be a human was waiting her owner to return.
+The verdant plants bloomed wildly.</text>
+<text id="Flower_Cluster_armor_specialDesc">Heals 3 SP to the wielder every 10 seconds.</text>
+<text id="Flower_Cluster_gift_name">Full Bloom</text>
+<text id="Flower_Cluster_gift_desc">Work Success Rate +5
+Take 20% less damage from T-04-53 and T-04-53'</text>
+</localize>

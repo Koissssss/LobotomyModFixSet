@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="113801">
+
+
+
+    <narration action="move">
+      #0 foi atribuído à unidade de contenção de $0
+    </narration>
+
+    <narration action="start">
+      [
+      { Tal Pai tal filho...}
+      {$0 está observando cada movimento do #0.}
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0 apertou os olhos e olhou para #0 com um olhar brincalhão.}
+      {$0 pesará sua culpa.}
+      ]
+    </narration>
+
+    <narration action="mid2">
+      [
+      {Os seres humanos, sem exceção, são seres astutos e gananciosos, pensou $0.}
+      {Haverá pessoas que serão elogiadas por $0, mas essas pessoas são apenas uma em um milhão.}
+      ]
+    </narration>
+
+   <narration action="end">
+      [
+      {$0 não perdoará facilmente qualquer vilão que não tenha mudado de ideia.}
+      {$0 permitiu que #0 saísse.}
+      ]
+    </narration>
+  </info>
+
+  <observe level ="3">
+    <collection>
+      <codeNo openLevel ="0">T-04-111</codeNo>
+      <name openLevel ="1">O Observador</name>
+      <portrait openLevel ="4">Custom/Watcher</portrait>
+      <riskLevel openLevel ="1">WAW</riskLevel>
+      <openText>Ele observa silenciosamente cada movimento seu. &#13;&#10;Sem palavras, sem interferência.</openText>
+    
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {Esta é uma anormalidade em formato de mão que julga todas as coisas no mundo igualmente e observa o comportamento humano. Qualquer registro, relatório, observação e avaliação deve ser registrado da forma mais racional e correta. &#13;&#10;Não depende de nada para sobreviver. Existe no mundo para fazer apenas uma coisa.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {Não evite vê-lo, você está se desculpando de seus pecados. &#13;&#10;Vive em mentiras humanas, estupidez, ganância e desejo. &#13;&#10;Qualquer sofisma e mentira sobre isso não lhe serve de nada.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {Seus olhos são simples e frios e podem penetrar sua alma. &#13;&#10;Qualquer um que se aproxime disso será julgado por ele sem distinção. &#13;&#10;Ele tem a capacidade de se comunicar conosco e, quando fala, uma voz masculina profunda pode ser ouvida em toda a empresa.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {Acontece que nunca se preocupa em se comunicar conosco. A última vez que isso aconteceu foi há alguns meses ou alguns anos? Ninguém se lembra do que foi dito daquela vez. &#13;&#10;Provavelmente um elogio, eu acho. &#13;&#10;Ou talvez eu seja muito estúpido, talvez seja um ser superior que considera os humanos criaturas inferiores. Também pode ser gritar com toda a empresa, certo? &#13;&#10;Mas isso nunca importou. &#13;&#10;Observa, monitora e julga, dia após dia, sem parar...}
+      ]
+    </desc>
+    
+  <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">Quando o resultado do trabalho for bom, o contador Qliphoth de $0 aumentará seu valor máximo (até 3)
+</specialTip>
+      <specialTip openLevel="2" key="2">Se um funcionário se machucar durante o trabalho, todos os funcionários do departamento ao qual $0 pertence serão igualmente feridos (mesmo que deixem o departamento).</specialTip>
+      <specialTip openLevel="3" key="3">Se o resultado do trabalho for normal ou ruim, há uma grande probabilidade de que o contador Qliphoth diminua após o término da contagem regressiva..</specialTip>
+      <specialTip openLevel="4" key="4">O trabalho de Apego foi alterado para trabalho de Julgamento, e lesões em funcionários que realizam trabalho de Julgamento foram alteradas para dano PÁLIDO (correspondendo ao valor do dano de trabalho), e os resultados do trabalho são sempre bons (se 7 NE-BOX negativos foram produzidos, os NE-BOX restantes serão todos PE-BOX positivos)</specialTip>
+      <specialTip openLevel="5" key="5">Quando o contador Qliphoth de $0 chega a 0, $0 escapa e aparece no fundo do corredor ao qual aquele departamento pertence.&#13;&#10;Se você se mudar para a sala com o funcionário mais próximo, você causará constantemente uma grande quantidade de dano BRANCO.</specialTip>
+      <specialTip openLevel="6" key="6">Se todos os funcionários da sala saírem ou entrarem em pânico, $0 será transferido para a outra sala mais próxima..</specialTip>
+      <specialTip openLevel="7" key="7">Quando a equipe desse departamento trabalhar na entidade ilusória de nível WAW e produzir um resultado de trabalho positivo, ou subjugar a entidade ilusória, $0 irá parar de atacar e retornará sozinho à sua sala de contenção.</specialTip>
+     </specialTipSize>
+
+  </observe>
+</creature>

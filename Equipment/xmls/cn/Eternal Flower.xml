@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="EternalFlower_weapon_name">永恒之礼</text>
+<text id="EternalFlower_weapon_no">Eternal</text>
+<text id="EternalFlower_weapon_desc">永恒的时间之中，未知的事物有很多很多...</text>
+<text id="EternalFlower_weapon_sdesc">该EGO每造成15次伤害将使持有者获得一层“真理”。
+每层“真实”会使拥有者的最大精神值增加3点，每拥有10层“真理”造成的伤害增加25%。
+“真理”上限40层，收容“永恒之花”时上限提高40层。
+当持有者拥有“真理”之匙时，每次造成伤害有概率恢复所拥有
+“真理”层数的精神值与生命值。
+镇压时若收容“永恒之花”或真理层数达到50时则立刻传送至目标附近，冷却15秒。</text>
+<text id="EternalFlower_armor_name">无瑕之花</text>
+<text id="EternalFlower_armor_no">Flawless</text>
+<text id="EternalFlower_armor_desc">“无瑕”是一个骗局，这方宇宙永无“无瑕”之物...</text>
+<text id="EternalFlower_armor_special">收容“永恒之花”时抗性增强。
+受到的所有伤害都将返还30%至攻击者身上。
+穿戴者持有“永恒之礼”时所造成的伤害增加50%。
+穿戴者每拥有1层“真理”使移动速度和最大生命值增加3点，“真理”上限提高60层。
+当自身拥有“真理”时每5秒有概率使周围职员获得“真理”。
+穿戴者周围有时会出现“七色花”，当“七色花”出现时会对周围单位造成3-5点精神伤害。</text>
+<text id="EternalFlower_gift_name">“真理”之匙</text>
+<text id="EternalFlower_gift_desc">精神值+10
+拥有者每获得5层“真理”所有属性增加1点。
+“真理”上限提高20层。
+&lt;color=#FF00FF&gt;“好像可以打开某处的&lt;color=#FF0000&gt;“门”&lt;/color&gt;……
+但是我们并没有在公司中见过与之匹配的&lt;color=#FF0000&gt;“门”&lt;/color&gt;……”&lt;/color&gt;</text>
+
+<text id="EternalFlowerChild_weapon_name">“迷失”</text>
+<text id="EternalFlowerChild_weapon_desc">“这里，好混乱...出口...出口在哪？出口在哪？！！”</text>
+<text id="EternalFlowerChild_weapon_sdesc">持有该EGO的员工可获得的“真理”上限提升20层。
+每层“真理”额外增加3点攻击速度。
+每次攻击有小概率使穿戴“无瑕之花”的员工获得真理。</text>
+<text id="EternalFlowerChild_armor_name">真实</text>
+<text id="EternalFlowerChild_armor_desc">“我从那个鬼地方回来了？”</text>
+<text id="EternalFlowerChild_armor_sdesc">穿戴该EGO的员工可获得的“真理”上限提升20层。
+当场上存在穿戴“无瑕之花”护甲的员工时，如果与其目标相同则传送至其附近。
+与穿戴“无瑕之花”的员工处于同一区域时，受到的所有伤害减少30%。
+穿戴者持有“迷失”时，每次造成伤害都会将目标击退一段距离。
+当穿戴“无瑕之花”的员工受伤时，将为其承担一部分伤害。</text>
+</localize>

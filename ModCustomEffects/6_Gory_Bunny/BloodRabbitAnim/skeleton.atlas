@@ -1,0 +1,97 @@
+
+skeleton.png
+size: 835,573
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+上面的耳朵
+  rotate: true
+  xy: 666, 5
+  size: 69, 84
+  orig: 69, 84
+  offset: 0, 0
+  index: -1
+外面的腿
+  rotate: true
+  xy: 767, 60
+  size: 70, 53
+  orig: 70, 53
+  offset: 0, 0
+  index: -1
+大腿
+  rotate: true
+  xy: 666, 76
+  size: 88, 99
+  orig: 88, 99
+  offset: 0, 0
+  index: -1
+头
+  rotate: false
+  xy: 666, 266
+  size: 108, 101
+  orig: 108, 101
+  offset: 0, 0
+  index: -1
+尾巴毛
+  rotate: true
+  xy: 769, 132
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+眼睛
+  rotate: true
+  xy: 797, 453
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+红色的雾
+  rotate: false
+  xy: 2, 2
+  size: 662, 569
+  orig: 662, 569
+  offset: 0, 0
+  index: -1
+脚掌
+  rotate: true
+  xy: 797, 484
+  size: 87, 28
+  orig: 87, 28
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 666, 369
+  size: 202, 129
+  orig: 202, 129
+  offset: 0, 0
+  index: -1
+里面的耳朵
+  rotate: false
+  xy: 776, 280
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+里面的腿
+  rotate: true
+  xy: 776, 208
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+闭眼
+  rotate: true
+  xy: 752, 6
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+领圈毛
+  rotate: true
+  xy: 666, 166
+  size: 98, 101
+  orig: 98, 101
+  offset: 0, 0
+  index: -1

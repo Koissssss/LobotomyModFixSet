@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="BloodRabbit_armor_name"></text>
+<text id="BloodRabbit_weapon_name">绝恋之殇</text>
+<text id="BloodRabbit_gift_name">绝恋之殇</text>
+<text id="BloodRabbit_gift_desc">最大生命值+8</text>
+<text id="BloodRabbit_armor_desc">有员工报告称穿戴这件绒衣的感觉是湿润的温暖。
+鲜血的痕迹在身上蔓延，就像心脏绽放，浇灌而出的艳丽的玫瑰。
+但这份身躯却也无法再接受任何一朵美丽的花卉。
+看着那心爱之人就此远去，最终也只能独留心伤、就此永别。</text>
+<text id="BloodRabbit_weapon_desc">玫瑰与鲜血的芬芳如绸缎般交织缠绵在这两柄短剑之上。
+艳丽的色彩却只是为了遮掩美好表象下日渐滋生腐败的腥甜。
+从未有过的痴迷紧握着玫瑰的棘柄，渴望并欣喜接受着华丽的永恒。
+幻想着下一次的拥抱并不是最温暖的拥抱，更不是最后一次温暖的拥抱。
+那股痛彻心扉滋味对于经历过爱恋的员工而言再熟悉不过。</text>
+<text id="BloodRabbit_weapon_specialDesc">这把武器攻击时会造成两段5-7的物理伤害。
+这把武器攻击时有25%的概率使用特殊攻击：将两把匕首插进目标两侧造成5次9-13点物理伤害
+并使目标在接下来45秒内无法恢复生命值。</text>
+<text id="BloodRabbit_armor_specialDesc">穿戴者持有EGO武器“绝恋之殇”时，若造成伤害则恢复等同伤害量30%的生命值。
+但相对的，穿戴者受到其他来源的生命值恢复效果削减60%。</text>
+</localize>

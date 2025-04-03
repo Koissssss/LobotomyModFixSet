@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="Charlotte_weapon_name">Craving</text>
+  <text id="Charlotte_weapon_desc">If you want to monopolize everything, you will never give up. It can make all kinds of snacks infinitely, but it can never make its favorite cheese. Can shoot bubbles that hit enemies.</text>
+  <text id="Charlotte_armor_desc">If you want to monopolize everything, you will never give up. Sweet and cute clothes are Xiaozhu's favorite things.</text>
+  <text id="Charlotte_gift_Desc">Work speed +10, work success rate -4, health +3
+All health points will be restored after 50 seconds of being out of combat.</text>
+</localize>

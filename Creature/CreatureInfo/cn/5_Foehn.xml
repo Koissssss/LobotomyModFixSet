@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="199732">
+
+
+
+    <narration action="move">
+      #0被派往$0的收容单元。 
+    </narration>
+
+    <narration action="mid1">
+      [
+      {房间的炙热让#0感到不适。}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {#0正在观察焚风，他突然感到有些暴躁。}
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {#0开始感到呼吸不适。}
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T-06-208</codeNo>
+      <portrait openLevel ="1">Custom/Foehn</portrait>
+
+      <name openLevel ="1">
+        焚风
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText>红色的风在空中飘荡，里面含着的
+是如同烈火般的痛苦。</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {都市中总是充斥着痛苦，岚风吹过，热烈无比，痛苦也随这如火的岚风吹离。}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {岚风时常会吹进人们痛苦的心，替他们完成“复仇”。}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {在这个房间工作过的员工会对这个房间以外的任何东西产生恐惧。}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {贾斯丁和罗兰德是后巷中两民普通的收尾人，都市的喧嚣与繁杂琐碎令两人疲惫不堪。某天他们放下工作，准备去酒馆潇洒一把。贾斯丁很开心，他就快成为一名3阶收尾人了，罗兰德也很开心，在都市里居然有贾斯丁这个推心置腹的好友。 两人喝着酒，互相说这生活中苦痛。可………这酒馆…有点热啊… }
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {猛然间两人背后燃起大火，将两人燃尽，将酒馆烧毁。
+唉……岚风啊，你带走了他们的苦痛但也带走了他们的幸福。
+岚风，你热烈，你正义，你无形，可你只是风，因苦痛而生的复仇之风……}
+      ]
+    </desc>
+  <specialTipSize size="3">
+      <specialTip openLevel="1" key="1">当工作结果为良或差时，”$0“的逆卡巴拉计数器立即减少。</specialTip>
+      <specialTip openLevel="2" key="2">设施内每有5名员工或文职死亡，“$0”的逆卡巴拉计数器立刻减少。</specialTip>
+      <specialTip openLevel="3" key="3">出逃时，每有一名员工或文职被”$0“杀死，其存在时间延长10秒，伤害提高2点。</specialTip>
+      <specialTip openLevel="4" key="4">出逃时，若有异想体被”$0“击杀，$0将立即回到收容单元并减少自身的逆卡巴拉计数器。</specialTip>
+      <specialTip openLevel="5" key="5">完成对“$0”的工作后，当员工的生命值低于50%且工作结果为优时，“$0”的逆卡巴拉计数器会立刻增加。</specialTip>
+     </specialTipSize>
+  </observe>
+</creature>

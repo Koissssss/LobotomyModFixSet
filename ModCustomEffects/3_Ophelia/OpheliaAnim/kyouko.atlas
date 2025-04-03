@@ -1,0 +1,307 @@
+
+kyouko.png
+size: 1808,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+014huo_penshe_11
+  rotate: true
+  xy: 738, 561
+  size: 218, 311
+  orig: 227, 321
+  offset: 3, 5
+  index: -1
+014huo_penshe_13
+  rotate: false
+  xy: 667, 234
+  size: 217, 311
+  orig: 222, 322
+  offset: 0, 6
+  index: -1
+014huo_penshe_17
+  rotate: false
+  xy: 1616, 986
+  size: 171, 298
+  orig: 206, 317
+  offset: 27, 11
+  index: -1
+014huo_penshe_2
+  rotate: false
+  xy: 667, 6
+  size: 223, 226
+  orig: 230, 239
+  offset: 0, 7
+  index: -1
+014huo_penshe_3
+  rotate: false
+  xy: 1345, 1009
+  size: 269, 275
+  orig: 284, 283
+  offset: 12, 3
+  index: -1
+014huo_penshe_5
+  rotate: false
+  xy: 1106, 607
+  size: 234, 285
+  orig: 245, 295
+  offset: 6, 5
+  index: -1
+014huo_penshe_9
+  rotate: false
+  xy: 1053, 300
+  size: 219, 305
+  orig: 232, 316
+  offset: 10, 6
+  index: -1
+rans_1
+  rotate: false
+  xy: 1345, 781
+  size: 254, 226
+  orig: 261, 242
+  offset: 7, 2
+  index: -1
+rans_2
+  rotate: true
+  xy: 892, 8
+  size: 242, 226
+  orig: 253, 234
+  offset: 6, 2
+  index: -1
+rans_3
+  rotate: false
+  xy: 1342, 547
+  size: 238, 232
+  orig: 256, 239
+  offset: 10, 2
+  index: -1
+rans_4
+  rotate: false
+  xy: 1582, 518
+  size: 221, 233
+  orig: 236, 242
+  offset: 7, 4
+  index: -1
+rans_5
+  rotate: false
+  xy: 1601, 753
+  size: 190, 231
+  orig: 231, 242
+  offset: 9, 4
+  index: -1
+rans_6
+  rotate: false
+  xy: 1120, 77
+  size: 171, 221
+  orig: 226, 234
+  offset: 22, 2
+  index: -1
+内手
+  rotate: false
+  xy: 1525, 98
+  size: 121, 108
+  orig: 123, 110
+  offset: 1, 1
+  index: -1
+内手臂
+  rotate: false
+  xy: 1648, 90
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+内耳朵
+  rotate: false
+  xy: 1051, 680
+  size: 39, 99
+  orig: 734, 737
+  offset: 573, 591
+  index: -1
+前内腿
+  rotate: false
+  xy: 1293, 124
+  size: 69, 218
+  orig: 734, 737
+  offset: 492, 58
+  index: -1
+前发
+  rotate: true
+  xy: 1704, 110
+  size: 110, 95
+  orig: 115, 98
+  offset: 5, 3
+  index: -1
+前外腿
+  rotate: true
+  xy: 1552, 346
+  size: 79, 242
+  orig: 734, 737
+  offset: 444, 34
+  index: -1
+前大腿
+  rotate: true
+  xy: 246, 5
+  size: 38, 77
+  orig: 38, 79
+  offset: 0, 2
+  index: -1
+前小腿
+  rotate: true
+  xy: 404, 9
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+后内腿
+  rotate: false
+  xy: 1364, 162
+  size: 86, 180
+  orig: 734, 737
+  offset: 283, 62
+  index: -1
+后发
+  rotate: false
+  xy: 886, 252
+  size: 165, 307
+  orig: 165, 325
+  offset: 0, 0
+  index: -1
+后外腿
+  rotate: true
+  xy: 1552, 427
+  size: 89, 240
+  orig: 734, 737
+  offset: 217, 35
+  index: -1
+后大腿
+  rotate: true
+  xy: 325, 5
+  size: 38, 77
+  orig: 38, 79
+  offset: 0, 2
+  index: -1
+后小腿
+  rotate: true
+  xy: 1364, 126
+  size: 34, 78
+  orig: 34, 78
+  offset: 0, 0
+  index: -1
+后摆
+  rotate: false
+  xy: 1120, 18
+  size: 141, 57
+  orig: 141, 57
+  offset: 0, 0
+  index: -1
+嘴巴
+  rotate: false
+  xy: 1053, 277
+  size: 59, 21
+  orig: 61, 23
+  offset: 1, 1
+  index: -1
+外手
+  rotate: false
+  xy: 1677, 222
+  size: 108, 122
+  orig: 110, 124
+  offset: 1, 1
+  index: -1
+外手臂
+  rotate: false
+  xy: 1387, 8
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+外耳朵
+  rotate: true
+  xy: 1704, 66
+  size: 42, 96
+  orig: 734, 737
+  offset: 602, 587
+  index: -1
+宝石
+  rotate: false
+  xy: 1452, 222
+  size: 75, 159
+  orig: 131, 181
+  offset: 34, 8
+  index: -1
+武器
+  rotate: false
+  xy: 738, 781
+  size: 366, 503
+  orig: 734, 737
+  offset: 90, 80
+  index: -1
+火
+  rotate: false
+  xy: 1452, 102
+  size: 71, 118
+  orig: 734, 737
+  offset: 330, 590
+  index: -1
+眉毛
+  rotate: true
+  xy: 1789, 1032
+  size: 252, 17
+  orig: 254, 19
+  offset: 1, 1
+  index: -1
+眼睛
+  rotate: false
+  xy: 2, 4
+  size: 242, 39
+  orig: 267, 87
+  offset: 16, 20
+  index: -1
+脸
+  rotate: false
+  xy: 1293, 2
+  size: 92, 98
+  orig: 92, 98
+  offset: 0, 0
+  index: -1
+身体
+  rotate: false
+  xy: 1406, 383
+  size: 144, 162
+  orig: 144, 162
+  offset: 0, 0
+  index: -1
+马
+  rotate: false
+  xy: 2, 45
+  size: 663, 500
+  orig: 734, 737
+  offset: 43, 95
+  index: -1
+马饰品
+  rotate: false
+  xy: 2, 547
+  size: 734, 737
+  orig: 734, 737
+  offset: 0, 0
+  index: -1
+魔女内手
+  rotate: true
+  xy: 1529, 208
+  size: 136, 146
+  orig: 734, 737
+  offset: 380, 373
+  index: -1
+魔女外手
+  rotate: false
+  xy: 1274, 344
+  size: 130, 201
+  orig: 734, 737
+  offset: 210, 331
+  index: -1
+魔女身体
+  rotate: false
+  xy: 1106, 894
+  size: 237, 390
+  orig: 734, 737
+  offset: 233, 224
+  index: -1

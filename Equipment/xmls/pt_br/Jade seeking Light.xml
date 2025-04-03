@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+ <text id="summerjade_weapon_name">&lt;color=#65C7A4&gt;Luz&lt;/color&gt;&lt;color=#FFB85C&gt; Brilhante&lt;/color&gt;</text>
+  
+ <text id="summerjade_weapon_specialDesc">&lt;color=#FF0000&gt;AVISO: Portadores com atributo de Justiça menor que V entrarão em pânico imediatamente após a conclusão de uma supressão!&lt;/color&gt;&#13;&#10;Esta arma vai lidar&lt;color=#FFB85C&gt;Dano de CHIFRE igual ao dano BRANCO&lt;/color&gt;and&lt;color=#FFED2C&gt;Dano ESTRELA igual ao dano PÁLIDO&lt;/color&gt;.&#13;&#10;Para cada ataque, o usuário causa dano de JADE igual a 1,2% do PV atual do alvo, ignorando a resistência do alvo.&lt;color=#65C7A4&gt;Se "Vazio, mas Brilhante" estiver equipado, o dano máximo é aumentado em +8, e o mínimo é aumentado em +2.&lt;/color&gt;。&#13;&#10;&lt;color=#FFED2C&gt;If "Luz Estelar" está equipado, os valores máximo e mínimo de dano são aumentados em +4 cada.&#13;&#10;If "Luz Estelar" está equipada, dano máximo +4, mínimo +4. Mínimo +4.&#13;&#10;Em caso de acerto, se a resistência BRANCA do alvo for menor que 0,2, ela será modificada para 0,2 pelo resto do dia.&#13;&#10;Quando atingido, o portador recupera PV igual a 2,6% do PS atual &#13;&#10;e PS igual a 2,6% do pS máximo.&#13;&#10;Esta arma tem 12% de chance de causar um ataque aprimorado, que aumenta ainda mais se o dom "Luz Estelar" ou "Asas Flutuantes" estiverem equipados, ou ambos.&lt;/color&gt;</text>
+  
+ <text id="summerjade_weapon_desc">&lt;color=#65C7A4&gt;Quanto mais poderoso for o alvo atingido por esta arma, mais chocantes serão as cicatrizes deixadas.&lt;/color&gt;&#13;&#10;A superfície deste bastão de jade sempre fluirá com uma luz brilhante que é difícil de descrever em palavras, e é quente e macia ao toque, o que faz as pessoas se sentirem maravilhadas.&#13;&#10;Segurando uma balança de jade na mão e mantendo o caminho certo no coração, é possível ouvir a voz de todas as coisas, conhecer a verdade de todas as coisas e ascender à imortalidade.&#13;&#10;Entretanto, se você mantiver esta régua e perder a justiça em seu coração, então uma má sorte incessante seguirá os indignos, até mesmo até a morte.&#13;&#10;&lt;color=#FFB85C&gt;Este é o caminho que não permite nem um centímetro de margem de manobra; em vez disso, é um caminho que adere àquela luz brilhante.&lt;/color&gt;</text>
+ 
+
+ <text id="summerjade_armor_name">&lt;color=#65C7A4&gt;Vazio&lt;/color&gt;&lt;color=#FFB85C&gt;mas Brilhante&lt;/color&gt;</text>
+
+//&lt;color=#FF0000&gt;AVISO: Se os atributos Prudência e Temperança do usuário estiverem abaixo de V, a armadura perderá poder em uma mudança de nível de fusão! (Não implementado)&lt;/color&gt;&#13;&#10;
+ 
+ <text id="summerjade_armor_specialDesc">&lt;color=#FFED2C&gt;Se o usuário estiver fora de controle, se seu PS for maior que 30% do seu valor máximo, o estado fora de controle é removido. Se "Luz Brilhante" estiver equipado, ele reduz todas as quatro resistências em 0,2 adicionais.&#13;&#10;Quando o PS do usuário está acima de 50%, o dano causado por anormalidades de nível HE ou inferiores é bastante reduzido.&#13;&#10;Quando o PS do usuário estiver abaixo de 20%, o dano BRANCO recebido será aumentado em 50%.&lt;/color&gt;</text>
+  
+ <text id="summerjade_armor_desc">&lt;color=#65C7A4&gt;A textura desta armadura é surpreendentemente fina e macia e, quando usada, pode quebrar ilusões, prevenir forças malignas e manter o espírito limpo.&lt;/color&gt;&#13;&#10;Entretanto, as decorações caras na superfície da roupa de proteção não devem ser removidas sem um teste, pois tal ato ganancioso fará com que a roupa de proteção rejeite violentamente o usuário e perca seu poder original.&#13;&#10;&lt;color=#FFB85C&gt;O eremita parte para o céu no guindaste branco, deixando para trás uma marca vazia, porém brilhante.&lt;/color&gt;</text>
+ 
+
+ <text id="summerjade_gift_name">&lt;color=#FFB85C&gt;Luz Estelar&lt;/color&gt;</text>
+ <text id="summerjade_gift_Desc">&lt;color=#FFED2C&gt;PS+6, Taxa de Sucesso de Trabalho +3, Velocidade de Movimento +3, Velocidade de Ataque +6&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;Se estiver usando "Luz Brilhante" e "Vazio, mas Brilhante", e se a velocidade de ataque do usuário for 150 ou mais, o usuário tem 6% de chance de usar um ataque especial para cada ataque.&#13;&#10;Este presente é derivado do recipiente de Hallownest, Jade Seeking Light. (Esta é uma skin publicada, disponível no Bilibili.)&lt;/color&gt;&#13;&#10;&lt;color=#FFFEC8&gt;Yin e Yang estão em harmonia, e as estrelas brilham intensamente.&lt;/color&gt;</text>
+ 
+ <text id="summerjade_gift2_name">&lt;color=#65C7A4&gt;Asas Esvoaçantes&lt;/color&gt;</text>
+ <text id="summerjade_gift2_Desc">&lt;color=#FFED2C&gt;PV-18, PS+12, Taxa de Sucesso de Trabalho +6, Velocidade de Movimento +6, Velocidade de Ataque +12&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;Se estiver empunhando "Luz Brilhante" e usando "Vazio, mas Brilhante", o dano VERMELHO recebido é convertido em 0,75 vezes o dano PÁLIDO.&#13;&#10;Se o PV do funcionário exceder 200, o funcionário ganancioso sofrerá calamidade.&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;Lamento minha curta vida e invejo o fluxo infinito do Grande Rio.&lt;/color&gt;</text>
+
+ <text id="summerjade_gift3_name">&lt;color=#FFED2C&gt;Noite de verão de Jade&lt;/color&gt;</text>
+ <text id="summerjade_gift3_Desc">&lt;color=#FFED2C&gt;PV-6, PS+16, Taxa de Sucesso de Trabalho +8, Velocidade de Movimento+4, Velocidade de Ataque +4&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;Este presente é derivado do iterador de Rain World, SummerNightJade.&lt;/color&gt;&#13;&#10;&lt;color=#20594B&gt;Descanse em paz eterna, meu amigo.&lt;/color&gt;</text>
+ 
+ <text id="summerjade_0armor_name">Falha Vazia</text>
+ <text id="summerjade_0armor_desc">A textura desta armadura ainda é leve e macia, mas não é mais eficaz em manter a clareza mental.&#13;&#10;Mesmo se você recolocar os ornamentos pendurados na superfície da armadura, a funcionalidade original não será restaurada.&#13;&#10;Só resta o vazio do fracasso.</text>
+</localize>

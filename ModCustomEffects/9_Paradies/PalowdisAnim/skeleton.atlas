@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 1314,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 2
+  size: 716, 547
+  orig: 854, 640
+  offset: 0, 5
+  index: -1
+Face
+  rotate: true
+  xy: 954, 7
+  size: 112, 198
+  orig: 854, 640
+  offset: 411, 318
+  index: -1
+HairBehind
+  rotate: false
+  xy: 938, 270
+  size: 191, 279
+  orig: 854, 640
+  offset: 357, 319
+  index: -1
+HairFront
+  rotate: true
+  xy: 1131, 440
+  size: 109, 181
+  orig: 854, 640
+  offset: 382, 370
+  index: -1
+光环
+  rotate: false
+  xy: 1131, 183
+  size: 165, 93
+  orig: 541, 541
+  offset: 229, 350
+  index: -1
+前发
+  rotate: false
+  xy: 973, 121
+  size: 154, 147
+  orig: 541, 541
+  offset: 202, 271
+  index: -1
+后发
+  rotate: true
+  xy: 1131, 278
+  size: 160, 165
+  orig: 541, 541
+  offset: 181, 246
+  index: -1
+手上爱心
+  rotate: true
+  xy: 938, 233
+  size: 35, 33
+  orig: 541, 541
+  offset: 277, 196
+  index: -1
+翅膀
+  rotate: false
+  xy: 1154, 57
+  size: 127, 124
+  orig: 541, 541
+  offset: 108, 201
+  index: -1
+脸
+  rotate: false
+  xy: 720, 224
+  size: 216, 325
+  orig: 216, 325
+  offset: 0, 0
+  index: -1
+身体
+  rotate: true
+  xy: 720, 24
+  size: 198, 232
+  orig: 541, 541
+  offset: 141, 50
+  index: -1

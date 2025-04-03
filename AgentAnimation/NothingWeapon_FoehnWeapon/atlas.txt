@@ -1,0 +1,188 @@
+
+fenfeng_weapon.png
+size: 636,1030
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: true
+  xy: 2, 377
+  size: 128, 256
+  orig: 256, 256
+  offset: 64, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 332, 348
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatLeft
+  rotate: true
+  xy: 2, 247
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+CoatRight
+  rotate: false
+  xy: 260, 7
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: true
+  xy: 590, 286
+  size: 139, 42
+  orig: 256, 128
+  offset: 58, 40
+  index: -1
+EyeBrow
+  rotate: true
+  xy: 382, 761
+  size: 118, 6
+  orig: 256, 128
+  offset: 65, 61
+  index: -1
+HairBack
+  rotate: true
+  xy: 338, 478
+  size: 227, 287
+  orig: 256, 512
+  offset: 14, 113
+  index: -1
+HairFront
+  rotate: false
+  xy: 2, 13
+  size: 254, 232
+  orig: 256, 256
+  offset: 2, 8
+  index: -1
+Head
+  rotate: false
+  xy: 390, 141
+  size: 191, 205
+  orig: 256, 256
+  offset: 35, 27
+  index: -1
+L arm 1
+  rotate: false
+  xy: 390, 2
+  size: 48, 88
+  orig: 128, 128
+  offset: 37, 20
+  index: -1
+L arm 2
+  rotate: false
+  xy: 260, 357
+  size: 59, 90
+  orig: 128, 128
+  offset: 32, 20
+  index: -1
+L hand
+  rotate: true
+  xy: 590, 427
+  size: 49, 43
+  orig: 64, 64
+  offset: 7, 11
+  index: -1
+L leg 1
+  rotate: false
+  xy: 583, 92
+  size: 51, 94
+  orig: 128, 128
+  offset: 40, 13
+  index: -1
+L leg 2
+  rotate: false
+  xy: 320, 267
+  size: 50, 79
+  orig: 128, 128
+  offset: 39, 29
+  index: -1
+Mouth
+  rotate: false
+  xy: 382, 881
+  size: 18, 7
+  orig: 128, 128
+  offset: 56, 59
+  index: -1
+Note
+  rotate: true
+  xy: 490, 33
+  size: 106, 91
+  orig: 256, 256
+  offset: 69, 76
+  index: -1
+R arm 1
+  rotate: false
+  xy: 440, 2
+  size: 48, 88
+  orig: 128, 128
+  offset: 40, 21
+  index: -1
+R arm 2
+  rotate: false
+  xy: 260, 265
+  size: 58, 90
+  orig: 128, 128
+  offset: 35, 19
+  index: -1
+R hand
+  rotate: true
+  xy: 338, 707
+  size: 44, 50
+  orig: 64, 64
+  offset: 10, 8
+  index: -1
+R leg 1
+  rotate: false
+  xy: 583, 188
+  size: 51, 96
+  orig: 128, 128
+  offset: 35, 8
+  index: -1
+R leg 2
+  rotate: true
+  xy: 260, 449
+  size: 56, 70
+  orig: 128, 128
+  offset: 35, 30
+  index: -1
+刺击
+  rotate: true
+  xy: 409, 707
+  size: 321, 218
+  orig: 385, 230
+  offset: 23, 11
+  index: -1
+劈斩
+  rotate: true
+  xy: 2, 507
+  size: 244, 334
+  orig: 256, 334
+  offset: 12, 0
+  index: -1
+发光
+  rotate: false
+  xy: 2, 815
+  size: 378, 73
+  orig: 426, 100
+  offset: 23, 13
+  index: -1
+横扫
+  rotate: false
+  xy: 2, 890
+  size: 405, 138
+  orig: 411, 204
+  offset: 6, 40
+  index: -1
+焚风-武器png
+  rotate: false
+  xy: 2, 753
+  size: 367, 60
+  orig: 426, 100
+  offset: 27, 20
+  index: -1

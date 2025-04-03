@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="158161">
+
+
+
+    <narration action="move">
+      #0 enters $0's Containment Unit to begin work.
+    </narration>
+    <narration action="start">
+      [
+      {$0 doesn't seem to notice her own burning.}
+      {$0 dislikes those people who talk shamelessly about idealism.},
+      ]
+    </narration>
+    <narration action="mid1">
+      [
+      {#0 feels an inexplicable heat wave coming at them.},
+      {#0's heartbeat accelerats instantly, and feels as if he is locked by some powerful force.}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {#0 steps into the Containment Unit carefully, and sees $0 kneeling quietly with her head down.},
+      {#0 tries to communicate with $0, but her voice is only chilling.},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {&lt;color=#b55469&gt;"Isn't it the story of love and courage winning always like this?"&lt;/color&gt;},
+      {&lt;color=#b55469&gt;"Even I, I became a magical girl because I longed for that kind of thing..."&lt;/color&gt;},
+      ]
+    </narration>
+   
+   
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">X-01-15</codeNo>
+      <portrait openLevel ="1">Custom/Ophelia_portrait</portrait>
+
+      <name openLevel ="1">
+        Magical Girl
+      </name>
+
+      <name openLevel ="4">
+        Ophelia
+      </name>
+
+      <riskLevel openLevel ="1">
+        ALEPH
+      </riskLevel>
+
+      <openText>"Don't worry, Sayaka. It must be lonely being alone. Okay, let me accompany you on the road, Sayaka."</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {Ophelia, her nature is self-abandonment. Betrayed by the wish she made, she wanders forever in the hazy mist, following the illusory footsteps. Under the cynical mask, she still holds the original ideal, but naïve actions are often hit hard by reality. How can people whose hearts are buried by despair rekindle hope?
+What exactly is the horse that always accompanies her... she can't remember it anymore.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {The Abnormality has a girlish appearance, wearing a red dress, holding a ruby ​​hairpin that looks like a cross in both hands, kneeling on the ground of the containment unit and praying with eyes closed.
+Beside her is a huge black and white warhorse without a bridle, like a shadow puppet. A gem-shaped red pendant hangs on the neck of the warhorse, and the original bright red is covered by a large area of ​​black.
+The Abnormality has red hair and a long-lasting fire burning at the back of its head. The flame is bright and hot, just like the Abnormality herself, as if she has burned out all its passion and ignited itself, burning fiercely.
+...
+The burning time of a candle usually ranges from 40 to 60 minutes, and this time range applies to candles of ordinary size and material.
+Even so, the actual burning time will be affected by many factors.
+Human enthusiasm for certain things can last for about three to five weeks, and this time range applies to the average of the number of people surveyed.
+Even so, this value changes frequently due to differences in goals, interests, personality, etc.
+So, how long can a candle burn in a howling wind?
+...How long can a blazing heart beat?}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {&lt;Audio Log X5-1401&gt;
+Employee M4032: Good afternoon, the weather is pretty good today. I mean, in this environment, even a ray of sunshine is enough to comfort the mind, what do you think?
+Ophelia: ...The smell of blood, the temperature of corpses, the screams of the crowd, as you said, today's weather is indeed good.
+Employee M4032: There is no need to be so extreme... There are still many worthwhile things. We work ourselves to death in this fucked-up place, isn't it all for…
+Ophelia: Is that what they all think, or is it just your own wishful thinking?
+Employee code M4032: ... Maybe both, all kinds of reasons that allow us to stay in the world, aren't people made up of all kinds of reasons?
+Ophelia: How long can those reasons support you?
+Ophelia: The people you cherish may die tomorrow, and the things you cherish may be destroyed by an accident. When there is no reason to support you, can you still be considered a person?
+Employee M4032: This idea is too extreme. I admit that there is a possibility, but...
+Ophelia: Are you sure it is only a possibility?
+Employee M4032: I...
+Ophelia: Can you protect everything you cherish?
+Employee M4032: ...
+Ophelia: Hesitation has already shown your attitude. No matter how many reasons there are, how many candles there are, once the wind blows, some will slake, some will scatter. How can you live with a heart that has stopped beating?
+(End of record)
+Additional information: The employee showed mild psychological problems in the subsequent Attachment work and has been transferred for psychological treatment. Here we strongly request the Training Team to strengthen the psychological endurance of employees. What we need are employees who can complete their work seriously, not scouts who doubt their lives because of one or two words of guidance from someone!
+...}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {...
+「Kyoko Sakura」 is the eldest daughter in the family.
+Born in a religeous family, she has a family that should be happy.
+But there is an unexpected twist in the small details.
+"God will give salvation to the kind hearts. We must be grateful to God and follow the guidance of the Lord."
+This is the original doctrine of the church and the creed supported by most people.
+But her naïve father believed that the teachings of religion were out of date and could not save all tragedies.
+"Despair is the root of all evil that destroys everything. As long as you hold hope, you can walk on the right path no matter what desperate situation you are in."
+God helps those who help themselves... It's like a child's play. Holding hope is like protecting a weak flame in the cold wind.
+Even though she is not recognized by believers, she still supports her father. However, ideals and hopes cannot fill the hunger in their stomachs after all.
+God did not help her. It's better to say, does the so-called God really exist?
+As if smelling her surging emotions, the hypocritical demon brought her a contract to realize her wish.
+Countless people gathered in the church, eager to listen to the sermon of hope, and those cracked firewoods rose up in flames.
+The fire engulfed her father, mother, sister and everything in the past. Now, only a weak firefly is left.
+...}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {Perhaps she still remembers that when she saw that blue, she said words for justice and her eyes were innocent, just like her former self.
+... It was so annoying.
+But who was she disliking?
+The senior who took care of her? The newcomer with ideals? Or the girl who was still eager to burn?
+She could be indifferent to many things, but looking at the girl who looked like her, she felt that she had to let her know how stupid it was to fight for others.
+She was persuading and denying, but she and she were two different people after all.
+It must be lonely to be on her own...
+The red knight followed the princess and left in the end.
+That was the last flicker of fire of 「Kyoko Sakura」.}
+      ]
+    </desc>
+
+
+
+    <specialTipSize size="6">
+      <specialTip openLevel="0" key="0">When an Abnormality with Rick Level HE or above escapes, Qliphoth Counter lowered.</specialTip>
+      <specialTip openLevel="1" key="1">After escaping, $0 will blockade the room where the strongest (Which depends on the Risk Level, then the HP) unit is located at and go to the room. When $0 arrives, she will blockade the whole department and fight the unit alone. The rooms and departments that are blockade by $0 will be covered by Labyrinth, the units inside will recive a constent R damage.</specialTip>
+      <specialTip openLevel="2" key="2">After defeating the strongest unit, $0 will return to its Containment Unit. If $0 is defeated, then the whole facility will burn for a while. All the employees in the facility will receive a high amount of constent R damage. </specialTip>
+      <specialTip openLevel="3" key="3">When the work result was Good, Qliphoth Counter increased.</specialTip>
+      <specialTip openLevel="4" key="4">The place where $0 passed will burn in fire, the units who touched the fire will receive a constent R damage.</specialTip>
+      <specialTip openLevel="5" key="5">When X-01-14 escapes, $0 will choose X-01-14 as the target and escape immediately. After defeating X-01-14, $0 will die as well.</specialTip>
+    </specialTipSize>
+  </observe>
+</creature>

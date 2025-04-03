@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Foehn_Weapon_Name">焚玉</text>
+<text id="Foehn_Weapon_Desc">一把由“玉”制成的剑，但是剑身上仍有淬火的痕迹。&#10;痛苦，牵引，飘散，新生。</text>
+<text id="Foehn_Weapon_SpecialDesc">发动特殊攻击时，原地蓄力2秒并向前挥出一只火凤。&#10;火凤将穿透路径上的敌人并使其陷入灼烧状态，持续5秒。</text>
+<text id="Foehn_Armor_Name">焚玉</text>
+<text id="Foehn_Armor_Desc">痛苦，牵引，飘散，新生。</text>
+<text id="Foehn_Gift_Name">玉焚</text>
+<text id="Foehn_Gift_Desc">生命值+2 精神值+2 攻击速度+3&#10;由痛苦和白光提纯凝结成的宝石。</text>
+</localize>

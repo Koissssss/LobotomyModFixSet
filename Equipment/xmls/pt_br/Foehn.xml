@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Foehn_Weapon_Name">Jade Queimando</text>
+<text id="Foehn_Weapon_Desc">A espada é feita de "jade", mas marcas de queimadura ainda podem ser vistas na lâmina.&#10;Sofrer, Esticar, Dispersar e Reformar.</text>
+<text id="Foehn_Weapon_SpecialDesc">Ocasionalmente, lance um ataque especial, onde o usuário acumula poder por 2 segundos, antes de liberar uma fênix de fogo para frente.&#10;A fênix atacará todos os inimigos em seu caminho e os incendiará por 5 segundos.</text>
+<text id="Foehn_Armor_Name">Jade Queimando</text>
+<text id="Foehn_Armor_Desc">Sofrer, Esticar, Dispersar e Reformar</text>
+<text id="Foehn_Gift_Name">Jade Queimando</text>
+<text id="Foehn_Gift_Desc">PV+2, PS+2, Velocidade de Ataque+3&#10;As joias mais brilhantes são formadas pela dor mais profunda.</text>
+</localize>

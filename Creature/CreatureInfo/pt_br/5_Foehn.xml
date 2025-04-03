@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="199732">
+
+
+
+    <narration action="move">
+      #0 entra na unidade de contenção de $0 para começar a trabalhar.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {O calor escaldante do ambiente deixa #0 desconfortável.}
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {#0 observou $0 normalmente, mas de repente começou a ficar irado.}
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {De repente, #0 sentiu que não conseguia respirar.}
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">T-06-208</codeNo>
+      <portrait openLevel ="1">Custom/Foehn</portrait>
+
+      <name openLevel ="1">
+        Foehn
+      </name>
+
+      <riskLevel openLevel ="1">
+        WAW
+      </riskLevel>
+
+      <openText>O vento vermelho podia ser visto no ar, contendo em si uma agonia mais brilhante que fogo ardente.</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {A cidade está sempre cheia de dor. Às vezes, um vento foehn sopra com tanto fervor, levando embora essa mesma dor com sua rajada ardente.}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {Esse vento muitas vezes sopra nos corações daqueles que sofrem, cumprindo sua "vingança" por eles.}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {Funcionários que trabalharam com essa Anormalidade tendem a desenvolver fobias de tudo que está fora de seu alcance.}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {Justin e Roland eram dois fixadores comuns nos subúrbios, exaustos pelo estresse diário da cidade. Um dia, eles deixaram seus empregos e se prepararam para ir ao bar e se divertir. Justin estava feliz, tendo sido promovido recentemente a fixador de grau 3, e Roland estava feliz apenas por estar na companhia de seu amigo. Os dois beberam e conversaram sobre as lutas em suas vidas. Mas... o bar, é... um pouco quente...}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {Um incêndio irrompeu atrás dos dois homens, queimando-os em cinzas e destruindo a taverna.
+Ai de mim... aquele vento foehn levou embora todo o sofrimento deles, mas levou embora a felicidade deles também.
+Oh, vento foehn, você é tão apaixonado, tão justo, tão quieto, mas você não é nada além do vento, o vento da vingança nascido da miséria...}
+      ]
+    </desc>
+  <specialTipSize size="3">
+      <specialTip openLevel="1" key="1">Quando os resultados do trabalho eram normais ou ruins, o Contador Qliphoth diminuía imediatamente.</specialTip>
+      <specialTip openLevel="2" key="2">O contador Qliphoth diminuía cada vez que 5 funcionários morriam.</specialTip>
+      <specialTip openLevel="3" key="3">Para cada funcionário morto por $0 enquanto ele escapava, sua existência era estendida em 10 segundos e seu dano causado aumentado em 2.</specialTip>
+      <specialTip openLevel="4" key="4">Se $0 derrotasse uma Anormalidade enquanto ela escapasse, $0 retornaria imediatamente para sua contenção e reduziria seu Contador Qliphoth em 1.</specialTip>
+     </specialTipSize>
+  </observe>
+</creature>

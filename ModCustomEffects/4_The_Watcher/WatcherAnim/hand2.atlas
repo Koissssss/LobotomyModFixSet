@@ -1,0 +1,27 @@
+
+hand2.png
+size: 428,298
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+图层2
+  rotate: false
+  xy: 367, 145
+  size: 36, 36
+  orig: 38, 39
+  offset: 1, 1
+  index: -1
+图层3
+  rotate: true
+  xy: 367, 183
+  size: 113, 59
+  orig: 115, 61
+  offset: 1, 1
+  index: -1
+图层4
+  rotate: false
+  xy: 2, 2
+  size: 363, 294
+  orig: 363, 294
+  offset: 0, 0
+  index: -1

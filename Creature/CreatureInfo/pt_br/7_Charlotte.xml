@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+<info id="159498">
+<narration action="move"> #0 foi atribuído à unidade de contenção de $0.</narration>
+<narration action="start"> [ {$0 está assistindo #0.} {$0 fica lá imóvel} ] </narration>
+<narration action="mid1"> [ {$0 cheira a queijo} {Vários doces apareceram em torno de $0} {#0 tenta resistir à vontade de tocá-lo.} ] </narration>
+<narration action="mid2"> [ {$0 é muito adorável.} {#0 sentiu o cheiro do queijo e ouviu o guincho dos ratos.} ] </narration>
+</info>
+<observe level="4">
+<collection>
+<codeNo openLevel="0">T-01-33</codeNo>
+<name openLevel="1">Garota Mágica</name>
+<name openLevel="4">Bruxa das Sobremesas</name>
+<portrait openLevel="1">Custom/Charlotte</portrait>
+<riskLevel openLevel="1">HE</riskLevel>
+<openText>Eu só quero comer queijo de novo~</openText>
+</collection>
+<desc id="1" openLevel="0"> [ {Momoe Nagisa era originalmente uma garota mágica que assinou contrato com Kyubey. A razão para se tornar uma garota mágica foi para sua mãe moribunda comer o melhor cheesecake. Mais tarde, ela se arrependeu de não ter salvado diretamente a vida de sua mãe como desejava. Depois de entrar em desespero, ela se tornou Charlotte, a bruxa da sobremesa. No mundo sem bruxas criado por Kaname Madoka após sua ascensão à divindade, ela foi redimida pela "Lei dos Ciclos" momentos antes de se tornar uma bruxa. Ela voltou "Porque eu queria comer queijo mais uma vez!", junto com Miki Sayaka, ela aceitou a missão de se tornar a mensageira da "Lei dos Ciclo".} ] </desc>
+<desc id="2" openLevel="1"> [ {A bruxa da sobremesa. sua natureza é tenacidade. Ela deseja tudo. Ela nunca desistirá. Embora seja capaz de criar quantidades infinitas de qualquer sobremesa que desejar, ela não consegue fazer o queijo que mais adora. Tem duas formas. 1: Forma inicial tipo Ragdoll, inexpressiva. 2: Um grande verme saindo da boca do boneco de pano. Possui corpo preto coberto de bolinhas vermelhas e um par de asas vermelhas e azuis em ambos os lados da cabeça (inútil).} ] </desc>
+<desc id="3" openLevel="2"> [ {Ela tem o hábito de terminar as frases com "...desu", e sempre tem medo de virar queijo (em forma de bruxa); ela claramente não sabe o que significa observar as situações, quando Miki Sayaka e Sakura Kyoko lutam juntas, sua atmosfera calorosa foi quebrada por Nagisa, que disse: “Eu só quero comer queijo de novo ~”} ] </desc>
+<desc id="4" openLevel="3"> [ {O método de luta de Nagisa é bastante especial. Em vez de invocar armas para atacar, ela convoca vários familiares (os familiares de todas as bruxas do velho mundo) para lutar por ela. Ela também pode usar sua própria arma, uma pistola de bolhas em forma de trombeta, para estourar bolhas e prejudicar ou danificar os inimigos.} ] </desc>
+<desc id="5" openLevel="4"> [ {Quando ela apareceu pela primeira vez, ela foi descoberta por Madoka Kaname e Sayaka Miki na forma de uma "Semente do Luto" não eclodida. Após a eclosão, tornou-se a bruxa da sobremesa Charlotte, e foi combatida por Tomoe Mami que foi trazida por Madoka para a barreira. Após ser contida por Tomoe Mami em sua forma inicial, ela se transformou em sua segunda forma e arrancou a cabeça de Tomoe Mami e a devorou, sendo então eliminada por Akemi Homura que chegou depois.} ] </desc>
+<desc id="6" openLevel="4"> [ {Após Akemi Homura se transformar em demônio e reconstruir o mundo, ela foi separada da Lei dos Ciclos com Miki Sayaka, e suas memórias foram adulteradas, após ela renascer no novo mundo, ela ainda manteve um relacionamento próximo com Mami.} ] </desc>
+<specialTipSize size="4">
+<specialTip openLevel="1" key="1">Se o trabalho do Instinto foi realizado em uma Anormalidade cuja unidade de contenção está em estado de colapso, o contador Qliphoth de $0 será imediatamente reduzido.</specialTip>
+<specialTip openLevel="2" key="2">When Instinct work is performed on $0 and the result is good, $0's Qliphoth counter immediately increased.</specialTip>
+<specialTip openLevel="3" key="3">Se o nível de Fortitude do funcionário for inferior ao nível 3 e foi designado para trabalhar em $0, $0 arrancará sua cabeça com uma mordida e violará imediatamente a contenção após a conclusão do trabalho..</specialTip>
+<specialTip openLevel="4" key="4">Após violações de $0, ele aparecerá em um corredor aleatório, sem se mover e não causará danos aos funcionários. Quando sua saúde chegar a zero, $0 mudará para sua segunda forma. Nesta forma, ele ocasionalmente abrirá a boca e se moverá em maior velocidade, causando dano a todos os funcionários em seu caminho. Se a saúde de um funcionário estiver abaixo de 20% ao colidir com $0, $0 irá matá-lo instantaneamente, arrancando sua cabeça com uma mordida.</specialTip>
+<specialTip openLevel="5" key="5">Após a fuga de $0, sua barreira de bruxa será gerada em toda a instalação, reduzindo a resistência RED de todos os funcionários.</specialTip>
+</specialTipSize>
+</observe>
+</creature>

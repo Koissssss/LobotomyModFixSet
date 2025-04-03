@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="summerjade_weapon_name">&lt;color=#65C7A4&gt;流&lt;/color&gt;&lt;color=#FFB85C&gt;光&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_specialDesc">&lt;color=#FF0000&gt;警告：持有者若正义属性低于V则会在镇压结束后立即陷入恐慌！&lt;/color&gt;&#13;&#10;这把武器将会造成等同于精神伤害的&lt;color=#FFB85C&gt;鹿角伤害&lt;/color&gt;和等同于灵魂伤害的&lt;color=#FFED2C&gt;星光伤害&lt;/color&gt;。&#13;&#10;持有者每次攻击将追加无视目标抗性，大小等同于目标当前生命1.2%的&lt;color=#65C7A4&gt;玉石伤害&lt;/color&gt;。&#13;&#10;&lt;color=#FFED2C&gt;若装备了“空明”则伤害最大值+8，最小值+2.&#13;&#10;若装备了“星光”则伤害最大值+4，最小值+4.&#13;&#10;命中时，为持有者回复等同于当前精神值2.6%的血量和等同于最大精神值2.6%的精神。&#13;&#10;若目标的精神抗性小于0.2，则在当天额外将其修正为0.2.&#13;&#10;这把武器有12%的概率暴击，并根据“星光”和“桂棹”的装备情况提高伤害。&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_desc">&lt;color=#65C7A4&gt;这把尺击中的目标越强大，留下的伤痕越是触目惊心。&lt;/color&gt;&#13;&#10;这把玉尺表面总会流淌着难以用语言形容的灿烂光辉，触感温润柔和，令人对其产生敬畏之心。&#13;&#10;手持玉尺，心怀正道，便可通万物之声，晓万物之理，羽化而登仙。&#13;&#10;然而，若持有这把尺而迷失了心中的公正，厄运将无止无休地缠绕德不配位者，直至死亡。&#13;&#10;&lt;color=#FFB85C&gt;流光不容寸，斯道甘枉尺。&lt;/color&gt;</text>
+
+
+  <text id="summerjade_armor_name">&lt;color=#65C7A4&gt;空&lt;/color&gt;&lt;color=#FFB85C&gt;明&lt;/color&gt;</text>
+
+//&lt;color=#FF0000&gt;警告：若穿戴者的谨慎与自律属性均低于V，护甲将会在融毁等级变更时失效！（制作中）&lt;/color&gt;&#13;&#10;
+
+  <text id="summerjade_armor_specialDesc">&lt;color=#FFED2C&gt;能够让穿戴者在遭到控制时破除眼前的幻境。若装备了“流光”则额外使四项抗性减算0.2.&#13;&#10;穿戴者的精神高于50%时，受到来自HE级及以下异想体的伤害将会大幅降低。&#13;&#10;穿戴者的精神低于20%时，受到的精神伤害将会提高50%。&lt;/color&gt;</text>
+
+  <text id="summerjade_armor_desc">&lt;color=#65C7A4&gt;这件护甲的质地出乎意料地轻薄柔软，穿戴有破幻辟邪，维持神智清明之效。&lt;/color&gt;&#13;&#10;但请注意，切莫不禁考验而摘下护甲表面悬挂着的昂贵饰物，此等贪婪行径将立即引起护甲的剧烈排斥，并丧失原有的功能。&#13;&#10;&lt;color=#FFB85C&gt;仙人骑鹤去，留迹在空明。&lt;/color&gt;</text>
+
+
+  <text id="summerjade_gift_name">&lt;color=#FFB85C&gt;星光&lt;/color&gt;</text>
+  <text id="summerjade_gift_Desc">&lt;color=#FFED2C&gt;最大精神值+6 成功率+3 移动速度+3 攻击速度+6&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;若携带了武器“流光”并穿戴了护甲“空明”，且员工的攻击速度达到150及以上，每次攻击将有6%的概率使用特殊攻击。&#13;&#10;这个饰品取自源于圣巢的容器灿蓝追金。（是公开皮肤，b站有噢）&lt;/color&gt;&#13;&#10;&lt;color=#FFFEC8&gt;阴阳调和，星光灿烂。&lt;/color&gt;</text>
+
+  <text id="summerjade_gift2_name">&lt;color=#65C7A4&gt;桂棹&lt;/color&gt;</text>
+  <text id="summerjade_gift2_Desc">&lt;color=#FFED2C&gt;最大生命值-18 最大精神值+12 成功率+6 移动速度+6 攻击速度+12&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;携带武器“流光”并穿戴护甲“空明”时，将受到的物理伤害转化为0.75倍灵魂伤害。&#13;&#10;如果贪婪的员工血量超过200将会招致灾祸。&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;哀吾生之须臾，羡长江之无穷&lt;/color&gt;</text>
+
+  <text id="summerjade_gift3_name">&lt;color=#FFED2C&gt;夏夜&lt;/color&gt;</text>
+  <text id="summerjade_gift3_Desc">&lt;color=#FFED2C&gt;最大生命值-6 最大精神值+16 成功率+8 移动速度+4 攻击速度+4&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;若在携带武器“流光”的同时穿戴护甲“空明”，则在受到指派移动时开启星灿之门(最多同时存在一组)&#13;&#10;这个饰品取自雨世界的迭代器夏夜倏玉。&lt;/color&gt;&#13;&#10;&lt;color=#20594B&gt;致我的友人永恒安宁。&lt;/color&gt;</text>
+
+	<text id="Sia_gift_name">&lt;color=#FF925C&gt;披星&lt;/color&gt;</text>
+	<text id="Sia_gift_Desc">&lt;color=#FFBA69&gt;最大生命值+2 最大精神值+12 工作速度+6 成功率+6 &#13;&#10;移动速度+8 攻击速度+8&lt;/color&gt;&#13;&#10;&lt;color=#FF925C&gt;撕夜千云破，披星万辰开。&lt;/color&gt;</text>
+
+	<text id="Nyx_gift_name">&lt;color=#BAEDD6&gt;灿玉&lt;/color&gt;</text>
+	<text id="Nyx_gift_Desc">&lt;color=#65C7A4&gt;最大生命值+6 最大精神值+12 移动速度+12 攻击速度+12&lt;/color&gt;&#13;&#10;&lt;color=#BAEDD6&gt;孤明驱千祟，玉心辉万霄。&lt;/color&gt;</text>
+
+	<text id="Lan_gift_name">&lt;color=#7ED7AA&gt;兰枝&lt;/color&gt;</text>
+	<text id="Lan_gift_Desc">&lt;color=#FFED2C&gt;最大生命值+12 最大精神值+6&lt;/color&gt;&#13;&#10;&lt;color=#D0FBDF&gt;白玉缀枝头，无绿也无愁。&lt;/color&gt;</text>
+	
+  <text id="summerjade_0armor_name">失效的空明</text>
+  <text id="summerjade_0armor_desc">这件护甲的质地依然轻薄柔软，但不再有维持神智清明之效。&#13;&#10;哪怕重新装回护甲表面悬挂着的饰物，原有的功能也不会回归了。&#13;&#10;只剩一片空明。</text>
+</localize>

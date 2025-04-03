@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+  <!--
+    info - 관찰 레벨과는 관련 없는 정보들 ex)데미지, id, 이미지 소스 등
+    
+    observe - 관찰 정도에 따라 제공되는 정보들
+              각 정보들에는 정보가 제공되는 레벨을 표기
+              ex) <desc id="1" openLevel="1">"openLevel이 1일 때 이 정보가 제공됨"</desc>
+              
+              observe 노드 안의 level 은 관찰 단계의 갯수를 나타냄
+  -->
+  <info id ="27002">
+
+
+
+    <narration action="move">
+      #0 entra na unidade de contenção de $0 para começar a trabalhar.
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0 não se move nem um centímetro.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {#0 fica hipnotizado pela aparência brilhante de $0.},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {Por um momento, #0 acha que consegue ouvir murmúrios de $0.},
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {De repente, #0 percebe que $0 começa a balançar para frente e para trás. Deve ser a imaginação deles},
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="1">
+    <collection>
+      <codeNo openLevel ="0">O-04-702</codeNo>
+      <portrait openLevel ="1">Custom/Eternal_Flower</portrait>
+
+      <name openLevel ="1">
+        Flor Estranha
+      </name>
+      <name openLevel ="3">
+        Flor da Eternidade
+      </name>
+
+      <riskLevel openLevel ="1">
+        ALEPH
+      </riskLevel>
+      <riskLevel openLevel ="3">Eterno - Impecável</riskLevel>
+
+      <openText>"Espalhadas no céu sem retorno, na terra de fadas bruscas, pedras coloridas florescem em nuvens e nuvens.”</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="1">
+      [
+      {O Huainanzi diz: "Nüwa derreteu pedras de cinco cores para consertar o céu."&#10;Dizem que quando Nuwa consertou o céu, havia uma série de pedras de cinco cores que foram abandonadas, suas localizações deixadas desconhecidas. Uma flor nasceu na fenda de uma das pedras, com um caule fino e folhas estreitas, mas o espírito do céu e da terra podia ser retirado da pedra. Absorvendo a energia interna, a flor cresceu mais e mais, e eventualmente foi capaz de pensar e falar, não diferente das pessoas normais. Ela até começou a praticar o taoísmo.}
+      ]
+    </desc>
+    <desc id="2" openLevel="1">
+      [
+      {Esta flor veio a ser muito solitária. Não tinha ninguém para acompanhá-la dentro do universo, ninguém para fazer amizade com ela, exceto as montanhas e rios, e dezenas de milhões de anos se passaram em um piscar de olhos. A pedra de cinco cores que uma vez lhe forneceu aura também havia desaparecido há muito tempo. Como tal, não importa o quão lindamente floresceu, ninguém percebeu - talvez, tenha florescido muito cedo.
+"Por que eu simplesmente não durmo e acordo mais tarde?" A flor mal conseguia suportar o peso da solidão e, portanto, decidiu adormecer. Esse sono, de fato, durou milhares de anos.
+Quando acordou, estava em uma pequena vila. Crianças brincavam na frente dela, e a fumaça subia lentamente das chaminés dos prédios próximos. Ela sabia que estava longe da época do ano em que normalmente floresce mais brilhante, então na época era apenas uma planta pequena e insignificante. Mas esperar pela mudança de estação era tão insignificante comparado a todo o tempo que ela havia suportado nesta vida que logo floresceu mais uma vez. As pétalas da flor de cinco cores eram cristalinas, como um calêndula de vidro. Naquela época, ver tal coisa poderia ser considerado boa sorte, atraindo os moradores próximos para vê-la, mesmo aqueles que normalmente não se importam com essas coisas. Naturalmente, a flor de cinco cores tinha a inteligência dos humanos, e também o ego, e ela alegava aos moradores que era um deus e exigia tributo. Os moradores ficaram horrorizados com a flor falante e montaram um altar para a flor, tirando tudo o que tinham de valioso para pagar tributo. Mas a flor sabia que isso não era o suficiente para convencer a todos, então a flor de cinco cores lançou um feitiço, emitindo luz de suas próprias pétalas de cinco cores, e tingiu o tributo pago pelos moradores com belas cores...}
+      ]
+    </desc>
+    <desc id="3" openLevel="2">
+      [
+      {Muitos anos se passaram. A flor colorida agora floresceu dentro de um grande jardim, seu altar. Ela pode ficar despreocupada o dia todo, balançando ao vento, bebendo água limpa, e há pessoas para cuidar de suas necessidades e desejos. Sua magia beneficiou as pessoas da aldeia, os itens coloridos que ela criou agora eram produtos procurados no mercado, e todos na aldeia eram prósperos. "A Flor de Cinco Cores é um Deus!" era uma crença profundamente enraizada nos corações de todos. As pessoas estavam perdidas em uma vida de riqueza e ouro, e repetidamente iam pedir à flor de cinco cores para lançar sua magia, a fim de garantir que a riqueza rolasse. A aldeia também era chamada de "Vila das Cinco Cores". No entanto, os bons tempos não duraram para sempre, e os ladrões começaram a saquear a aldeia. Vendo isso, a flor de cinco cores sabia que havia embarcado em um caminho sem volta, então instruiu seus "crentes" a capturar os ladrões que haviam entrado na aldeia e trazê-los para si. Os ladrões em frente à flor de cinco cores ficaram em silêncio, temendo por suas vidas; Mas a flor de cinco cores falou com palavras gentis, persuadindo os ladrões e permitindo que vivessem na Vila das Cinco Cores. Secretamente, ela lançou sua magia sobre os ladrões, fazendo com que eles se "reformassem" e entrassem harmoniosamente na vida dos outros moradores. Mais uma vez, a paz chegou à vila. Depois disso, sempre que os ladrões invadiam a vila, todos eles encontravam o mesmo destino: eles se perdiam na frente da flor de cinco cores. Com o tempo, o número de pessoas perdidas para a vila aumentou, a vila se tornou cada vez mais próspera e todos ganharam muito dinheiro. Alguns moradores até começaram a anunciar para o mundo exterior para promover a magia da Flor de Cinco Cores, atraindo assim muitas pessoas, uma após a outra, para a Vila das Cinco Cores que queriam descobrir e, invariavelmente, se perdiam dentro dela.}
+      ]
+    </desc>
+    <desc id="4" openLevel="3">
+      [
+      {Mas já existem aqueles que desafiam a ordem natural das coisas. Havia um jovem estranho chamado Forty, que se tornara famoso por sua determinação desde criança. Nem riquezas nem honras podiam corrompê-lo; nem pobreza nem desespero podiam fazê-lo desviar dos princípios; e nem ameaças nem força podiam influenciá-lo. Um dia, ele foi convidado a ir investigar a verdade sobre as riquezas e abundançias da Vila das Cinco Cores, e Forty pediu a um contingente de soldados que lhe emprestassem ajuda e ficassem à espreita. Assim que entrou, sentiu algo incomum: de móveis o gado, quase tudo era tingido em cores brilhantes e chamativas, mas no final das contas havia apenas cinco cores. Era brilhante, com certeza, mas comparado à natureza, que tinha muito mais tons de matizes, parecia escasso e enervante. Além disso, quase todos os outros na vila estavam se divertindo, exceto os moradores que estavam agindo como guias para ele. Logo ele chegou ao "palácio" da Flor de Cinco Cores, um grande jardim. A flor colorida estava cercada por arbustos e estava em plena floração. Como de costume, ele tentou persuadir Forty a se juntar à vila, enquanto lançava feitiços para convencê-lo. Mas Forty não era alguém facilmente enganado, seja por magia ou força, e esses truques eram como brincadeira de criança aos seus olhos. Ele simplesmente sorriu com a tentativa. A Flor de Cinco Cores viu que ele não se mexeu nem um pouco, e usou todos os meios que podia, mas ainda assim não teve sucesso.
+Ficou furiosa e, em um acesso de raiva, reuniu seus "crentes" e queria executar Forty na hora, mas Forty apenas riu para o céu. Como se viu, esse era o sinal, e os soldados invadiram o palácio para matar os crentes. Todos eles usavam capas e máscaras, e não foram movidos pela magia da flor ou de seus seguidores. A Flor de Cinco Cores sabia que havia perdido e aceitou a derrota. A vila desmoronou, e a flor foi rejeitada pelo mundo. Envergonhada de sua perda, decidiu dormir mais uma vez.&#10;}
+      ]
+    </desc>
+    <desc id="5" openLevel="3">
+      [
+      {……&#10;Esta é uma anormalidade que encontramos em na Periferia.&#10;Quando foi descoberto, ainda estava em plena floração, embora ligeiramente opaco na cor. Após examinar as rupturas geológicas, descobriu-se que ele existe há mais de 10 milhões de anos, e é difícil imaginar o que ele experimentou.&#10;De acordo com os papéis encontrados após algumas buscas, esta flor é muito perigosa. Aparentemente, muitas pessoas se perderam nela, e com cada perda, mais e mais danos foram causados. Como tal, demos ordens estritas aos funcionários para proibi-los de entrar em contato com a Anormalidade, e esperamos que eles cumpram rigorosamente as exigências de seu trabalho, não sejam hipnotizados por esta flor e saiam vivos da unidade de contenção..&#10;Para distinguir esta flor da "Flor de Cinco Cores" registrada na literatura, nós a nomeamos de "Flor da Eternidade", assumindo o significado de que sua existência pode muito bem ser infinita. No entanto, é importante notar que não há eternidade absoluta neste mundo. A flor de cinco cores se foi, e também as pessoas que uma vez se perderam, mas devemos aprender com nossos erros - caso contrário, a mesma tragédia será encenada dentro da empresa.&#10;……&#10;"Quando as gerações futuras choram e não aprendem com as que as precederam, elas também fazem com que as gerações futuras chorem novamente."}
+      ]
+    </desc>
+
+
+
+    <specialTipSize size="3">
+      <specialTip openLevel="0" key="0">Um PE-BOX só pode ser coletado quando os resultados do trabalho não foram ruins. Não há um máximo de PE-BOX para esta Anormalidade.</specialTip>
+      <specialTip openLevel="1" key="1">Há uma probabilidade de que o contador inverso da Kabbalah de "$0" diminua para cada 15 saídas do NE-BOX.</specialTip>
+      <specialTip openLevel="2" key="2">Se os resultados do trabalho de Repressão não fossem bons, o Contador Qliphoth era reduzido.</specialTip>
+      <specialTip openLevel="3" key="3">Após escapar, $0 se teletransportou instantaneamente para a sala principal do departamento.</specialTip>
+      <specialTip openLevel="4" key="4">$0 não se move, mas se não houver unidades em sua área por 15 segundos, ele se moverá imediatamente para a vizinhança de um funcionário aleatório na instalação.
+Quando não houver funcionários sobreviventes na instalação, ele se teletransportará para a vizinhança de qualquer Anormalidade que tenha escapado.
+Quando não houver Anormalidades que tenham escapado sobreviventes na instalação, ele se teletransportará para a sala principal de um departamento aleatório.</specialTip>
+      <specialTip openLevel="5" key="5">Uma 'Alma Perdida' é gerada por funcionários enviados em pânico por $0.
+Toda vez que $0 se teletransporta, uma 'Alma Perdida' será gerada.
+Uma 'Alma Perdida' se duplicará a cada 15 segundos, até um máximo de 3 vezes.
+Uma 'Alma Perdida' duplicada não será duplicada, no entanto.</specialTip>
+      <specialTip openLevel="6" key="6">$0 teletransporta cada 'Alma Perdida' para sua vizinhança sempre que 200 pontos de PV forem perdidos.</specialTip>
+    </specialTipSize>
+  </observe>
+	
+  <child>
+    <name>Alma Perdida</name>
+    <codeId>O-04-702-1</codeId>
+  </child>
+
+</creature>

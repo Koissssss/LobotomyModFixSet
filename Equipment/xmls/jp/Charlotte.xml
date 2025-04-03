@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="Charlotte_weapon_name">渇望</text>
+  <text id="Charlotte_weapon_desc">すべてを独占したいなら、決してあきらめません。あらゆる種類の	お菓子を無限に作ることができますが、お気に入りのチーズは決して作ることができません。泡を発射して敵を攻撃することができる。</text>
+  <text id="Charlotte_armor_desc">すべてを独占したいなら、決してあきらめません。甘くてかわいい服はXiaozhuのお気に入りです。</text>
+  <text id="Charlotte_gift_Desc">作業速度+10、作業成功率-4、HP+3
+すべてのHPは、戦闘から離れてから 50 秒後に回復します。</text>
+</localize>

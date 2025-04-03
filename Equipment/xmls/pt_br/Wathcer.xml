@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Watcher_weapon_name">Espectação</text>
+<text id="Watcher_armor_special">Quando o usuário sofre dano na sanidade, há 70% de probabilidade de recuperar a sanidade igual a um terço do dano sofrido.</text>
+<text id="Watcher_weapon_special">Há 10% de chance de restaurar 5 pontos de saúde ao atacar.</text>
+<text id="Watcher_weapon_desc">Uma foice cinza escura.
+Os olhos na foice são como relevos, mas você pode sentir vagamente que eles estão olhando para você.
+Ele observará cada movimento seu o tempo todo, e suas palavras e ações também afetarão seus danos.
+Para usar esta arma, seu usuário deve ser um cavalheiro justo, cuja mente, palavras e ações sejam claras como um espelho, e tudo o que ele faz é justo.
+Embora esta arma não seja tão poderosa quanto outras armas E.G.O, ela pode julgar a alma do atacado de outra forma.
+No entanto, para os vilões que não têm senso de justiça, a arma pode até não gostar dele e falhar completamente em exercer sua força máxima.</text>
+<text id="Watcher_armor_desc">Atacar uma Anormalidade com uma arma é tão inútil quanto cortar água com uma faca.
+Mesmo as espadas e montanhas de fogo não poderiam machucá-los.
+Mas eles atacam os humanos com a mesma facilidade com que esmagam uma formiga.
+Mas a mente é a arma mais poderosa da humanidade.
+Se você usar o poder da sua mente corretamente, você será invencível.
+</text>
+<text id="Watcher_gift_Desc">PS+5 Ao receber dano PRETO, recupera metade do PS perdido.</text>
+</localize>

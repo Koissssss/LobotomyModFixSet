@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="159498">
+
+
+
+    <narration action="move">
+      #0被派往$0的收容单元。 
+    </narration>
+
+    <narration action="start">
+      [
+      {#0觉得$0很可爱。}
+      {$0一动不动。}
+      ]
+    </narration>
+
+    <narration action="mid1">
+      [
+      {$0一动不动}
+      {$0散发出奶酪的味道。}
+      {#0试图去忍住摸一摸它的冲动。}
+      ]
+    </narration>
+
+    <narration action="mid2">
+      [
+      {奶酪，奶酪}
+      {#0闻到了奶酪香，也听到了老鼠的吱吱声。}
+      ]
+    </narration>
+
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">T-01-33</codeNo>
+      <name openLevel ="1">魔法少女</name>
+      <name openLevel ="4">「零食」的魔女</name>
+      <portrait openLevel ="1">Custom/Charlotte</portrait>
+      <riskLevel openLevel ="1">HE</riskLevel>
+      <openText>我只是想再吃一次奶酪啦~</openText>
+    
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {百江渚原本是与丘比签下契约的魔法少女，成为魔法少女的理由是为了使临终前的母亲吃到乳酪蛋糕。之后，因为没有许愿直接救活母亲而感到后悔。 后魔女化成为点心魔女夏洛特，在鹿目圆成为神之后创造的没有魔女的世界里魔女化前便被“圆环之理”救赎，“为了再吃一次奶酪”而和美树沙耶香一样接下任务脱离世界的因果成为了“圆环之理”的使者。}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="1">
+      [
+      {零食的魔女。性质是贪恋。想独揽全部东西，怎么样也不会死心。能无限地造出所有种类的点心，但永远不能制作最爱吃的奶酪。有两种形态。
+1：布娃娃状的初始状态，无表情。
+2：第一形态的口里钻出一条大虫子。黑底红波点的身子，头部两旁各有一个一红一蓝的翅膀（无作用）。}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="2">
+      [
+      {有语癖，说话总是带有“…なのです”（…的说），总是害怕自己变成奶酪（魔女形态下）；并不知道什么叫察言观色，美树沙耶香和佐仓杏子一起战斗时沙耶香难得创造的气氛被一句“渚我只是想再吃一次奶酪啦~”打破}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="3">
+      [
+      {神化后）渚的战斗方式较为特殊，不是本体召唤武器进攻，而是通过无限循环的“变脸”来召唤各种使魔（旧世界中所有魔女的使魔）进行战斗。除此还能用本身武器——喇叭状的泡泡机吹出一些泡泡，来阻碍敌人或攻击。}
+      ]
+    </desc>
+
+    <desc id="5" openLevel="4">
+      [
+      {初登场时是以未孵化的魔女的卵（“悲叹之种”）形态被鹿目圆和美树沙耶香发现，孵化后为点心魔女夏洛特，在结界中与小圆带来的巴麻美战斗，在初始形态被巴麻美束缚后二次变身咬掉了巴麻美的头并将其吞噬，后被赶来的晓美焰消灭。}
+      ]
+    </desc>
+
+    <desc id="6" openLevel="4">
+      [
+      {晓美焰化为恶魔改变世界后，和美树沙耶香一样被脱离了圆环之理， 并和其他人一起被篡改了记忆，在世间获得新生。在新世界中依然和麻美保持着亲密的关系}
+      ]
+    </desc>
+    
+  <specialTipSize size="4">
+      <specialTip openLevel="1" key="1">如果对收容单元融毁的异想体进行本能工作，$0的逆卡巴拉计数器将会立刻减少。</specialTip>
+      <specialTip openLevel="2" key="2">对$0进行本能工作且结果为优时，$0的逆卡巴拉计数器会立即增加。</specialTip>
+      <specialTip openLevel="3" key="3">当员工的谨慎等级低于3级时，在工作完成后$0的本体会咬掉其脑袋并出逃。</specialTip>
+      <specialTip openLevel="4" key="4">$0出逃后，将随机待在一条走廊一动不动，不会对员工造成伤害。若其血量归零，则会出现$0的本体，本体不定期加快移速敞开大口攻击前进路上的员工。若被其攻击时血量低于20%，则会被咬掉脑袋处决。</specialTip>
+      <specialTip openLevel="5" key="5">$0出逃后，全设施将生成魔女结界，降低所有员工的红色抗性。</specialTip>
+     </specialTipSize>
+
+
+
+
+  </observe>
+</creature>

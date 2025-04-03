@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Watcher_weapon_name">Spectation</text>
+<text id="Watcher_armor_special">When the user suffers sanity damage, there is a 70% probability of recovering sanity equal to one-third of the damage taken.</text>
+<text id="Watcher_weapon_special">There is a 10% chance to restore 5 health points when attacking.</text>
+<text id="Watcher_weapon_desc">A dark gray scythe.
+The eyes on the scythe are like reliefs, but you can faintly feel that they are staring at you.
+It will watch your every move all the time, and its words and deeds will also affect its damage.
+To use this weapon, its user must be a righteous gentleman whose mind, words and deeds are as clear as a mirror, and everything he does is righteous.
+Although this weapon is not as powerful as other E.G.O weapons, it can judge the soul of the attacked in another way.
+However, for those villains who lack a sense of justice, the weapon may even dislike him and completely fail to exert its maximum strength.</text>
+<text id="Watcher_armor_desc">Attacking an Abnormality with a gun is as meaningless as cutting water with a knife.
+Even the swords and mountains of fire could not hurt them at all.
+But they attack humans as easily as crushing an ant.
+But the mind is mankind's most powerful weapon.
+If you use the power of your mind properly, you will be invincible.
+</text>
+<text id="Watcher_gift_Desc">Sanity +5. When receiving BLACK damage, the sanity value equal to half of the lost sanity value will be restored.</text>
+</localize>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">Restitution</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;Restitution&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;Restitution Work&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_0">Counting Treasure</text>
+  <text id="WorkProcess_Returning_1">Calming the &lt;color=#65C7A4&gt;Jade Haetae&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_2">Overcoming &lt;color=#FF0000&gt;Greed&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_3">26% of Treasure Returned</text>
+  <text id="WorkProcess_Returning_4">Returning &lt;color=#F2D8C6&gt;Pearls&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_5">Returning &lt;color=#E5BB2D&gt;Coins&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_6">Returning &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_7">Analyzing Emotional State</text>
+  <text id="WorkProcess_Returning_8">Repairing &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_9">Carressing &lt;color=#FFB85C&gt;Antlers&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_10">Admiring &lt;color=#CAF8DB&gt;Magnolias&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_11">Gathering &lt;color=#FFED2C&gt;Starlight&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_12">Demonstrating Regret</text>
+  <text id="WorkProcess_Returning_13">46% of Treasure Returned</text>
+  <text id="WorkProcess_Returning_14">Restoring &lt;color=#65C7A4&gt;Jade Pendant&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_15">Restoring &lt;color=#FFED2C&gt;Starlight Pendant&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_16">Carressing &lt;color=#FFB85C&gt;Antlers&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_17">Praying for &lt;color=#FF0000&gt;Atonement&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_18">Making &lt;color=#FF0000&gt;Reparations&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_19">Checking Pockets</text>
+  <text id="WorkProcess_Returning_20">Returning Everything</text>
+  <text id="WorkProcess_Returning_21">Releasing &lt;color=#FFED2C&gt;Starlight&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_22">Tending &lt;color=#CAF8DB&gt;Magnolias&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_23">Polishing &lt;color=#65C7A4&gt;Jade&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_24">Stroking &lt;color=#FFB85C&gt;Antlers&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_25">Asking for &lt;color=#FF0000&gt;Forgiveness&lt;/color&gt;</text>
+  <text id="WorkProcess_Returning_26">Restitution Completed</text>
+
+  <text id="Escape_Speech">&lt;color=#FF0000&gt;The wicked have betrayed my faith, and the greedy have stolen my treasures. Now I will come out to punish them, only in this way can I relieve the resentment in my heart.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_1">&lt;color=#FFB85C&gt;I was obsessed with revenge, but was slowed down by the complicated affairs of the world.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_2">&lt;color=#FFB85C&gt;Although my body has perished and turned into a firefly, my hatred will not dissipate.&lt;/color&gt;</text>
+
+</localize>

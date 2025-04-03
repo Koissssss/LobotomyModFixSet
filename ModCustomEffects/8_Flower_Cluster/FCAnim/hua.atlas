@@ -1,0 +1,48 @@
+
+hua.png
+size: 692,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingzi
+  rotate: true
+  xy: 501, 39
+  size: 232, 76
+  orig: 232, 76
+  offset: 0, 0
+  index: -1
+眼球
+  rotate: true
+  xy: 579, 152
+  size: 119, 111
+  orig: 119, 111
+  offset: 0, 0
+  index: -1
+瞳孔
+  rotate: true
+  xy: 579, 2
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+花团
+  rotate: false
+  xy: 2, 15
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+花团2
+  rotate: false
+  xy: 260, 8
+  size: 239, 263
+  orig: 239, 263
+  offset: 0, 0
+  index: -1
+高光
+  rotate: false
+  xy: 579, 70
+  size: 88, 80
+  orig: 88, 80
+  offset: 0, 0
+  index: -1

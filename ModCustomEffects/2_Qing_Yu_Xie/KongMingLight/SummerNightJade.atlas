@@ -1,0 +1,62 @@
+
+SummerNightJade.png
+size: 2035,1237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left_cloud
+  rotate: false
+  xy: 2, 463
+  size: 1256, 772
+  orig: 1330, 955
+  offset: 53, 90
+  index: -1
+right_cloud
+  rotate: true
+  xy: 1260, 675
+  size: 560, 334
+  orig: 595, 410
+  offset: 20, 37
+  index: -1
+surrounding_behind
+  rotate: false
+  xy: 1614, 765
+  size: 419, 470
+  orig: 512, 512
+  offset: 44, 2
+  index: -1
+surrounding_behind2
+  rotate: false
+  xy: 1225, 21
+  size: 387, 440
+  orig: 512, 512
+  offset: 60, 17
+  index: -1
+surrounding_behind3
+  rotate: false
+  xy: 447, 8
+  size: 387, 453
+  orig: 512, 512
+  offset: 60, 17
+  index: -1
+surrounding_behind4
+  rotate: false
+  xy: 1614, 291
+  size: 408, 472
+  orig: 512, 512
+  offset: 39, 17
+  index: -1
+surrounding_behind5
+  rotate: false
+  xy: 836, 21
+  size: 387, 440
+  orig: 512, 512
+  offset: 60, 17
+  index: -1
+surrounding_front
+  rotate: false
+  xy: 2, 2
+  size: 443, 459
+  orig: 512, 512
+  offset: 46, 13
+  index: -1

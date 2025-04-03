@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<creature_list>
+
+  <creature name="1_Eternal_Flower" src="1_Eternal_Flower" id="27002">
+    <stat>1_Eternal_Flower_stat</stat>
+  </creature>
+
+  <creature name="2_QingYuXie" src="2_QingYuXie" id="261046">
+    <stat>2_QingYuXie_stat</stat>
+  </creature>
+  
+  <creature name="3_Ophelia" src="3_Ophelia" id="158161">
+    <stat>3_Ophelia_stat</stat>
+  </creature>
+
+  <creature name="4_Watcher" src="4_Watcher" id="113801">
+    <stat>4_Watcher_stat</stat>
+  </creature>
+
+  <creature name="5_Foehn" src="5_Foehn" id="199732">
+    <stat>5_Foehn_stat</stat>
+  </creature>
+
+  <creature name="6_BloodRabbit" src="6_BloodRabbit" id="167880">
+    <stat>6_BloodRabbit_stat</stat>
+  </creature>
+
+  <creature name="7_Charlotte" src="7_Charlotte" id="159498">
+    <stat>7_Charlotte_stat</stat>
+  </creature>
+  
+  <creature name="8_Flower_Cluster" src="8_Flower_Cluster" id="27004">
+    <stat>8_Flower_Cluster_stat</stat>
+  </creature>
+
+  <creature name="9_Palowdis" src="9_Palowdis" id="2140001">
+    <stat>9_Palowdis_stat</stat>
+  </creature>
+
+  <creature name="10_DreamSpider" src="10_DreamSpider" id="200676">
+    <stat>10_DreamSpider_stat</stat>
+  </creature>
+
+</creature_list>

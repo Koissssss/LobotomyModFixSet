@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="EternalFlower_weapon_name">영원의 선물</text>
+<text id="EternalFlower_weapon_no">Eternal</text>
+<text id="EternalFlower_weapon_desc">영겁의 시간 속에서조차 알아낼 수 없는 것은 수없이 많다.</text>
+<text id="EternalFlower_weapon_sdesc">15번의 피해를 입힐 때마다 '진리'를 얻음.
+'진리' 1당 장착한 직원의 최대 정신력이 3씩 증가하며, '진리' 10당 피해량이 25%씩 증가.
+'진리' 의 상한선은 40이며, '영원의 꽃' 이 시설에 존재할 경우 이 상한선은 40만큼 더 증가.
+착용자가 '진리 의 열쇠'를 가지고 있을 때, 공격 시 일정 확률로 착용자의 '진리' 수치 만큼 체력과 정신력을 회복.
+제압 시 '영원의 꽃' 이 시설에 존재할 경우, 직원은 즉시 제압 대상의 근처로 이동. (재사용 대기시간 : 15초)</text>
+
+<text id="EternalFlower_armor_name">완벽한 꽃</text>
+<text id="EternalFlower_armor_no">Flawless</text>
+<text id="EternalFlower_armor_desc">'완벽'은 하나의 기만이자 사기이다. 이 우주에 '완벽'한 것은 존재하지 않는다.</text>
+<text id="EternalFlower_armor_special">받는 모든 피해를 30%만큼 반사.
+'영원의 선물' 을 착용 중이라면 주는 피해량이 50%씩 증가.
+착용자가 가지고 있는 '진리' 1당 이동 속도와 체력이 3씩 증가한다. 또한, '진리' 의 상한선이 60만큼 더 증가.
+착용자가 '진리' 를 보유한 경우, 5초마다 일정 확률로 주변 직원들에게 '진리' 를 부여.
+착용자 주변에 때때로 '일곱 빛의 꽃' 이 나타나며, '일곱 빛의 꽃' 이 나타날 때 주변 적대 개체에게 W 3~5의 피해를 줌.</text>
+
+<text id="EternalFlower_gift_name">진리의 열쇠</text>
+<text id="EternalFlower_gift_desc">정신력 +10
+착용자가 가지고 있는 '진리' 5당 모든 능력치가 1 상승.
+'진리' 의 상한선이 20만큼 더 증가.</text>
+<text id="EternalFlowerChild_weapon_name">방황</text>
+<text id="EternalFlowerChild_weapon_desc">잊지 말 것... 길을 잃지 말 것...</text>
+<text id="EternalFlowerChild_weapon_sdesc">'진리' 의 상한선이 20만큼 더 증가.
+착용자가 가지고 있는 '진리' 1당 공격 속도가 3씩 증가.
+공격 시 '완벽한 꽃'을 착용한 직원에게 낮은 확률로 '진리' 를 부여.</text>
+<text id="EternalFlowerChild_armor_name">진실</text>
+<text id="EternalFlowerChild_armor_desc">"내가 그 끔찍한 곳에서 돌아왔다고?"</text>
+<text id="EternalFlowerChild_armor_sdesc">'진리' 의 상한선이 20만큼 더 증가.
+'완벽한 꽃'을 착용한 직원이 있을 경우, 해당 직원과 함께 이동할 시 해당 직원 근처로 순간이동함.
+'완벽한 꽃'을 착용한 직원과 같은 방에 있을 때, 받는 피해량 30% 감소.
+'방황'을 착용한 경우, 공격 시 대상을 일정 거리 밀어냄.
+'완벽한 꽃'을 착용한 직원이 피격 시, 해당 피해를 일부 대신 받음.</text>
+</localize>

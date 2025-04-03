@@ -1,0 +1,293 @@
+
+Charlotte.png
+size: 2041,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1721, 1617
+  size: 203, 282
+  orig: 203, 282
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 1325, 1621
+  size: 199, 394
+  orig: 199, 395
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 948, 1396
+  size: 253, 366
+  orig: 253, 366
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 849
+  size: 317, 662
+  orig: 317, 663
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 410
+  size: 548, 437
+  orig: 548, 437
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1316, 1367
+  size: 427, 248
+  orig: 427, 249
+  offset: 0, 1
+  index: -1
+7
+  rotate: false
+  xy: 1088, 608
+  size: 448, 419
+  orig: 448, 419
+  offset: 0, 0
+  index: -1
+745475
+  rotate: true
+  xy: 634, 1705
+  size: 188, 273
+  orig: 1024, 1024
+  offset: 17, 702
+  index: -1
+Body
+  rotate: true
+  xy: 1426, 1822
+  size: 128, 256
+  orig: 256, 256
+  offset: 64, 0
+  index: -1
+CoatBack
+  rotate: true
+  xy: 1684, 1822
+  size: 128, 256
+  orig: 128, 256
+  offset: 0, 0
+  index: -1
+Eye
+  rotate: false
+  xy: 165, 1907
+  size: 133, 43
+  orig: 256, 128
+  offset: 64, 38
+  index: -1
+EyeBrow
+  rotate: false
+  xy: 2, 1941
+  size: 123, 9
+  orig: 256, 128
+  offset: 64, 60
+  index: -1
+HairBack
+  rotate: true
+  xy: 2, 1256
+  size: 253, 343
+  orig: 256, 512
+  offset: 2, 7
+  index: -1
+HairFront
+  rotate: false
+  xy: 422, 1718
+  size: 210, 181
+  orig: 246, 246
+  offset: 10, 25
+  index: -1
+Head
+  rotate: true
+  xy: 909, 1666
+  size: 192, 206
+  orig: 256, 256
+  offset: 35, 27
+  index: -1
+L arm 1
+  rotate: true
+  xy: 815, 1895
+  size: 55, 85
+  orig: 128, 128
+  offset: 36, 22
+  index: -1
+L arm 2
+  rotate: true
+  xy: 902, 1895
+  size: 55, 88
+  orig: 128, 128
+  offset: 36, 20
+  index: -1
+L hand
+  rotate: false
+  xy: 300, 1906
+  size: 50, 44
+  orig: 64, 64
+  offset: 7, 11
+  index: -1
+L leg 1
+  rotate: true
+  xy: 404, 1901
+  size: 49, 89
+  orig: 128, 128
+  offset: 41, 15
+  index: -1
+L leg 2
+  rotate: true
+  xy: 495, 1901
+  size: 49, 74
+  orig: 128, 128
+  offset: 39, 27
+  index: -1
+Mouth
+  rotate: false
+  xy: 127, 1933
+  size: 36, 17
+  orig: 128, 126
+  offset: 48, 56
+  index: -1
+R arm 1
+  rotate: true
+  xy: 726, 1899
+  size: 51, 87
+  orig: 128, 128
+  offset: 38, 21
+  index: -1
+R arm 2
+  rotate: true
+  xy: 992, 1891
+  size: 59, 84
+  orig: 128, 128
+  offset: 34, 22
+  index: -1
+R hand
+  rotate: true
+  xy: 352, 1904
+  size: 46, 50
+  orig: 64, 64
+  offset: 9, 8
+  index: -1
+R leg 1
+  rotate: true
+  xy: 634, 1900
+  size: 50, 90
+  orig: 128, 128
+  offset: 39, 11
+  index: -1
+R leg 2
+  rotate: true
+  xy: 571, 1901
+  size: 49, 61
+  orig: 128, 128
+  offset: 40, 34
+  index: -1
+newface
+  rotate: true
+  xy: 1117, 1651
+  size: 192, 206
+  orig: 256, 256
+  offset: 35, 27
+  index: -1
+前手
+  rotate: false
+  xy: 214, 1732
+  size: 206, 167
+  orig: 640, 669
+  offset: 321, 197
+  index: -1
+后手
+  rotate: true
+  xy: 2, 1772
+  size: 133, 210
+  orig: 640, 669
+  offset: 161, 155
+  index: -1
+围脖
+  rotate: false
+  xy: 1745, 1303
+  size: 283, 312
+  orig: 285, 314
+  offset: 1, 1
+  index: -1
+大嘴
+  rotate: true
+  xy: 666, 724
+  size: 380, 420
+  orig: 2309, 853
+  offset: 81, 104
+  index: -1
+头
+  rotate: false
+  xy: 207, 1511
+  size: 401, 205
+  orig: 640, 669
+  offset: 110, 359
+  index: -1
+小舌头
+  rotate: true
+  xy: 1273, 1029
+  size: 336, 362
+  orig: 2309, 853
+  offset: 223, 117
+  index: -1
+披风
+  rotate: false
+  xy: 698, 1106
+  size: 573, 288
+  orig: 640, 669
+  offset: 24, 111
+  index: -1
+红耳朵
+  rotate: true
+  xy: 610, 1451
+  size: 213, 336
+  orig: 2309, 853
+  offset: 239, 388
+  index: -1
+蓝耳朵
+  rotate: true
+  xy: 347, 1168
+  size: 281, 349
+  orig: 2309, 853
+  offset: 529, 385
+  index: -1
+身体
+  rotate: false
+  xy: 2, 2
+  size: 2030, 406
+  orig: 2309, 853
+  offset: 226, 114
+  index: -1
+身子
+  rotate: false
+  xy: 2, 1545
+  size: 203, 225
+  orig: 203, 225
+  offset: 0, 0
+  index: -1
+邪笑
+  rotate: true
+  xy: 1637, 952
+  size: 349, 402
+  orig: 2309, 853
+  offset: 226, 115
+  index: -1
+马甲右
+  rotate: true
+  xy: 1296, 1845
+  size: 105, 128
+  orig: 107, 130
+  offset: 1, 1
+  index: -1
+马甲左
+  rotate: true
+  xy: 1078, 1860
+  size: 90, 216
+  orig: 640, 669
+  offset: 266, 172
+  index: -1

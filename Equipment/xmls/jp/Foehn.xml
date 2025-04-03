@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Foehn_Weapon_Name">燃える翡翠</text>
+<text id="Foehn_Weapon_Desc">「翡翠」で作られた刀ですが、刀身には焼き入れの跡が残っています。 &#10;痛み、牽引、漂流、再生。</text>
+<text id="Foehn_Weapon_SpecialDesc">特殊攻撃を行う場合、その場に2秒間静止し、前方に不死鳥を出す。 &#10;不死鳥はその進路上の敵を貫通し、5秒間炎上させます。</text>
+<text id="Foehn_Armor_Name">燃える翡翠</text>
+<text id="Foehn_Armor_Desc">痛み、牽引、漂流、再生。</text>
+<text id="Foehn_Gift_Name">燃える翡翠</text>
+<text id="Foehn_Gift_Desc">HP+2 精神+2 攻撃速度+3 &#13;&#10;痛みと白い光を浄化して凝縮した宝石。</text>
+</localize>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<localize>
+  <text id="snjwork">반환</text>
+  <text id="SNJWork_name">&lt;color=#3C5852&gt;반환&lt;/color&gt;</text>
+  <text id="SNJWork_called">&lt;color=#FFED2C&gt;반환작업&lt;/color&gt; </text>
+  <text id="WorkProcess_Returning_0">보물 수량 검사</text>
+  <text id="WorkProcess_Returning_1">&lt;color=#65C7A4&gt;청옥해&lt;/color&gt; 달래기 시도</text>
+  <text id="WorkProcess_Returning_2">&lt;color=#FF0000&gt;탐욕&lt;/color&gt; 극복 시도</text>
+  <text id="WorkProcess_Returning_3">보물 26% 반환 확인</text>
+  <text id="WorkProcess_Returning_4">&lt;color=#F2D8C6&gt;진주&lt;/color&gt;를 보물 상자에 수납</text>
+  <text id="WorkProcess_Returning_5">&lt;color=#E5BB2D&gt;동전&lt;/color&gt;을 제자리에 위치함</text>
+  <text id="WorkProcess_Returning_6">&lt;color=#65C7A4&gt;옥&lt;/color&gt;을 빈 자리에 배치</text>
+  <text id="WorkProcess_Returning_7">감정 상태 분석</text>
+  <text id="WorkProcess_Returning_8">손상된 &lt;color=#65C7A4&gt;옥&lt;/color&gt;을 복원</text>
+  <text id="WorkProcess_Returning_9">&lt;color=#FFB85C&gt;녹각&lt;/color&gt;을 부드럽게 쓰다듬기</text>
+  <text id="WorkProcess_Returning_10">&lt;color=#CAF8DB&gt;흰 목련&lt;/color&gt; 재배</text>
+  <text id="WorkProcess_Returning_11">&lt;color=#FFED2C&gt;별빛&lt;/color&gt; 수집 시작</text>
+  <text id="WorkProcess_Returning_12">후회 감정 해방</text>
+  <text id="WorkProcess_Returning_13">보물 46% 반환 확인</text>
+  <text id="WorkProcess_Returning_14">&lt;color=#65C7A4&gt;옥패&lt;/color&gt; 복구 진행</text>
+  <text id="WorkProcess_Returning_15">&lt;color=#FFED2C&gt;별 팬던트&lt;/color&gt; 원형 복원</text>
+  <text id="WorkProcess_Returning_16">&lt;color=#FFB85C&gt;녹각&lt;/color&gt;을 다시 쓰다듬기</text>
+  <text id="WorkProcess_Returning_17">&lt;color=#FF0000&gt;속죄&lt;/color&gt;의 기도 진행</text>
+  <text id="WorkProcess_Returning_18">&lt;color=#FF0000&gt;상환&lt;/color&gt; 시도 중</text>
+  <text id="WorkProcess_Returning_19">주머니 내부 조사 중</text>
+  <text id="WorkProcess_Returning_20">모든 재산 반환</text>
+  <text id="WorkProcess_Returning_21">&lt;color=#FFED2C&gt;금빛 별빛&lt;/color&gt; 방출</text>
+  <text id="WorkProcess_Returning_22">&lt;color=#CAF8DB&gt;흰 목련&lt;/color&gt; 개화</text>
+  <text id="WorkProcess_Returning_23">&lt;color=#65C7A4&gt;청색 옥패&lt;/color&gt; 청결화</text>
+  <text id="WorkProcess_Returning_24">&lt;color=#FFB85C&gt;연 주황 녹각&lt;/color&gt;을 쓰다듬기</text>
+  <text id="WorkProcess_Returning_25">다시 &lt;color=#FF0000&gt;속죄&lt;/color&gt;의 기도 중</text>
+  <text id="WorkProcess_Returning_26">보물 반환 완료 확인</text>
+
+
+  <text id="Escape_Speech">&lt;color=#FF0000&gt;악한 자들은 나의 믿음을 배신했고, 탐욕스러운 자들은 나의 보물을 훔쳤다. 이제 그들에게 벌을 줄 차례다. 이렇게 해야만 내 마음의 응어리를 풀 수 있겠구나.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_1">&lt;color=#FFB85C&gt;나는 복수에 집착했지만, 세상만사의 복잡함이 나의 발목을 붙잡는구나.&lt;/color&gt;</text>
+
+  <text id="Suppressed_Speech_2">&lt;color=#FFB85C&gt;비록 내 몸이 죽고 반딧불이로 변했지만, 나의 증오는 사라지지 않을 것이다.&lt;/color&gt;</text>
+
+</localize>

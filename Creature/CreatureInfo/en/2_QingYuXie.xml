@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="261046">
+
+
+
+  <narration action="move">
+      #0 enters $0's containment unit to begin work.
+    </narration>
+
+    <narration action="start">
+      [
+      {#0 thinks that $0 might be staring at them.},
+      ]
+    </narration>
+    <narration action="mid1">
+      [
+      {The desires within #0's heart are seen clearly by $0.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {"#0, please don't do anything stupid this time around."},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {$0's lets out a soft glow within the containment unit.},
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {Those who gaze upon the treasure are fated to become apart of it.},
+      ]
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">O-12-26</codeNo>
+      <portrait openLevel ="1">Custom/SummerNightJade</portrait>
+
+      <name openLevel ="1">
+        Qingyu Xie
+      </name>
+
+      <riskLevel openLevel ="1">
+        ALEPH
+      </riskLevel>
+
+
+      <openText>&lt;color=#65C7A4&gt;"Abandon greed, or be consumed by it."&lt;/color&gt;</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {&lt;color=#FFED2C&gt;O-12-26 was once a divine beast capable of bringing good fortune...&#13;&#10;&#13;&#10;It didn't remember when it began to notice the injustices of the world. Good people were sentenced to languish in prisons, while those who carried sins evaded the law and indulged in pleasures. It would stand for it no longer.&#13;&#10;&#13;&#10;It left the heavens and appeared within the prison.&#13;&#10;&#13;&#10;It liked to see the despair in the eyes of those who had been wrongly convicted turn to hope. It was a beautiful sight in a strange way. So it began to judge sin in its own way, and set one innocent man after another free.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="2">
+      [
+      {&lt;color=#FFED2C&gt;However, this behavior would not be tolerated in society.&#13;&#10;&#13;&#10;The magistrates decreed that the beast be hunted to the ends of the earth for disturbing their lifestyle. However, the beast cared not for their interference and continually evaded death.&#13;&#10;&#13;&#10;One day, as it escaped another attack and fled with a prisoner, it suddenly found a steel blade embedded in its abdomen. It was shocked to find that what filled the prisoner's eyes was not the light of hope, but the luster of greed and desire.&#13;&#10;&#13;&#10;The prisoner had made a deal with the magistrates, and had been bought to attack the divine beast.&#13;&#10;&#13;&#10;The prisoner had been convinced with just a few coins to attack it.&#13;&#10;&#13;&#10;Tbe jade unicorn was changed by this event.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="3">
+      [
+      {&lt;color=#FFED2C&gt;And so, the beast sat within its prision with its eyes dulled. At its feet are endless piles of gold and silver. None who are blinded by greed can escape the sight. It turns that greed into a weapon to use against those greedy hearts, and those who gaze upon the treasure are fated to become apart of it.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="4">
+      [
+      {&lt;color=#FFB85C&gt;&lt;Excerpted from Observation Record #1046-1226-0&gt;&#13;&#10;Employee Number S71026&#13;&#10;Right, I was asked to make an entry on this Abnormality. The Abnormality, designated as O-12-26, appears as a green jade deer statue with two horns on its head and a vacant gaze, surrounded by piles of gold and silver treasures, the amount of which is difficult to measure. During the course of the work, it was noted that the eye sockets of this statue would rotate, causing a sense of psychological discomfort. This anomaly is exacerbated at the end of the work.&#13;&#10;&lt;Excerpted from Observation Record #1046-1226-1&gt;&#13;&#10;Employee Number S71026&#13;&#10;...It was staring at me for a while, but I suddenly felt the gaze exerted on me loosen as if pardoned, and it stopped looking at me. An unprecedented sense of lightness and relief filled my heart... I even recalled the time before I joined L Corp. At that time, my family and I were living at a snail's pace in the middle of the backstreets, making a living in those cramped alleys... If we had some money... Yes, if there was enough money, we might be able to move to a safe nest to live in, and my younger siblings could go to school to receive a good education. Maybe my life would also be happier than it is now...&#13;&#10;&lt;Excerpted from Observation Record #1046-1226-2&gt;&#13;&#10;Employee Number S71026&#13;&#10;When I came back to my senses, I was already standing outside of the containment unit, the pockets of my suit somehow stuffed with... gold. Did I take this stuff from the containment unit? I remembered that the gold is also a part of the Abnormality, and as such must be immediately put back inside the containment unit, otherwise there is a strong possibility that my life and safety will be jeopardized. However, there was a tiny voice in my head convincing me to just take it for myself... I think that after so much hard and unreasonable work, taking a little something for myself is understandable. With this gold, the happy life I envision could become a reality... as long as I can exchange the gold for Ahn before any anomalous effects occur. Thinking of this, I swallowed a mouthful of saliva and rushed through the rest of the day. As long as I could last until the end of the day... As long as I can last until the end of the work, I could be happy.&#13;&#10;&lt;Excerpted from Observation Record #1046-1226-3&gt;&#13;&#10;Employee Number S71026&#13;&#10;Perhaps because of the fact that I was conscious of my work speed, I finished today's work very quickly. I got scolded by my captain for not being very careful, but… Whatever! As long as I leave here with this gold, a happy life is in front of me!&#13;&#10;&lt;Excerpted from Observation Record #1046-1226-4&gt;&#13;&#10;Employee Number S71026&#13;&#10;Maybe the excessive tension and excitement are taking a toll on me. I feel like I’m moving slower than usual, I’m pretty sure I hurt my leg somewhere too… But as long as I have enough money, it doesn’t matter, since I could buy the most extravagant treatment package to get it back. So it isn’t a problem at all!&#13;&#10;&lt;Excerpted from Observation Record #1046-1226-5&gt;&#13;&#10;Employee Number S71026&#13;&#10;I'll never be able to go home. My legs hardened and turned green, and I suppose in just a few moments, my whole body will █████ transform. But it’s fine, right? At least I'll always have this gold that gave me hope, won't I?&lt;/color&gt;&#13;&#10;&lt;color=#FF0000&gt;(The following has been ommitted)&#13;&#10;(The following is only for management personnel and rank V employees)&#13;&#10;In the course of our observations of O-12-26, we discovered that the employee's conversion to █████ yielded additional LOBs. Therefore, we have decided to omit the details of this transformation to common staff.&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;"Abandon greed, or be consumed by it."&lt;/color&gt;}
+      ]
+    </desc>
+
+
+
+    <specialTipSize size="7">
+      <specialTip openLevel="0" key="none">When a NE-BOX is generated, $0 will inflict &lt;color=#FFED2C&gt;Starlight Damage&lt;/color&gt; equal to Pale damage and alternately add &lt;color=#FFB85C&gt;Antler Damage&lt;/color&gt; and &lt;color=#65C7A4&gt;Jade Damage&lt;/color&gt; that ignore the target's resistances and is equal to 2.6% of the target's maximum HP.</specialTip>
+      <specialTip openLevel="0" key="none">When the work results are good, the Qliphoth Counter will increase and all employees in the same department will have their HP and SP restored. On a normal work result, there is a normal chance of the Qliphoth Counter decreasing, and on a bad work result, there is a high chance of the Qliphoth Counter decreasing.</specialTip>
+      <specialTip openLevel="1" key="none">Employees whose Temperence and Justice ranks are not V, or have greater HP than SP will attempt to steal the treasure at the feet of $0 after completing work.</specialTip>
+      <specialTip openLevel="2" key="none">Employees who have stolen treasure (referred here-after as O-12-26-01) will has greatly increased Work Speed, but will have a lower Work Success Rate and Justice attribute. Attachement work on $0 will be replaced with Restitution work, and only O-12-26-01 can perform Restitution work.</specialTip>
+      <specialTip openLevel="3" key="none">When O-12-26-01 enters any containment unit while carrying treasure, $0's Qliphoth Counter will lower and O-12-26-01 will be transformed into a jade statue at the end of the day, granting the facility 5 LOB points.</specialTip>
+      <specialTip openLevel="4" key="none">The success rate of Restitution work is equal to 85% * Employee's Justice Rank * 0.2. If the work result is good, the Qliphoth Counter will increase, O-12-26-01 will return the treasure and will revert to a regular employee. If the work result is bad, $0 will escape at the end of the work cooldown counter.</specialTip>
+      <specialTip openLevel="5" key="none">O-12-26-01 will fall into a panic if their movement speed is not higher than 50. Whenever O-12-26-01 panics for any reason, they will transform into a jade statue. After dying, the treasure they stole will be left on the ground, continuing the cycle.</specialTip>
+    </specialTipSize>
+  </observe>
+</creature>

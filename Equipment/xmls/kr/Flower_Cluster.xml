@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+<text id="Flower_Cluster_weapon_name">꽃밭</text>
+<text id="Flower_Cluster_weapon_desc">이 꽃들은 시들지도 않고, 마구잡이로 피어나는구나.
+터지는 꽃잎의 향내는 부드러운 세계로 초대할 테지.
+가시지 않는 향기를 맡을 수 있다면, 너와 나는 같은 숲 속에 서 있는 것이겠지.
+어서 와주렴. 지지 않을 향을 품고 나를 만나러 와줘.</text>
+<text id="Flower_Cluster_weapon_specialDesc">공격 대상이 해당 무기로 피격 시 10% 확률로 B 피해에 취약</text>
+<text id="Flower_Cluster_armor_name">영원히 시들지 않는 꽃</text>
+<text id="Flower_Cluster_armor_desc">흙에서 태어났으니, 다시 흙으로 돌아가고자 한단다.
+내 속죄는 싸늘함과 함게 숨가쁘게 마무리했음을.
+눈이 없어도 모든 것을 볼 수 있단다.
+금이 갔음에도… 그 틈에는 어여쁜 꽃이 피는구나.</text>
+<text id="Flower_Cluster_armor_specialDesc">10초마다 정신력 3 회복</text>
+<text id="Flower_Cluster_gift_name">몸에서 피어나는 꽃</text>
+<text id="Flower_Cluster_gift_desc">작업 성공률 +5
+T-04-53 와 T-04-53' 에게 받는 피해량 20% 감소</text>
+</localize>

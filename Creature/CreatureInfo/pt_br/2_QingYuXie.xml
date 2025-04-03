@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<creature>
+
+  <info id ="261046">
+
+
+
+  <narration action="move">
+      #0 entra na unidade de contenção de $0 para começar a trabalhar.
+    </narration>
+
+    <narration action="start">
+      [
+      {#0 acha que $0 pode estar olhando para eles.},
+      ]
+    </narration>
+    <narration action="mid1">
+      [
+      {Os desejos do coração de #0 são vistos claramente por $0.},
+      ]
+    </narration>
+    <narration action="mid2">
+      [
+      {"#0, por favor, não faça nada estúpido desta vez."},
+      ]
+    </narration>
+    <narration action="mid3">
+      [
+      {$0's emite um brilho suave dentro da unidade de contenção.},
+      ]
+    </narration>
+    <narration action="mid4">
+      [
+      {Aqueles que contemplam o tesouro estão fadados a se tornar parte dele.},
+      ]
+    </narration>
+  </info>
+
+  <observe level ="4">
+    <collection>
+      <codeNo openLevel ="0">O-12-26</codeNo>
+      <portrait openLevel ="1">Custom/SummerNightJade</portrait>
+
+      <name openLevel ="1">
+        Qingyu Xie
+      </name>
+
+      <riskLevel openLevel ="1">
+        ALEPH
+      </riskLevel>
+
+
+      <openText>&lt;color=#65C7A4&gt;"Abandone a ganância ou seja consumido por ela."&lt;/color&gt;</openText>
+
+    </collection>
+
+    <desc id="1" openLevel="0">
+      [
+      {&lt;color=#FFED2C&gt;O-12-26 era uma vez uma besta divina capaz de trazer boa sorte...&#13;&#10;&#13;&#10;Não se lembrava de quando começou a notar as injustiças do mundo. Pessoas boas eram sentenciadas a definhar em prisões, enquanto aqueles que carregavam pecados fugiam da lei e se entregavam aos prazeres. Não toleraria mais isso.&#13;&#10;&#13;&#10;Ele deixou os céus e apareceu dentro da prisão.&#13;&#10;&#13;&#10;Gostava de ver o desespero nos olhos daqueles que tinham sido injustamente condenados se transformar em esperança. Era uma visão linda de uma forma estranha. Então começou a julgar o pecado à sua maneira, e libertou um homem inocente após o outro.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="2" openLevel="2">
+      [
+      {&lt;color=#FFED2C&gt;Entretanto, esse comportamento não seria tolerado na sociedade.&#13;&#10;&#13;&#10;Os magistrados decretaram que a besta fosse caçada até os confins da terra por perturbar seu estilo de vida. No entanto, a besta não se importou com a interferência deles e continuamente evitou a morte.&#13;&#10;&#13;&#10;Um dia, enquanto escapava de outro ataque e fugia com um prisioneiro, de repente encontrou uma lâmina de aço cravada em seu abdômen. Ficou chocado ao descobrir que o que enchia os olhos do prisioneiro não era a luz da esperança, mas o brilho da ganância e do desejo.&#13;&#10;&#13;&#10;O prisioneiro fez um acordo com os magistrados e foi comprado para atacar a besta divina.&#13;&#10;&#13;&#10;O prisioneiro foi convencido com apenas algumas moedas a atacá-lo.&#13;&#10;&#13;&#10;O unicórnio de jade foi alterado por este evento.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="3" openLevel="3">
+      [
+      {&lt;color=#FFED2C&gt;E assim, a besta sentou-se dentro de sua prisão com seus olhos opacos. Aos seus pés há pilhas infinitas de ouro e prata. Ninguém que esteja cego pela ganância pode escapar da visão. Ela transforma essa ganância em uma arma para usar contra aqueles corações gananciosos, e aqueles que contemplam o tesouro estão fadados a se tornar parte dele.&lt;/color&gt;}
+      ]
+    </desc>
+
+    <desc id="4" openLevel="4">
+      [
+      {&lt;color=#FFB85C&gt;&lt;Extraído do Registro de Observação #1046-1226-0&gt;&#13;&#10;Número do FuncionárioS71026&#13;&#10;Certo, me pediram para fazer uma entrada sobre essa Anormalidade. A Anormalidade, designada como O-12-26, aparece como uma estátua de veado de jade verde com dois chifres na cabeça e um olhar vago, cercada por pilhas de tesouros de ouro e prata, cuja quantidade é difícil de medir. Durante o curso do trabalho, foi notado que as órbitas oculares desta estátua giravam, causando uma sensação de desconforto psicológico. Esta anomalia é exacerbada no final do trabalho.&#13;&#10;&lt;Extraído do Registro de Observação #1046-1226-1&gt;&#13;&#10;Número do Funcionário S71026&#13;&#10;...Ele ficou me encarando por um tempo, mas de repente senti o olhar exercido sobre mim afrouxar como se perdoado, e ele parou de olhar para mim. Uma sensação sem precedentes de leveza e alívio encheu meu coração... Eu até me lembrei da época antes de entrar para a L Corp. Naquela época, minha família e eu vivíamos em ritmo de caracol no meio das ruas secundárias, ganhando a vida naqueles becos apertados... Se tivéssemos algum dinheiro... Sim, se houvesse dinheiro suficiente, poderíamos nos mudar para um ninho seguro para viver, e meus irmãos mais novos poderiam ir à escola para receber uma boa educação. Talvez minha vida também fosse mais feliz do que é agora...&#13;&#10;&lt;Extraído do Registro de Observação #1046-1226-2&gt;&#13;&#10;Número do Funcionário S71026&#13;&#10;Quando recuperei os sentidos, eu já estava do lado de fora da unidade de contenção, os bolsos do meu traje de alguma forma cheios de... ouro. Eu peguei essas coisas da unidade de contenção? Lembrei que o ouro também é parte da Anormalidade e, como tal, deve ser imediatamente colocado de volta dentro da unidade de contenção, caso contrário, há uma forte possibilidade de que minha vida e segurança sejam colocadas em risco. No entanto, havia uma pequena voz na minha cabeça me convencendo a apenas pegá-lo para mim... Acho que depois de tanto trabalho duro e irracional, pegar um pouco para mim é compreensível. Com esse ouro, a vida feliz que imagino pode se tornar realidade... contanto que eu possa trocar o ouro por Ahn antes que quaisquer efeitos anômalos ocorram. Pensando nisso, engoli um bocado de saliva e corri pelo resto do dia. Contanto que eu pudesse durar até o fim do dia... Contanto que eu pudesse durar até o fim do trabalho, eu poderia ser feliz.&#13;&#10;&lt;Extraído do Registro de Observação #1046-1226-3&gt;&#13;&#10;Número do FuncionárioS71026&#13;&#10;Talvez pelo fato de eu estar consciente da minha velocidade de trabalho, terminei o trabalho de hoje muito rápido. Fui repreendido pelo meu capitão por não ter sido muito cuidadoso, mas... Tanto faz! Contanto que eu saia daqui com esse ouro, uma vida feliz está na minha frente!&#13;&#10;&lt;Extraído do Registro de Observação #1046-1226-4&gt;&#13;&#10;Número do Funcionário S71026&#13;&#10;Talvez a tensão e excitação excessivas estejam me afetando. Sinto que estou me movendo mais devagar do que o normal, tenho quase certeza de que machuquei minha perna em algum lugar também... Mas, contanto que eu tenha dinheiro suficiente, não importa, já que eu poderia comprar o pacote de tratamento mais extravagante para recuperá-la. Então não é um problema nenhum!&#13;&#10;&lt;Extraído do Registro de Observação #1046-1226-5&gt;&#13;&#10;Número do Funcionário  S71026&#13;&#10;Nunca poderei ir para casa. Minhas pernas endureceram e ficaram verdes, e suponho que em apenas alguns momentos, meu corpo inteiro irá █████ se transformar. Mas está tudo bem, certo? Pelo menos sempre terei esse ouro que me deu esperança, não é?&lt;/color&gt;&#13;&#10;&lt;color=#FF0000&gt;(O seguinte foi omitido)&#13;&#10;(O seguinte é apenas para pessoal de gestão e funcionários de nível V)&#13;&#10;No curso de nossas observações de O-12-26, descobrimos que a conversão do funcionário para █████ produziu LOBs adicionais. Portanto, decidimos omitir os detalhes dessa transformação para funcionários comuns.&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;"Abandone a ganância ou seja consumido por ela."&lt;/color&gt;}
+      ]
+    </desc>
+
+
+
+    <specialTipSize size="7">
+      <specialTip openLevel="0" key="none">Quando um Caixas-Ne é gerado, $0 infligirá &lt;color=#FFED2C&gt;Dano de Luz Estelar&lt;/color&gt; igual ao dano de Pálido e adicione alternadamente &lt;color=#FFB85C&gt;Dano de Chifre&lt;/color&gt; e &lt;color=#65C7A4&gt;Dano de Jade&lt;/color&gt; que ignora as resistências do alvo e é igual a 2,6% do PV máximo do alvo.</specialTip>
+      <specialTip openLevel="0" key="none">Quando os resultados do trabalho são bons, o Contador Qliphoth aumentará e todos os funcionários do mesmo departamento terão seu PV e PS restaurados. Em um resultado de trabalho normal, há uma chance normal do Contador Qliphoth diminuir, e em um resultado de trabalho ruim, há uma grande chance do  Contador Qliphoth diminuir.</specialTip>
+      <specialTip openLevel="1" key="none">Funcionários cujos níveis de Temperança e Justiça não são V, ou têm PV maior que PS, tentarão roubar o tesouro aos pés de $0 após concluírem o trabalho.</specialTip>
+      <specialTip openLevel="2" key="none">Funcionários que roubaram tesouros (referidos aqui como O-12-26-01) terão uma Velocidade de Trabalho muito maior, mas terão uma Taxa de Sucesso de Trabalho e atributo de Justiça menores. O trabalho de anexo em $0 será substituído por trabalho de Restituição, e somente O-12-26-01 pode executar trabalho de Restituição.</specialTip>
+      <specialTip openLevel="3" key="none">Quando O-12-26-01 entra em qualquer unidade de contenção carregando um tesouro, o Contador Qliphoth de $0 diminui e O-12-26-01 se transforma em uma estátua de jade no final do dia, concedendo à instalação 5 pontos LOB.</specialTip>
+      <specialTip openLevel="4" key="none">A taxa de sucesso do trabalho de Restituição é igual a 85% * Nível de Justiça do Funcionário * 0,2. Se o resultado do trabalho for bom, o Contador Qliphoth aumentará, O-12-26-01 retornará o tesouro e reverterá para um funcionário regular. Se o resultado do trabalho for ruim, $0 escapará no final do contador de tempo de espera do trabalho.</specialTip>
+      <specialTip openLevel="5" key="none">O-12-26-01 entrará em pânico se sua velocidade de movimento não for maior que 50. Sempre que O-12-26-01 entrar em pânico por qualquer motivo, ele se transformará em uma estátua de jade. Após morrer, o tesouro que ele roubou será deixado no chão, continuando o ciclo.</specialTip>
+    </specialTipSize>
+  </observe>
+</creature>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+  
+  <equipment id="27104" type="weapon">
+    <name>Flower_Cluster_weapon_name</name>
+    <desc>Flower_Cluster_weapon_desc</desc>
+    <specialDesc>Flower_Cluster_weapon_specialDesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+    <sprite>BigBadWolf_FlowerCluster</sprite>
+    <specialWeaponAnim>GreedWeapon_FlowerCluster</specialWeaponAnim>
+
+    <animation>Attack1</animation>
+
+    <require type="B">2</require>
+    <require type="level">2</require>
+	
+    <damage type="B" min="4" max="5">
+      <soundInfo type="damage">Weapons/fist1</soundInfo>
+    </damage>
+
+    <range>3</range>
+	
+    <script>Flower_ClusterWeapon</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>1.5</attackSpeed>
+    <grade>4</grade>
+  </equipment>
+  
+  <equipment id="27204" type="armor">
+
+    <name>Flower_Cluster_armor_name</name>
+    <desc>Flower_Cluster_armor_desc</desc>
+    <specialDesc>Flower_Cluster_armor_specialDesc</specialDesc>
+
+    <require type="B">3</require>
+
+    <armorId>27204</armorId>
+
+    <defense>
+      <defenseElement type="R">1.0</defenseElement>
+      <defenseElement type="W">0.5</defenseElement>
+      <defenseElement type="B">1.0</defenseElement>
+      <defenseElement type="P">1.5</defenseElement>
+    </defense>
+	
+    <script>Flower_ClusterArmor</script>
+    <grade>3</grade>
+    <maxNum>1</maxNum>
+  </equipment>
+  
+  <equipment id="27304" type="special"> 
+    <name>Flower_Cluster_gift_name</name>
+    <desc>Flower_Cluster_gift_desc</desc> 
+    <attachPos>body_up</attachPos> 
+    <attachType>add</attachType>
+    <bonus>
+      <workProb>5</workProb>
+    </bonus>
+    <sprite>8_Flower_Cluster_Gitt_1</sprite>
+    <script>Flower_ClusterGift</script>
+  </equipment>
+
+</equipment_list>

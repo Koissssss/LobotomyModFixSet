@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipment_list>
+<equipment id="1262607" type="weapon">
+    <name>summerjade_weapon_name</name>
+    <no>summerjade_weapon_no</no>
+    <desc>summerjade_weapon_desc</desc>
+    <specialDesc>summerjade_weapon_specialDesc</specialDesc>
+
+    <weaponClassType>special</weaponClassType>
+    <specialWeaponAnim>NothingWeapon_LiuGuang</specialWeaponAnim>
+    <sprite>Nothing_QingYuXie</sprite>
+
+    <animation>Attack1</animation>
+    <animation>Attack2</animation>
+    <animation>Attack3</animation>
+    <animation>Attack5</animation>
+
+    <require type="W">5</require>
+    <require type="P">5</require>
+    <require type="level">5</require>
+
+    <damage type="W" min="6" max="14">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="4" max="8">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+    <damage type="P" min="18" max="18">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="18">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="18">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+    <damage type="W" min="6" max="8">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="2" max="4">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="6" max="8">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="2" max="4">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="6" max="8">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="2" max="4">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+    <damage type="P" min="26" max="26">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="26" max="26">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="W" min="12" max="12">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+    <damage type="P" min="26" max="26">
+      <soundInfo type="damage">Weapons/null</soundInfo>
+    </damage>
+
+
+    <range>8</range>
+    <splash type="penetration" iff ="true"/>
+    <script>LiuGuang</script>
+    <maxNum>1</maxNum>
+    <attackSpeed>2.6</attackSpeed>
+    <grade>5</grade>
+  </equipment>
+
+  <equipment id="1262604" type="armor">
+    <name>summerjade_armor_name</name>
+    <no>Armor_no</no>
+    <desc>summerjade_armor_desc</desc>
+    <specialDesc>summerjade_armor_specialDesc</specialDesc>
+
+    <require type="W">5</require>
+    <require type="B">5</require>
+    <require type="level">5</require>
+
+    <armorId>1262604</armorId>
+
+    <defense>
+      <defenseElement type="R">0.8</defenseElement>
+      <defenseElement type="W">0.6</defenseElement>
+      <defenseElement type="B">0.6</defenseElement>
+      <defenseElement type="P">0.6</defenseElement>
+    </defense>
+
+    <grade>5</grade>
+    <maxNum>1</maxNum>
+    <script>KongMing</script>
+
+  </equipment>
+
+<equipment id="1261226" type="special"> 
+    <name>summerjade_gift_name</name>
+    <desc>summerjade_gift_Desc</desc>
+    <attachPos>body_up</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <mental>6</mental>
+      <workProb>3</workProb>
+      <attackSpeed>6</attackSpeed>
+      <movement>3</movement>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_1</sprite>
+  </equipment>
+
+<equipment id="1261046" type="special"> 
+    <name>summerjade_gift2_name</name>
+    <desc>summerjade_gift2_Desc</desc>
+    <attachPos>head</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>-18</hp>
+      <mental>12</mental>
+      <workProb>6</workProb>
+      <attackSpeed>12</attackSpeed>
+      <movement>6</movement>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_2</sprite>
+    <script>GuiZhao</script>
+  </equipment>
+
+  <equipment id="1262612" type="special">
+    <name>summerjade_gift3_name</name>
+    <desc>summerjade_gift3_Desc</desc>
+    <attachPos>headback</attachPos>
+    <attachType>special_add</attachType>
+    <bonus>
+      <hp>-6</hp>
+      <mental>16</mental>
+      <workProb>8</workProb>
+      <movement>4</movement>
+      <attackSpeed>4</attackSpeed>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_3</sprite>
+  </equipment>
+
+  <equipment id="2104612" type="special">
+    <name>Sia_gift_name</name>
+    <desc>Sia_gift_Desc</desc>
+    <attachPos>back</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>2</hp>
+      <mental>12</mental>
+      <cubeSpeed>6</cubeSpeed>
+      <workProb>6</workProb>
+      <movement>8</movement>
+      <attackSpeed>8</attackSpeed>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_4</sprite>
+  </equipment>
+
+  <equipment id="6104626" type="special">
+    <name>Nyx_gift_name</name>
+    <desc>Nyx_gift_Desc</desc>
+    <attachPos>back2</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>6</hp>
+      <mental>12</mental>
+      <movement>12</movement>
+      <attackSpeed>12</attackSpeed>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_5</sprite>
+  </equipment>
+
+  <equipment id="6122646" type="special">
+    <name>Lan_gift_name</name>
+    <desc>Lan_gift_Desc</desc>
+    <attachPos>right_cheek</attachPos>
+    <attachType>add</attachType>
+    <bonus>
+      <hp>12</hp>
+      <mental>6</mental>
+    </bonus>
+    <sprite>2_Qing_Yu_Xie_Gift_6</sprite>
+  </equipment>
+
+</equipment_list>

@@ -1,0 +1,69 @@
+
+skeleton.png
+size: 1475,2170
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ch
+  rotate: true
+  xy: 1446, 1568
+  size: 600, 27
+  orig: 600, 27
+  offset: 0, 0
+  index: -1
+前上翅膀
+  rotate: false
+  xy: 2, 1628
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+前下翅膀
+  rotate: false
+  xy: 724, 1628
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+前中翅膀
+  rotate: false
+  xy: 2, 1086
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+后上翅膀
+  rotate: false
+  xy: 724, 1086
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+后下翅膀
+  rotate: false
+  xy: 2, 544
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+后中翅膀
+  rotate: false
+  xy: 724, 544
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+图层 2
+  rotate: false
+  xy: 2, 2
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1
+脊柱
+  rotate: false
+  xy: 724, 2
+  size: 720, 540
+  orig: 720, 540
+  offset: 0, 0
+  index: -1

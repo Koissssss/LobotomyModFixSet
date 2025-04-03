@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+<text id="Foehn_Weapon_Name">분옥</text>
+<text id="Foehn_Weapon_Desc">옥으로 만든 검이지만, 담금질한 흔적이 남아있다.&#10;고통, 견인, 분산, 신생</text>
+<text id="Foehn_Weapon_SpecialDesc">특수 공격 시 2초 동안 돌진한 뒤 불사조가 현현한다.&#10;불사조는 적을 뚫고 지나가며, 5초 동안 화상 피해를 준다.</text>
+<text id="Foehn_Armor_Name">분옥</text>
+<text id="Foehn_Armor_Desc">고통, 견인, 흩날림, 신생.</text>
+<text id="Foehn_Gift_Name">옥분</text>
+<text id="Foehn_Gift_Desc">체력 +2, 정신력 +2, 공격 속도 +3&#10;'고통'과 '백색광'을 정제하여 응축된 보석이다.</text>
+</localize>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<localize>
+
+  <text id="summerjade_weapon_name">&lt;color=#65C7A4&gt;流&lt;/color&gt;&lt;color=#FFB85C&gt;光&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_specialDesc">&lt;color=#FF0000&gt;警告：正義ランクがV未満の着用者は、鎮圧終了直後にパニックに陥る！&lt;/color&gt;&#13;&#10;この武器はWHITEダメージに等しい&lt;color=#FFB85C&gt;ANTLERダメージ&lt;/color&gt;と、PALEダメージに等しい&lt;color=#FFED2C&gt;STARダメージ&lt;/color&gt;を与える。&#13;&#10;装備者は、攻撃する毎に対象の現在のHPの1.2%に等しい&lt;color=#65C7A4&gt;JADEダメージ&lt;/color&gt;を対象の耐性を無視して与える。&#13;&#10;&lt;color=#FFED2C&gt;防護服“空明”を装備している場合、ダメージの最大値が+8、最小値が+2増加する。&#13;&#10;ギフト“星光”を装備している場合、ダメージの最大値が+4，最小値が+4増加する。&#13;&#10;命中時、現在のSPの2.6%に相当するHPと、最大SPの2.6%に相当するSPを回復する。&#13;&#10;対象のWHITE耐性が0.2未満の場合、追加でその日の内は0.2に修正される。&#13;&#10;この武器は12%の確率で攻撃が強化され、ギフト“星光”又はギフト“桂棹”を装着する事で強化される、また両方装着することで更に強化される。&lt;/color&gt;</text>
+
+  <text id="summerjade_weapon_desc">&lt;color=#65C7A4&gt;この尺が打つ対象が強力であればあるほどに、その傷痕は衝撃的なものとなる。&lt;/color&gt;&#13;&#10;この玉尺の表面は、言葉では言い表せないような輝きを放ち、その手触りは温かく柔らかであり、人々に敬意と畏敬の念を抱かせる。&#13;&#10;玉尺を手に持ち、心に正道を抱けば、すなわち万物の声を通じ、万物の理を知り、仙人に至る。&#13;&#10;しかし、この尺を持ちながら心中の公正を失うのなら、絶え間ない厄運が不相応な者へ付き纏う、死に至るまで。&#13;&#10;&lt;color=#FFB85C&gt;流光は一寸の余裕も許さず、この道は尺を枉げることを甘受する。&lt;/color&gt;</text>
+
+
+  <text id="summerjade_armor_name">&lt;color=#65C7A4&gt;空&lt;/color&gt;&lt;color=#FFB85C&gt;明&lt;/color&gt;</text>
+
+//&lt;color=#FF0000&gt;警告：着用者の慎重ランクと自制ランクのいずれかがV未満の場合、この防具はクリフォト暴走レベルの変更時に効果を失う！（制作中）&lt;/color&gt;&#13;&#10;
+
+  <text id="summerjade_armor_specialDesc">&lt;color=#FFED2C&gt;着用者が制御不能状態に陥った場合、SPが最大値の30%以上なら制御不能状態を解除する。武器“流光”を装備している場合、4つのダメージ耐性が0.2減少する(受けるダメージの減少)。&#13;&#10;着用者のSPが50%以上の場合、リスクレベルHE以下の幻想体から受けるダメージが大幅に減少する。&#13;&#10;着用者のSPが20%以下の場合、受けるWHITEダメージが50%増加する。&lt;/color&gt;</text>
+
+  <text id="summerjade_armor_desc">&lt;color=#65C7A4&gt;この防護服は驚くほどに軽く薄く柔らかな質感で、着用すると幻覚を打破し、邪悪な力を防ぎ、精神を清明に保つことができる。&lt;/color&gt;&#13;&#10;しかし、防護服の表面に飾られた高価な装飾を試練を経ずに取り外してはならない、そうした欲深い行為は、すぐさま防護服に激しく拒絶され、本来の力を失うことになる。&#13;&#10;&lt;color=#FFB85C&gt;仙人が白鶴に乗って空へと去り、その痕跡は空明の中に残される。&lt;/color&gt;</text>
+
+
+  <text id="summerjade_gift_name">&lt;color=#FFB85C&gt;星光&lt;/color&gt;</text>
+  <text id="summerjade_gift_Desc">&lt;color=#FFED2C&gt;SP+6 作業成功率+3 移動速度+3 攻撃速度+6&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;武器“流光”を装備し防護服“空明”を着用している状態で、装着者の攻撃速度が150以上の場合、攻撃する毎に6%の確率で特殊攻撃を使用する。&#13;&#10;このギフトは、ハロウネストの器、灿蓝追金に由来する。（これは公開されたスキンで、Bilibiliにあります）&lt;/color&gt;&#13;&#10;&lt;color=#FFFEC8&gt;陰と陽が調和し、星光が燦爛とする。&lt;/color&gt;</text>
+
+  <text id="summerjade_gift2_name">&lt;color=#65C7A4&gt;桂棹&lt;/color&gt;</text>
+  <text id="summerjade_gift2_Desc">&lt;color=#FFED2C&gt;HP-18 SP+12 作業成功率+6 移動速度+6 攻撃速度+12&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;武器“流光”を装備し防護服“空明”を着用している場合、受けるREDダメージは0.75倍のPALEダメージに変換される。&#13;&#10;欲深い職員のHPが200を超えるなら、災難に見舞われることになる。&lt;/color&gt;&#13;&#10;&lt;color=#65C7A4&gt;私の短い人生を嘆き、長江の果てしない流れを羨む。&lt;/color&gt;</text>
+
+  <text id="summerjade_gift3_name">&lt;color=#FFED2C&gt;夏夜&lt;/color&gt;</text>
+  <text id="summerjade_gift3_Desc">&lt;color=#FFED2C&gt;HP-6 SP+16 作業成功率+8 移動速度+4 攻撃速度+4&lt;/color&gt;&#13;&#10;&lt;color=#FFB85C&gt;武器“流光”と防護服“空明”を同時に装備している場合、移動命令を受けると現在地と目的地にそれぞれ星のポータルを開く(同時に一組まで)。&#13;&#10;このギフトは、レインワールドのイテレーター、夏夜倏玉に由来する。&lt;/color&gt;&#13;&#10;&lt;color=#20594B&gt;我が友に永遠の安らぎを。&lt;/color&gt;</text>
+
+  <text id="summerjade_0armor_name">失効した空明</text>
+  <text id="summerjade_0armor_desc">この防護服の質感は依然として軽く薄く柔らかいが、もはや精神の明晰さを維持することは無い。&#13;&#10;たとえ防護服の表面に飾られていた装飾を再び取り付けたとしても、本来の力が戻ることは無い。&#13;&#10;残されるはただ一片の空明のみ。</text>
+</localize>
